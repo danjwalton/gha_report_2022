@@ -1,0 +1,469 @@
+﻿country,region,dhsmics
+Afghanistan,badakhshan,badakhshan
+Afghanistan,badghis,badghis
+Afghanistan,baghlan,baghlan rural
+Afghanistan,baghlan urban,baghlan urban
+Afghanistan,balkh,balkh rural
+Afghanistan,balkh urban,balkh urban
+Afghanistan,bamyan,bamyan
+Afghanistan,daykundi,daykundi rural
+Afghanistan,farah,farah
+Afghanistan,faryab,faryab rural
+Afghanistan,faryab urban,faryab urban
+Afghanistan,ghazni,ghazni
+Afghanistan,ghor,ghor
+Afghanistan,hilmand,helmand rural
+Afghanistan,helmand urban,helmand urban
+Afghanistan,hirat,herat rural
+Afghanistan,hirat urban,herat urban
+Afghanistan,jawzjan,jawzjan rural
+Afghanistan,jawzjan urban,jawzjan urban
+Afghanistan,kabul,kabul rural
+Afghanistan,kabul urban,kabul urban
+Afghanistan,kandahar,kandahar rural
+Afghanistan,kandahar urban,kandahar urban
+Afghanistan,kapisa,kapisa
+Afghanistan,khost,khost
+Afghanistan,kunar,kunarha
+Afghanistan,kunduz,kunduz rural
+Afghanistan,kunduz urban,kunduz urban
+Afghanistan,laghman,laghman
+Afghanistan,logar,logar
+Afghanistan,nangarhar,nangarhar rural
+Afghanistan,nangarhar urban,nangarhar urban
+Afghanistan,nimroz,nimroz
+Afghanistan,nuristan,nooristan
+Afghanistan,paktika,paktika
+Afghanistan,paktya,paktya
+Afghanistan,panjsher,panjsher
+Afghanistan,parwan,parwan
+Afghanistan,samangan,samangan
+Afghanistan,sari pul,sar-e-pul
+Afghanistan,takhar,takhar rural
+Afghanistan,takhar urban,takhar urban
+Afghanistan,uruzgan,urozgan
+Afghanistan,wardak,wardak
+Afghanistan,zabul,zabul
+Angola,cuangar,cuando cubango
+Angola,cuchi,cuando cubango
+Angola,cahama,cunene
+Angola,cuanhama,cunene
+Angola,ombadja,cunene
+Angola,gambos (ex-chiange),huíla
+Angola,matala,huíla
+Angola,quilengues,huíla
+Burundi,buragane,
+Burundi,crête congo nil,
+Burundi,dépressions de l'est,
+Burundi,dépressions du nord,
+Burundi,haute altitude,
+Burundi,haute altitude,
+Burundi,imbo,
+Burundi,plateaux humides,
+Burundi,plateaux secs de l'est,
+Central African Republic,bamingui-bangoran,Baminigui Bangoran
+Central African Republic,bangui,Bangui
+Central African Republic,bangui ville,Bangui urban
+Central African Republic,basse-kotto,Basse Kotto
+Central African Republic,haut-mbomou,Haut Mbomou
+Central African Republic,haute-kotto,Haute-Kotto
+Central African Republic,kémo,Kémo
+Central African Republic,lobaye,Lobaye
+Central African Republic,mambéré-kadéï,Mambere Kadei
+Central African Republic,mbomou,Mbomou
+Central African Republic,nana-gribizi,Nana Grebizi
+Central African Republic,nana-mambéré,Nana Mambéré
+Central African Republic,ombella m'poko,Ombella Mpoko
+Central African Republic,ouaka,Ouaka
+Central African Republic,ouham,Ouham
+Central African Republic,ouham pendé,Ouham Pende
+Central African Republic,sangha-mbaéré,Sangha Mbaere
+Central African Republic,vakaga,Vakaga
+Central African Republic,concentrations in prefectures analyzed,
+Central African Republic,prefectures,
+Congo Democratic Republic,bas uélé,Bas Uele
+Congo Democratic Republic,equateur,Equateur
+Congo Democratic Republic,haut-katanga,Haut Katanga
+Congo Democratic Republic,haut-lomami,Haut Lomami
+Congo Democratic Republic,haut uélé,Haut Uele
+Congo Democratic Republic,ituri,Ituri
+Congo Democratic Republic,kasaï,Kasai
+Congo Democratic Republic,kasai,Kasai
+Congo Democratic Republic,kasaï central,Kasai Central
+Congo Democratic Republic,kasai central,Kasai Central
+Congo Democratic Republic,kasaï oriental,Kasai Oriental
+Congo Democratic Republic,kasai oriental,Kasai Oriental
+Congo Democratic Republic,kinshasa,Kinshasa
+Congo Democratic Republic,kongo central,Kongo Central
+Congo Democratic Republic,kwango,Kwango
+Congo Democratic Republic,kwilu,Kwilu
+Congo Democratic Republic,lomami,Lomami
+Congo Democratic Republic,lualaba,Lualaba
+Congo Democratic Republic,maï-ndombe,Maindombe
+Congo Democratic Republic,maniema,Maniema
+Congo Democratic Republic,mongala,Mongala
+Congo Democratic Republic,nord kivu,Nord Kivu
+Congo Democratic Republic,nord-kivu,Nord Kivu
+Congo Democratic Republic,nord ubangi,Nord Ubangi
+Congo Democratic Republic,nord-ubangi,Nord Ubangi
+Congo Democratic Republic,sankuru,Sankuru
+Congo Democratic Republic,sud kivu,Sud Kivu
+Congo Democratic Republic,sud-kivu,Sud Kivu
+Congo Democratic Republic,sud ubangi,Sud Ubangi
+Congo Democratic Republic,sud-ubangi,Tanganyika
+Congo Democratic Republic,tanganyika,Tanganyika
+Congo Democratic Republic,tshopo,Tshopo
+Congo Democratic Republic,tshuapa,Tshuapa
+Djibouti,ali sabieh,
+Djibouti,arta,
+Djibouti,dikhil,
+Djibouti,djibouti ville,
+Djibouti,obock,
+Djibouti,tadjourah,
+El Salvador,chalatenango,Central
+El Salvador,la paz,Central
+El Salvador,san vicente,Central
+El Salvador,san salvador,Metropolitana
+El Salvador,ahuachapàn,Occidente
+El Salvador,la libertad,Occidente
+El Salvador,santa ana,Occidente
+El Salvador,sonsonate,Occidente
+El Salvador,la unión,Oriental
+El Salvador,morazán,Oriental
+El Salvador,san miguel,Oriental
+El Salvador,usulután,Oriental
+El Salvador,cabañas,Para Central
+El Salvador,cuscatlàn,Para Central
+Eswatini,hhohho,Hhohho rural
+Eswatini,hhohho urban,Hhohho urban
+Eswatini,lubombo,Lubombo
+Eswatini,manzini,Manzini rural
+Eswatini,manzini urban,Manzini urban
+Eswatini,shiselweni,Shiselweni
+Ethiopia,afar,afar
+Ethiopia,amhara,amhara
+Ethiopia,oromia,oromia
+Ethiopia,oromiya,oromia
+Ethiopia,sidama,snnpr
+Ethiopia,snnp,snnpr
+Ethiopia,snnpr,snnpr
+Ethiopia,somali,somali
+Ethiopia,tigray,tigray
+Guatemala,baja verapaz,central
+Guatemala,chimaltenango,central
+Guatemala,el progreso,central
+Guatemala,sacatepéquez,central
+Guatemala,sololá,central
+Guatemala,totonicapán,central
+Guatemala,guatemala,metropolitana
+Guatemala,guatemala (metropolitana),metropolitana
+Guatemala,huehuetenango,noroccidente
+Guatemala,quiché,noroccidente
+Guatemala,chiquimula,nororiente
+Guatemala,izabal,nororiente
+Guatemala,zacapa,nororiente
+Guatemala,alta verapaz,norte
+Guatemala,petén,norte
+Guatemala,escuintla,suroccidente
+Guatemala,quetzaltenango,suroccidente
+Guatemala,retalhuleu,suroccidente
+Guatemala,san marcos,suroccidente
+Guatemala,suchitepéquez,suroccidente
+Guatemala,jalapa,suroriente
+Guatemala,jutiapa,suroriente
+Guatemala,santa rosa,suroriente
+Haiti,cité_soleil,aire metropolitaine
+Haiti,pétion-ville,aire metropolitaine
+Haiti,port-au-prince,aire metropolitaine
+Haiti,zone métropolitaine,aire metropolitaine
+Haiti,artibonite,artibonite
+Haiti,centre,centre
+Haiti,croix-des-bouquets,centre
+Haiti,grand-anse,grand'anse
+Haiti,nippes,nippes
+Haiti,nord,nord
+Haiti,nord-est,nord-est
+Haiti,nord-ouest,nord-ouest
+Haiti,carrefour,rest-ouest
+Haiti,delmas,rest-ouest
+Haiti,ouest,rest-ouest
+Haiti,tabarre,rest-ouest
+Haiti,sud,sud
+Haiti,sud-est,sud-est
+Honduras,atlántida,Atl?ntida
+Honduras,choluteca,Choluteca
+Honduras,colón,Col?n
+Honduras,comayagua,Comayagua
+Honduras,copán,Cop?n
+Honduras,cortés,Cort?s
+Honduras,el paraíso,El Para?so
+Honduras,francisco morazán,Francisco Moraz?n
+Honduras,gracias a dios,Gracias a Dios
+Honduras,intibucá,Intibuc?
+Honduras,islas de la bahía,Islas de la Bah?a
+Honduras,la paz,La Paz
+Honduras,lempira,Lempira
+Honduras,ocotepeque,Ocotepeque
+Honduras,olancho,Olancho
+Honduras,santa bárbara,Santa B?rbara
+Honduras,valle,Valle
+Honduras,yoro,Yoro
+Honduras,occidente,
+Kenya,nyeri,central
+Kenya,kilifi,coast
+Kenya,kwale,coast
+Kenya,lamu,coast
+Kenya,lamu county,coast
+Kenya,taita,coast
+Kenya,taita taveta,coast
+Kenya,tana river,coast
+Kenya,embu,eastern
+Kenya,embu (mbeere),eastern
+Kenya,isiolo,eastern
+Kenya,kitui,eastern
+Kenya,makueni,eastern
+Kenya,marsabit,eastern
+Kenya,meru,eastern
+Kenya,tharaka,eastern
+Kenya,tharaka-nithi,eastern
+Kenya,garissa,north eastern
+Kenya,mandera,north eastern
+Kenya,wajir,north eastern
+Kenya,baringo,rift valley
+Kenya,kajiado,rift valley
+Kenya,laikipia,rift valley
+Kenya,narok,rift valley
+Kenya,samburu,rift valley
+Kenya,turkana,rift valley
+Kenya,west pokot,rift valley
+Kenya,asal counties,
+Kenya,urban analysis,
+LAC Region (tri-National),ocotepeque,Ocotepeque
+LAC Region (tri-National),ocotopeque,Ocotepeque
+LAC Region (tri-National),cayaguanca,
+LAC Region (tri-National),chorti,
+LAC Region (tri-National),guija,
+Lesotho,butha-buthe,Foothills
+Lesotho,maseru,Foothills
+Lesotho,berea,Lowlands
+Lesotho,leribe,Lowlands
+Lesotho,mafeteng,Lowlands
+Lesotho,mohale's hoek,Lowlands
+Lesotho,mokhotlong,Mountains
+Lesotho,thaba tseka,Mountains
+Lesotho,qacha's nek,Senqu river valley
+Lesotho,quthing,Senqu river valley
+Madagascar,androy,ANDROY
+Madagascar,androy,ANDROY
+Madagascar,anosy,ANOSY
+Madagascar,anosy,ANOSY
+Madagascar,atsimo andrefana,ATSIMO ANDREFANA
+Madagascar,atsimo andrefana,ATSIMO ANDREFANA
+Madagascar,atsimo atsinanana,ATSIMO ATSINANANA
+Madagascar,atsimo atsinanana,ATSIMO ATSINANANA
+Madagascar,vatovavy fitovinany,VATOVAVY FITOVINANY
+Madagascar,vatovavy fitovinany,VATOVAVY FITOVINANY
+Malawi,dedza,central region
+Malawi,dowa,central region
+Malawi,kasungu,central region
+Malawi,lilongwe,central region
+Malawi,mchinji,central region
+Malawi,nkhotakota,central region
+Malawi,ntcheu,central region
+Malawi,ntchisi,central region
+Malawi,salima,central region
+Malawi,lilongwe city,central region urban
+Malawi,chitipa,northern region
+Malawi,karonga,northern region
+Malawi,likoma,northern region
+Malawi,mzimba,northern region
+Malawi,nkhata bay,northern region
+Malawi,rumphi,northern region
+Malawi,mzuzu city,northern region urban
+Malawi,balaka,southern region
+Malawi,blantyre,southern region
+Malawi,chikhwawa,southern region
+Malawi,chiradzulu,southern region
+Malawi,machinga,southern region
+Malawi,mangochi,southern region
+Malawi,mulanje,southern region
+Malawi,mwanza,southern region
+Malawi,neno,southern region
+Malawi,nsanje,southern region
+Malawi,phalombe,southern region
+Malawi,thyolo,southern region
+Malawi,zomba,southern region
+Malawi,blantyre city,southern region urban
+Malawi,zomba city,southern region urban
+Mauritania,adrar,Adrar
+Mauritania,assaba,Assaba
+Mauritania,brakna,Brakna
+Mauritania,dakhlet-nouadhibou,Dakhlett Nouadibou
+Mauritania,gorgol,Gorgol
+Mauritania,guidimakha,Guidimagha
+Mauritania,hodh ech chargi,Hodh charghy
+Mauritania,hodh el gharbi,Hodh Gharby
+Mauritania,inchiri,Inchiri
+Mauritania,nouakchott,Nouakchott
+Mauritania,tagant,Tagant
+Mauritania,tiris-zemmour,Tirs-ezemour
+Mauritania,trarza,Trarza
+Mozambique,cabo delgado,Cabo Delgado
+Mozambique,gaza,Gaza
+Mozambique,inhambane,Inhambane
+Mozambique,manica,Manica
+Mozambique,maputo city,Maputo cidade
+Mozambique,maputo,Maputo provincia
+Mozambique,maputo e matola,Maputo provincia
+Mozambique,nampula,Nampula
+Mozambique,niassa,Niassa
+Mozambique,sofala,Sofala
+Mozambique,tete,Tete
+Mozambique,zambezia,Zambezia
+Mozambique,centro,
+Mozambique,sul,
+Namibia,zambezi,caprivi
+Namibia,erongo,erongo
+Namibia,hardap,hardap
+Namibia,karas,karas
+Namibia,kavango east,kavango
+Namibia,kavango west,kavango
+Namibia,khomas,khomas
+Namibia,kunene,kunene
+Namibia,ohangwena,ohangwena
+Namibia,omaheke,omaheke
+Namibia,omusati,omusati
+Namibia,oshana,oshana
+Namibia,oshikoto,oshikoto
+Namibia,otjozondjupa,otjozondjupa
+Pakistan,balochistan,balochistan
+Pakistan,bajaur,kpk
+Pakistan,khyber,kpk
+Pakistan,kurram,kpk
+Pakistan,mohmand,kpk
+Pakistan,north waziristan,kpk
+Pakistan,orakzai,kpk
+Pakistan,south waziristan,kpk
+Pakistan,tribal sub division bannu,kpk
+Pakistan,tribal sub division dera ismail khan,kpk
+Pakistan,tribal sub division kohat,kpk
+Pakistan,tribal sub division lakki marwat,kpk
+Pakistan,tribal sub division peshawar,kpk
+Pakistan,tribal sub division tank,kpk
+Pakistan,sindh,sindh
+Somalia,bakool,Central South
+Somalia,banadir,Central South
+Somalia,bay,Central South
+Somalia,galgaduud,Central South
+Somalia,gedo,Central South
+Somalia,hiraan,Central South
+Somalia,juba dhexe,Central South
+Somalia,juba hoose,Central South
+Somalia,shabelle dhexe,Central South
+Somalia,shabelle hoose,Central South
+Somalia,bari,North East
+Somalia,mudug,North East
+Somalia,nugaal,North East
+Somalia,awdal,North West
+Somalia,sanaag,North West
+Somalia,sool,North West
+Somalia,togdheer,North West
+Somalia,woqooyi galbeed,North West
+South Africa,eastern cape,eastern cape
+South Africa,free state,free state
+South Africa,gauteng,gauteng
+South Africa,kwazulu-natal,kwazulu-natal
+South Africa,limpopo,limpopo
+South Africa,mpumalanga,mpumalanga
+South Africa,north west,north west
+South Africa,nothern cape,northern cape
+South Africa,western cape,western cape
+South Sudan,central equatoria,Central Equatoria
+South Sudan,eastern equatoria,Eastern Equatoria
+South Sudan,jonglei,Jonglei
+South Sudan,lakes,Lakes
+South Sudan,northern bahr el ghazal,Northern Bahr El Ghazal
+South Sudan,unity,Unity
+South Sudan,upper nile,Upper Nile
+South Sudan,warrap,Warap
+South Sudan,western bahr el ghazal,Western Bahr El Ghazal
+South Sudan,western equatoria,Western Equatoria
+Sudan,blue nile,Blue Nile
+Sudan,central darfur,Central Darfor
+Sudan,east darfur,East Darfor
+Sudan,gedaref,Gadarif
+Sudan,aj jazirah,Gezira
+Sudan,kassala,Kassala
+Sudan,khartoum,Khartoum
+Sudan,north darfur,North Darfor
+Sudan,north kordofan,North Kordofan
+Sudan,northern,Northern
+Sudan,red sea,Red Sea
+Sudan,river nile,River Nile
+Sudan,sennar,Sinnar
+Sudan,south darfur,South Darfor
+Sudan,south kordofan,South Kordofan
+Sudan,west darfur,West Darfor
+Sudan,west kordofan,West Kordofan
+Sudan,white nile,White Nile
+Tanzania,longido,arusha
+Tanzania,bahi,dodoma
+Tanzania,kongwa,dodoma
+Tanzania,mpwapwa,dodoma
+Tanzania,chamwino,dodoma urban
+Tanzania,mwanga,kilimanjaro
+Tanzania,same,kilimanjaro
+Tanzania,simanjiro,manyara
+Tanzania,musoma,mara
+Tanzania,rorya,mara
+Tanzania,kishapu,shinyanga
+Tanzania,shinyanga,shinyanga
+Tanzania,manyoni,singida
+Tanzania,nzega,tabora
+Tanzania,korogwe,tanga
+Tanzania,mkinga,tanga
+Uganda,kampala city,kampala urban
+Uganda,karamoja,karamoja
+Uganda,refugee hosting districts,
+Uganda,refugee settlements,
+Uganda,urban centers,
+Yemen,abyan,abyan
+Yemen,aden,aden
+Yemen,al bayda,al-baidha
+Yemen,al dhale'e,aldhalae
+Yemen,al hudaydah,al-hodiedah
+Yemen,al jawf,al-jawf
+Yemen,al maharah,al-mhrah
+Yemen,al mahwit,al-mhweit
+Yemen,amran,amran
+Yemen,dhamar,dhamar
+Yemen,hadramaut,hadramout
+Yemen,socotra,hadramout
+Yemen,hajjah,hajjah
+Yemen,ibb,ibb
+Yemen,lahj,lahj
+Yemen,marib,mareb
+Yemen,sa'ada,sadah
+Yemen,raymah,sanaa
+Yemen,sana'a,sanaa
+Yemen,amanat al asimah,sanaa city
+Yemen,shabwah,shabwah
+Yemen,taizz,taiz
+Zambia,central,central
+Zambia,copperbelt,copperbelt
+Zambia,eastern,eastern
+Zambia,luapula,luapula
+Zambia,lusaka,lusaka
+Zambia,muchiga,muchinga
+Zambia,north-western,north western
+Zambia,northern,northern
+Zambia,southern,southern
+Zambia,western,western
+Zimbabwe,manicaland,Manicaland
+Zimbabwe,mashonaland central,Mashonaland Central
+Zimbabwe,mashonaland east,Mashonaland East
+Zimbabwe,mashonaland west,Mashonaland West
+Zimbabwe,masvingo,Masvingo
+Zimbabwe,matabeleland north,Matabeleland North
+Zimbabwe,matabeleland south,Matabeleland South
+Zimbabwe,midlands,Midlands
