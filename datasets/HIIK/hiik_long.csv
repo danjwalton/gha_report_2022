@@ -1,0 +1,3109 @@
+obs,iso3,country,type,variable,value,year
+316,AFG,Afghanistan,substate,intensity_2021,2,2021
+325,AFG,Afghanistan,intrastate,intensity_2021,5,2021
+353,AFG,Afghanistan,interstate,intensity_2021,3,2021
+44,ALB,Albania,intrastate,intensity_2021,3,2021
+310,DZA,Algeria,interstate,intensity_2021,2,2021
+323,DZA,Algeria,intrastate,intensity_2021,1,2021
+336,DZA,Algeria,intrastate,intensity_2021,3,2021
+65,AGO,Angola,intrastate,intensity_2021,3,2021
+148,ARG,Argentina,interstate,intensity_2021,1,2021
+7,ARM,Armenia,interstate,intensity_2021,1,2021
+15,ARM,Armenia,intrastate,intensity_2021,3,2021
+33,ARM,Armenia,interstate,intensity_2021,3,2021
+6,AZE,Azerbaijan,intrastate,intensity_2021,3,2021
+14,AZE,Azerbaijan,intrastate,intensity_2021,3,2021
+33,AZE,Azerbaijan,interstate,intensity_2021,3,2021
+335,BHR,Bahrain,intrastate,intensity_2021,2,2021
+217,BGD,Bangladesh,intrastate,intensity_2021,3,2021
+263,BGD,Bangladesh,intrastate,intensity_2021,3,2021
+264,BGD,Bangladesh,intrastate,intensity_2021,3,2021
+268,BGD,Bangladesh,intrastate,intensity_2021,3,2021
+8,BLR,Belarus,intrastate,intensity_2021,3,2021
+17,BLR,Belarus,interstate,intensity_2021,2,2021
+146,BLZ,Belize,interstate,intensity_2021,3,2021
+144,BOL,Bolivia,intrastate,intensity_2021,3,2021
+172,BOL,Bolivia,intrastate,intensity_2021,3,2021
+175,BOL,Bolivia,interstate,intensity_2021,1,2021
+22,BIH,Bosnia and Herzegovina,intrastate,intensity_2021,1,2021
+152,BRA,Brazil,intrastate,intensity_2021,2,2021
+180,BRA,Brazil,intrastate,intensity_2021,4,2021
+189,BRA,Brazil,intrastate,intensity_2021,3,2021
+190,BRA,Brazil,intrastate,intensity_2021,3,2021
+46,BGR,Bulgaria,intrastate,intensity_2021,2,2021
+115,BFA,Burkina Faso,intrastate,intensity_2021,3,2021
+116,BFA,Burkina Faso,intrastate,intensity_2021,4,2021
+322,BFA,Burkina Faso,transstate,intensity_2021,5,2021
+59,BDI,Burundi,interstate,intensity_2021,1,2021
+87,BDI,Burundi,transstate,intensity_2021,3,2021
+88,BDI,Burundi,intrastate,intensity_2021,3,2021
+208,KHM,Cambodia,intrastate,intensity_2021,2,2021
+243,KHM,Cambodia,interstate,intensity_2021,1,2021
+93,CMR,Cameroon,intrastate,intensity_2021,5,2021
+68,CAF,Central African Republic,transstate,intensity_2021,3,2021
+117,CAF,Central African Republic,intrastate,intensity_2021,5,2021
+84,TCD,Chad,substate,intensity_2021,3,2021
+85,TCD,Chad,intrastate,intensity_2021,4,2021
+86,TCD,Chad,intrastate,intensity_2021,3,2021
+113,TCD,Chad,transstate,intensity_2021,5,2021
+165,CHL,Chile,intrastate,intensity_2021,3,2021
+168,CHL,Chile,interstate,intensity_2021,1,2021
+169,CHL,Chile,intrastate,intensity_2021,3,2021
+170,CHL,Chile,intrastate,intensity_2021,2,2021
+175,CHL,Chile,interstate,intensity_2021,1,2021
+210,CHN,China,interstate,intensity_2021,2,2021
+225,CHN,China,intrastate,intensity_2021,2,2021
+226,CHN,China,intrastate,intensity_2021,2,2021
+227,CHN,China,intrastate,intensity_2021,1,2021
+228,CHN,China,intrastate,intensity_2021,2,2021
+229,CHN,China,interstate,intensity_2021,3,2021
+230,CHN,China,intrastate,intensity_2021,2,2021
+231,CHN,China,interstate,intensity_2021,2,2021
+232,CHN,China,interstate,intensity_2021,2,2021
+234,CHN,China,interstate,intensity_2021,1,2021
+242,CHN,China,intrastate,intensity_2021,2,2021
+277,CHN,China,intrastate,intensity_2021,3,2021
+286,CHN,China,intrastate,intensity_2021,2,2021
+295,CHN,China,transstate,intensity_2021,1,2021
+138,COL,Colombia,intrastate,intensity_2021,3,2021
+139,COL,Colombia,interstate,intensity_2021,1,2021
+140,COL,Colombia,intrastate,intensity_2021,3,2021
+143,COL,Colombia,substate,intensity_2021,4,2021
+153,COL,Colombia,intrastate,intensity_2021,3,2021
+154,COL,Colombia,intrastate,intensity_2021,3,2021
+155,COL,Colombia,intrastate,intensity_2021,3,2021
+156,COL,Colombia,intrastate,intensity_2021,3,2021
+162,COL,Colombia,interstate,intensity_2021,1,2021
+193,COL,Colombia,interstate,intensity_2021,2,2021
+23,HRV,Croatia,interstate,intensity_2021,1,2021
+41,HRV,Croatia,substate,intensity_2021,2,2021
+150,CUB,Cuba,interstate,intensity_2021,2,2021
+173,CUB,Cuba,intrastate,intensity_2021,3,2021
+174,CUB,Cuba,interstate,intensity_2021,1,2021
+34,CYP,Cyprus,intrastate,intensity_2021,2,2021
+38,CYP,Cyprus,interstate,intensity_2021,2,2021
+71,,Côte d’Ivoire,intrastate,intensity_2021,2,2021
+99,,Côte d’Ivoire,intrastate,intensity_2021,2,2021
+56,COD,DR Congo,substate,intensity_2021,4,2021
+58,COD,DR Congo,intrastate,intensity_2021,3,2021
+68,COD,DR Congo,transstate,intensity_2021,3,2021
+70,COD,DR Congo,transstate,intensity_2021,5,2021
+81,COD,DR Congo,intrastate,intensity_2021,5,2021
+87,COD,DR Congo,transstate,intensity_2021,3,2021
+89,COD,DR Congo,intrastate,intensity_2021,5,2021
+90,COD,DR Congo,transstate,intensity_2021,3,2021
+95,COD,DR Congo,intrastate,intensity_2021,2,2021
+97,COD,DR Congo,intrastate,intensity_2021,2,2021
+101,COD,DR Congo,intrastate,intensity_2021,3,2021
+119,DJI,Djibouti,interstate,intensity_2021,1,2021
+127,DJI,Djibouti,intrastate,intensity_2021,1,2021
+129,DJI,Djibouti,intrastate,intensity_2021,3,2021
+177,DOM,Dominican Republic,interstate,intensity_2021,1,2021
+17,,EU,interstate,intensity_2021,2,2021
+141,ECU,Ecuador,intrastate,intensity_2021,3,2021
+176,ECU,Ecuador,substate,intensity_2021,3,2021
+122,EGY,Egypt,interstate,intensity_2021,2,2021
+302,EGY,Egypt,interstate,intensity_2021,1,2021
+313,EGY,Egypt,intrastate,intensity_2021,3,2021
+333,EGY,Egypt,intrastate,intensity_2021,3,2021
+337,EGY,Egypt,substate,intensity_2021,2,2021
+185,SLV,El Salvador,intrastate,intensity_2021,3,2021
+186,SLV,El Salvador,interstate,intensity_2021,1,2021
+187,SLV,El Salvador,substate,intensity_2021,3,2021
+188,SLV,El Salvador,intrastate,intensity_2021,3,2021
+119,ERI,Eritrea,interstate,intensity_2021,1,2021
+128,ERI,Eritrea,intrastate,intensity_2021,1,2021
+135,ERI,Eritrea,transstate,intensity_2021,5,2021
+12,EST,Estonia,interstate,intensity_2021,2,2021
+69,ETH,Ethiopia,intrastate,intensity_2021,5,2021
+80,ETH,Ethiopia,intrastate,intensity_2021,4,2021
+94,ETH,Ethiopia,interstate,intensity_2021,3,2021
+122,ETH,Ethiopia,interstate,intensity_2021,2,2021
+132,ETH,Ethiopia,substate,intensity_2021,5,2021
+135,ETH,Ethiopia,transstate,intensity_2021,5,2021
+219,FJI,Fiji,interstate,intensity_2021,1,2021
+32,FRA,France,intrastate,intensity_2021,2,2021
+40,FRA,France,interstate,intensity_2021,2,2021
+114,GAB,Gabon,intrastate,intensity_2021,1,2021
+123,GMB,Gambia,intrastate,intensity_2021,3,2021
+1,GEO,Georgia,interstate,intensity_2021,2,2021
+2,GEO,Georgia,intrastate,intensity_2021,2,2021
+3,GEO,Georgia,intrastate,intensity_2021,2,2021
+13,GEO,Georgia,intrastate,intensity_2021,3,2021
+4,DEU,Germany,intrastate,intensity_2021,3,2021
+124,GHA,Ghana,intrastate,intensity_2021,2,2021
+18,GRC,Greece,intrastate,intensity_2021,3,2021
+35,GRC,Greece,interstate,intensity_2021,2,2021
+38,GRC,Greece,interstate,intensity_2021,2,2021
+42,GRC,Greece,intrastate,intensity_2021,1,2021
+43,GRC,Greece,substate,intensity_2021,3,2021
+146,GTM,Guatemala,interstate,intensity_2021,3,2021
+178,GTM,Guatemala,intrastate,intensity_2021,3,2021
+182,GTM,Guatemala,intrastate,intensity_2021,3,2021
+82,GIN,Guinea,intrastate,intensity_2021,3,2021
+66,,Guinea-Bissau,intrastate,intensity_2021,2,2021
+194,GUY,Guyana,interstate,intensity_2021,2,2021
+149,HTI,Haiti,intrastate,intensity_2021,3,2021
+177,HTI,Haiti,interstate,intensity_2021,1,2021
+179,HND,Honduras,substate,intensity_2021,3,2021
+183,HND,Honduras,intrastate,intensity_2021,3,2021
+184,HND,Honduras,intrastate,intensity_2021,3,2021
+186,HND,Honduras,interstate,intensity_2021,1,2021
+36,HUN,Hungary,transstate,intensity_2021,1,2021
+37,HUN,Hungary,substate,intensity_2021,2,2021
+204,IND,India,intrastate,intensity_2021,1,2021
+212,IND,India,substate,intensity_2021,3,2021
+213,IND,India,intrastate,intensity_2021,3,2021
+214,IND,India,interstate,intensity_2021,3,2021
+220,IND,India,substate,intensity_2021,3,2021
+229,IND,India,interstate,intensity_2021,3,2021
+235,IND,India,intrastate,intensity_2021,3,2021
+236,IND,India,intrastate,intensity_2021,3,2021
+238,IND,India,intrastate,intensity_2021,3,2021
+239,IND,India,substate,intensity_2021,3,2021
+247,IND,India,intrastate,intensity_2021,3,2021
+252,IND,India,intrastate,intensity_2021,3,2021
+253,IND,India,intrastate,intensity_2021,3,2021
+267,IND,India,intrastate,intensity_2021,2,2021
+269,IND,India,intrastate,intensity_2021,3,2021
+270,IND,India,intrastate,intensity_2021,3,2021
+273,IND,India,substate,intensity_2021,3,2021
+274,IND,India,intrastate,intensity_2021,3,2021
+276,IND,India,intrastate,intensity_2021,3,2021
+291,IND,India,intrastate,intensity_2021,2,2021
+292,IND,India,intrastate,intensity_2021,3,2021
+221,IDN,Indonesia,intrastate,intensity_2021,1,2021
+222,IDN,Indonesia,intrastate,intensity_2021,3,2021
+223,IDN,Indonesia,intrastate,intensity_2021,3,2021
+233,IDN,Indonesia,substate,intensity_2021,2,2021
+250,IDN,Indonesia,interstate,intensity_2021,1,2021
+278,IDN,Indonesia,substate,intensity_2021,2,2021
+279,IDN,Indonesia,intrastate,intensity_2021,1,2021
+296,IRN,Iran,interstate,intensity_2021,1,2021
+297,IRN,Iran,intrastate,intensity_2021,3,2021
+298,IRN,Iran,intrastate,intensity_2021,2,2021
+299,IRN,Iran,interstate,intensity_2021,2,2021
+308,IRN,Iran,intrastate,intensity_2021,3,2021
+309,IRN,Iran,interstate,intensity_2021,3,2021
+334,IRN,Iran,interstate,intensity_2021,1,2021
+350,IRN,Iran,intrastate,intensity_2021,3,2021
+351,IRN,Iran,intrastate,intensity_2021,3,2021
+300,IRQ,Iraq,intrastate,intensity_2021,3,2021
+303,IRQ,Iraq,transstate,intensity_2021,5,2021
+311,IRQ,Iraq,intrastate,intensity_2021,1,2021
+338,IRQ,Iraq,intrastate,intensity_2021,3,2021
+346,IRQ,Iraq,intrastate,intensity_2021,3,2021
+301,ISR,Israel,intrastate,intensity_2021,3,2021
+306,ISR,Israel,interstate,intensity_2021,2,2021
+309,ISR,Israel,interstate,intensity_2021,3,2021
+312,ISR,Israel,intrastate,intensity_2021,4,2021
+327,ISR,Israel,interstate,intensity_2021,3,2021
+331,ISR,Israel,interstate,intensity_2021,3,2021
+181,JAM,Jamaica,intrastate,intensity_2021,3,2021
+200,JPN,Japan,interstate,intensity_2021,1,2021
+201,JPN,Japan,interstate,intensity_2021,1,2021
+202,JPN,Japan,interstate,intensity_2021,2,2021
+232,JPN,Japan,interstate,intensity_2021,2,2021
+339,JOR,Jordan,intrastate,intensity_2021,3,2021
+246,KAZ,Kazakhstan,intrastate,intensity_2021,2,2021
+51,KEN,Kenya,intrastate,intensity_2021,1,2021
+67,KEN,Kenya,substate,intensity_2021,3,2021
+78,KEN,Kenya,intrastate,intensity_2021,1,2021
+92,KEN,Kenya,transstate,intensity_2021,5,2021
+126,KEN,Kenya,interstate,intensity_2021,1,2021
+27,XKX,Kosovo,interstate,intensity_2021,2,2021
+50,XKX,Kosovo,intrastate,intensity_2021,1,2021
+347,KWT,Kuwait,intrastate,intensity_2021,1,2021
+349,KWT,Kuwait,intrastate,intensity_2021,1,2021
+251,KGZ,Kyrgyzstan,intrastate,intensity_2021,2,2021
+287,KGZ,Kyrgyzstan,interstate,intensity_2021,4,2021
+206,LAO,Laos,intrastate,intensity_2021,3,2021
+288,LAO,Laos,intrastate,intensity_2021,1,2021
+31,LVA,Latvia,interstate,intensity_2021,1,2021
+306,LBN,Lebanon,interstate,intensity_2021,2,2021
+319,LBN,Lebanon,substate,intensity_2021,1,2021
+321,LBN,Lebanon,intrastate,intensity_2021,3,2021
+38,LBY,Libya,interstate,intensity_2021,2,2021
+340,LBY,Libya,intrastate,intensity_2021,3,2021
+354,LBY,Libya,substate,intensity_2021,1,2021
+205,MYS,Malaysia,interstate,intensity_2021,1,2021
+209,MYS,Malaysia,intrastate,intensity_2021,1,2021
+271,MYS,Malaysia,substate,intensity_2021,1,2021
+244,MDV,Maldives,intrastate,intensity_2021,3,2021
+63,MLI,Mali,intrastate,intensity_2021,1,2021
+64,MLI,Mali,transstate,intensity_2021,5,2021
+77,MLI,Mali,substate,intensity_2021,4,2021
+133,MLI,Mali,substate,intensity_2021,3,2021
+136,MLI,Mali,intrastate,intensity_2021,3,2021
+322,MLI,Mali,transstate,intensity_2021,5,2021
+352,MRT,Mauritania,intrastate,intensity_2021,2,2021
+145,MEX,Mexico,intrastate,intensity_2021,1,2021
+147,MEX,Mexico,substate,intensity_2021,4,2021
+151,MEX,Mexico,intrastate,intensity_2021,2,2021
+157,MEX,Mexico,intrastate,intensity_2021,1,2021
+158,MEX,Mexico,intrastate,intensity_2021,3,2021
+159,MEX,Mexico,interstate,intensity_2021,3,2021
+163,MEX,Mexico,intrastate,intensity_2021,3,2021
+164,MEX,Mexico,intrastate,intensity_2021,4,2021
+21,MDA,Moldova,intrastate,intensity_2021,1,2021
+30,MDA,Moldova,intrastate,intensity_2021,2,2021
+45,MNE,Montenegro,intrastate,intensity_2021,3,2021
+310,MAR,Morocco,interstate,intensity_2021,2,2021
+324,MAR,Morocco,intrastate,intensity_2021,3,2021
+341,MAR,Morocco,intrastate,intensity_2021,2,2021
+55,MOZ,Mozambique,intrastate,intensity_2021,5,2021
+121,MOZ,Mozambique,intrastate,intensity_2021,3,2021
+207,MMR,Myanmar,intrastate,intensity_2021,5,2021
+218,MMR,Myanmar,intrastate,intensity_2021,3,2021
+257,MMR,Myanmar,intrastate,intensity_2021,3,2021
+258,MMR,Myanmar,intrastate,intensity_2021,3,2021
+259,MMR,Myanmar,intrastate,intensity_2021,3,2021
+260,MMR,Myanmar,intrastate,intensity_2021,4,2021
+261,MMR,Myanmar,substate,intensity_2021,3,2021
+262,MMR,Myanmar,intrastate,intensity_2021,1,2021
+265,MMR,Myanmar,intrastate,intensity_2021,3,2021
+282,MMR,Myanmar,intrastate,intensity_2021,3,2021
+294,MMR,Myanmar,intrastate,intensity_2021,4,2021
+224,NPL,Nepal,intrastate,intensity_2021,3,2021
+255,NPL,Nepal,intrastate,intensity_2021,2,2021
+283,NPL,Nepal,intrastate,intensity_2021,2,2021
+162,NIC,Nicaragua,interstate,intensity_2021,1,2021
+167,NIC,Nicaragua,intrastate,intensity_2021,3,2021
+195,NIC,Nicaragua,intrastate,intensity_2021,3,2021
+98,NER,Niger,intrastate,intensity_2021,3,2021
+60,NGA,Nigeria,intrastate,intensity_2021,3,2021
+64,NGA,Nigeria,transstate,intensity_2021,5,2021
+73,NGA,Nigeria,substate,intensity_2021,3,2021
+76,NGA,Nigeria,intrastate,intensity_2021,3,2021
+79,NGA,Nigeria,intrastate,intensity_2021,3,2021
+100,NGA,Nigeria,substate,intensity_2021,5,2021
+108,NGA,Nigeria,substate,intensity_2021,3,2021
+109,NGA,Nigeria,intrastate,intensity_2021,2,2021
+110,NGA,Nigeria,intrastate,intensity_2021,2,2021
+113,NGA,Nigeria,transstate,intensity_2021,5,2021
+198,PRK,North Korea,interstate,intensity_2021,2,2021
+202,PRK,North Korea,interstate,intensity_2021,2,2021
+295,PRK,North Korea,transstate,intensity_2021,1,2021
+28,MKD,North Macedonia,substate,intensity_2021,3,2021
+49,MKD,North Macedonia,intrastate,intensity_2021,1,2021
+10,NOR,Norway,interstate,intensity_2021,2,2021
+342,OMN,Oman,intrastate,intensity_2021,1,2021
+214,PAK,Pakistan,interstate,intensity_2021,3,2021
+248,PAK,Pakistan,intrastate,intensity_2021,3,2021
+249,PAK,Pakistan,substate,intensity_2021,3,2021
+254,PAK,Pakistan,intrastate,intensity_2021,3,2021
+256,PAK,Pakistan,intrastate,intensity_2021,3,2021
+284,PAK,Pakistan,intrastate,intensity_2021,3,2021
+290,PAK,Pakistan,intrastate,intensity_2021,3,2021
+353,PAK,Pakistan,interstate,intensity_2021,3,2021
+211,PNG,Papua New Guinea,substate,intensity_2021,1,2021
+215,PNG,Papua New Guinea,intrastate,intensity_2021,1,2021
+216,PNG,Papua New Guinea,substate,intensity_2021,3,2021
+272,PNG,Papua New Guinea,intrastate,intensity_2021,1,2021
+289,PNG,Papua New Guinea,intrastate,intensity_2021,1,2021
+160,PRY,Paraguay,intrastate,intensity_2021,3,2021
+166,PER,Peru,intrastate,intensity_2021,2,2021
+171,PER,Peru,intrastate,intensity_2021,3,2021
+196,PHL,Philippines,intrastate,intensity_2021,3,2021
+197,PHL,Philippines,intrastate,intensity_2021,4,2021
+199,PHL,Philippines,intrastate,intensity_2021,4,2021
+203,PHL,Philippines,intrastate,intensity_2021,1,2021
+266,PHL,Philippines,intrastate,intensity_2021,3,2021
+280,PHL,Philippines,intrastate,intensity_2021,4,2021
+281,PHL,Philippines,substate,intensity_2021,2,2021
+326,QAT,Qatar,interstate,intensity_2021,1,2021
+75,COG,Republic of Congo,intrastate,intensity_2021,1,2021
+36,ROU,Romania,transstate,intensity_2021,1,2021
+1,RUS,Russia,interstate,intensity_2021,2,2021
+9,RUS,Russia,intrastate,intensity_2021,3,2021
+10,RUS,Russia,interstate,intensity_2021,2,2021
+12,RUS,Russia,interstate,intensity_2021,2,2021
+17,RUS,Russia,interstate,intensity_2021,2,2021
+31,RUS,Russia,interstate,intensity_2021,1,2021
+39,RUS,Russia,interstate,intensity_2021,2,2021
+48,RUS,Russia,intrastate,intensity_2021,3,2021
+200,RUS,Russia,interstate,intensity_2021,1,2021
+329,RUS,Russia,interstate,intensity_2021,2,2021
+59,RWA,Rwanda,interstate,intensity_2021,1,2021
+90,RWA,Rwanda,transstate,intensity_2021,3,2021
+111,RWA,Rwanda,intrastate,intensity_2021,1,2021
+131,RWA,Rwanda,interstate,intensity_2021,1,2021
+304,SAU,Saudi Arabia,transstate,intensity_2021,5,2021
+314,SAU,Saudi Arabia,intrastate,intensity_2021,1,2021
+326,SAU,Saudi Arabia,interstate,intensity_2021,1,2021
+328,SAU,Saudi Arabia,intrastate,intensity_2021,3,2021
+334,SAU,Saudi Arabia,interstate,intensity_2021,1,2021
+355,SAU,Saudi Arabia,transstate,intensity_2021,3,2021
+91,SEN,Senegal,intrastate,intensity_2021,3,2021
+27,SRB,Serbia,interstate,intensity_2021,2,2021
+47,SRB,Serbia,intrastate,intensity_2021,1,2021
+107,SLE,Sierra Leone,intrastate,intensity_2021,3,2021
+205,SGP,Singapore,interstate,intensity_2021,1,2021
+36,SVK,Slovakia,transstate,intensity_2021,1,2021
+23,SVN,Slovenia,interstate,intensity_2021,1,2021
+61,SOM,Somalia,intrastate,intensity_2021,1,2021
+83,SOM,Somalia,intrastate,intensity_2021,3,2021
+92,SOM,Somalia,transstate,intensity_2021,5,2021
+103,SOM,Somalia,intrastate,intensity_2021,2,2021
+120,SOM,Somalia,substate,intensity_2021,3,2021
+126,SOM,Somalia,interstate,intensity_2021,1,2021
+54,ZAF,South Africa,intrastate,intensity_2021,3,2021
+96,ZAF,South Africa,substate,intensity_2021,3,2021
+130,ZAF,South Africa,intrastate,intensity_2021,4,2021
+198,KOR,South Korea,interstate,intensity_2021,2,2021
+201,KOR,South Korea,interstate,intensity_2021,1,2021
+202,KOR,South Korea,interstate,intensity_2021,2,2021
+234,KOR,South Korea,interstate,intensity_2021,1,2021
+104,SSD,South Sudan,interstate,intensity_2021,1,2021
+106,SSD,South Sudan,substate,intensity_2021,3,2021
+112,SSD,South Sudan,substate,intensity_2021,5,2021
+134,SSD,South Sudan,intrastate,intensity_2021,3,2021
+11,ESP,Spain,intrastate,intensity_2021,1,2021
+19,ESP,Spain,intrastate,intensity_2021,1,2021
+20,ESP,Spain,interstate,intensity_2021,2,2021
+240,LKA,Sri Lanka,intrastate,intensity_2021,2,2021
+241,LKA,Sri Lanka,substate,intensity_2021,3,2021
+307,PSE,State of Palestine,substate,intensity_2021,2,2021
+327,PSE,State of Palestine,interstate,intensity_2021,3,2021
+74,SDN,Sudan,intrastate,intensity_2021,5,2021
+94,SDN,Sudan,interstate,intensity_2021,3,2021
+104,SDN,Sudan,interstate,intensity_2021,1,2021
+105,SDN,Sudan,intrastate,intensity_2021,1,2021
+106,SDN,Sudan,substate,intensity_2021,3,2021
+118,SDN,Sudan,substate,intensity_2021,3,2021
+122,SDN,Sudan,interstate,intensity_2021,2,2021
+125,SDN,Sudan,intrastate,intensity_2021,3,2021
+302,SDN,Sudan,interstate,intensity_2021,1,2021
+5,SWE,Sweden,intrastate,intensity_2021,3,2021
+303,SYR,Syria,transstate,intensity_2021,5,2021
+305,SYR,Syria,interstate,intensity_2021,2,2021
+317,SYR,Syria,intrastate,intensity_2021,3,2021
+318,SYR,Syria,substate,intensity_2021,3,2021
+331,SYR,Syria,interstate,intensity_2021,3,2021
+332,SYR,Syria,interstate,intensity_2021,2,2021
+343,SYR,Syria,intrastate,intensity_2021,4,2021
+348,SYR,Syria,intrastate,intensity_2021,3,2021
+245,TJK,Tajikistan,intrastate,intensity_2021,1,2021
+287,TJK,Tajikistan,interstate,intensity_2021,4,2021
+53,TZA,Tanzania,intrastate,intensity_2021,1,2021
+237,THA,Thailand,intrastate,intensity_2021,3,2021
+275,THA,Thailand,intrastate,intensity_2021,3,2021
+250,TLS,Timor-Leste,interstate,intensity_2021,1,2021
+72,TGO,Togo,intrastate,intensity_2021,2,2021
+219,TON,Tonga,interstate,intensity_2021,1,2021
+344,TUN,Tunisia,intrastate,intensity_2021,3,2021
+7,TUR,Turkey,interstate,intensity_2021,1,2021
+35,TUR,Turkey,interstate,intensity_2021,2,2021
+38,TUR,Turkey,interstate,intensity_2021,2,2021
+305,TUR,Turkey,interstate,intensity_2021,2,2021
+320,TUR,Turkey,intrastate,intensity_2021,2,2021
+329,TUR,Turkey,interstate,intensity_2021,2,2021
+330,TUR,Turkey,intrastate,intensity_2021,4,2021
+296,ARE,UAE,interstate,intensity_2021,1,2021
+17,USA,USA,interstate,intensity_2021,2,2021
+150,USA,USA,interstate,intensity_2021,2,2021
+159,USA,USA,interstate,intensity_2021,3,2021
+161,USA,USA,interstate,intensity_2021,2,2021
+174,USA,USA,interstate,intensity_2021,1,2021
+191,USA,USA,intrastate,intensity_2021,3,2021
+192,USA,USA,intrastate,intensity_2021,3,2021
+202,USA,USA,interstate,intensity_2021,2,2021
+210,USA,USA,interstate,intensity_2021,2,2021
+299,USA,USA,interstate,intensity_2021,2,2021
+332,USA,USA,interstate,intensity_2021,2,2021
+57,UGA,Uganda,substate,intensity_2021,1,2021
+70,UGA,Uganda,transstate,intensity_2021,5,2021
+102,UGA,Uganda,intrastate,intensity_2021,3,2021
+131,UGA,Uganda,interstate,intensity_2021,1,2021
+24,UKR,Ukraine,intrastate,intensity_2021,3,2021
+25,UKR,Ukraine,intrastate,intensity_2021,3,2021
+26,UKR,Ukraine,intrastate,intensity_2021,2,2021
+36,UKR,Ukraine,transstate,intensity_2021,1,2021
+39,UKR,Ukraine,interstate,intensity_2021,2,2021
+16,GBR,United Kingdom,intrastate,intensity_2021,2,2021
+20,GBR,United Kingdom,interstate,intensity_2021,2,2021
+29,GBR,United Kingdom,intrastate,intensity_2021,3,2021
+40,GBR,United Kingdom,interstate,intensity_2021,2,2021
+148,GBR,United Kingdom,interstate,intensity_2021,1,2021
+168,GBR,United Kingdom,interstate,intensity_2021,1,2021
+287,UZB,Uzbekistan,interstate,intensity_2021,4,2021
+137,VEN,Venezuela,intrastate,intensity_2021,2,2021
+139,VEN,Venezuela,interstate,intensity_2021,1,2021
+142,VEN,Venezuela,intrastate,intensity_2021,4,2021
+161,VEN,Venezuela,interstate,intensity_2021,2,2021
+193,VEN,Venezuela,interstate,intensity_2021,2,2021
+194,VEN,Venezuela,interstate,intensity_2021,2,2021
+231,VNM,Vietnam,interstate,intensity_2021,2,2021
+243,VNM,Vietnam,interstate,intensity_2021,1,2021
+285,VNM,Vietnam,intrastate,intensity_2021,2,2021
+293,VNM,Vietnam,intrastate,intensity_2021,2,2021
+304,YEM,Yemen,transstate,intensity_2021,5,2021
+315,YEM,Yemen,intrastate,intensity_2021,3,2021
+345,YEM,Yemen,substate,intensity_2021,3,2021
+355,YEM,Yemen,transstate,intensity_2021,3,2021
+52,ZWE,Zimbabwe,intrastate,intensity_2021,3,2021
+62,SWZ,eSwatini,intrastate,intensity_2021,3,2021
+316,AFG,Afghanistan,substate,intensity_2020,3,2020
+325,AFG,Afghanistan,intrastate,intensity_2020,5,2020
+353,AFG,Afghanistan,interstate,intensity_2020,3,2020
+44,ALB,Albania,intrastate,intensity_2020,3,2020
+310,DZA,Algeria,interstate,intensity_2020,,2020
+323,DZA,Algeria,intrastate,intensity_2020,2,2020
+336,DZA,Algeria,intrastate,intensity_2020,3,2020
+65,AGO,Angola,intrastate,intensity_2020,3,2020
+148,ARG,Argentina,interstate,intensity_2020,1,2020
+7,ARM,Armenia,interstate,intensity_2020,2,2020
+15,ARM,Armenia,intrastate,intensity_2020,3,2020
+33,ARM,Armenia,interstate,intensity_2020,5,2020
+6,AZE,Azerbaijan,intrastate,intensity_2020,3,2020
+14,AZE,Azerbaijan,intrastate,intensity_2020,5,2020
+33,AZE,Azerbaijan,interstate,intensity_2020,5,2020
+335,BHR,Bahrain,intrastate,intensity_2020,2,2020
+217,BGD,Bangladesh,intrastate,intensity_2020,3,2020
+263,BGD,Bangladesh,intrastate,intensity_2020,3,2020
+264,BGD,Bangladesh,intrastate,intensity_2020,3,2020
+268,BGD,Bangladesh,intrastate,intensity_2020,3,2020
+8,BLR,Belarus,intrastate,intensity_2020,3,2020
+17,BLR,Belarus,interstate,intensity_2020,2,2020
+146,BLZ,Belize,interstate,intensity_2020,2,2020
+144,BOL,Bolivia,intrastate,intensity_2020,3,2020
+172,BOL,Bolivia,intrastate,intensity_2020,3,2020
+175,BOL,Bolivia,interstate,intensity_2020,1,2020
+22,BIH,Bosnia and Herzegovina,intrastate,intensity_2020,1,2020
+152,BRA,Brazil,intrastate,intensity_2020,3,2020
+180,BRA,Brazil,intrastate,intensity_2020,5,2020
+189,BRA,Brazil,intrastate,intensity_2020,3,2020
+190,BRA,Brazil,intrastate,intensity_2020,3,2020
+46,BGR,Bulgaria,intrastate,intensity_2020,3,2020
+115,BFA,Burkina Faso,intrastate,intensity_2020,2,2020
+116,BFA,Burkina Faso,intrastate,intensity_2020,4,2020
+322,BFA,Burkina Faso,transstate,intensity_2020,5,2020
+59,BDI,Burundi,interstate,intensity_2020,3,2020
+87,BDI,Burundi,transstate,intensity_2020,3,2020
+88,BDI,Burundi,intrastate,intensity_2020,3,2020
+208,KHM,Cambodia,intrastate,intensity_2020,2,2020
+243,KHM,Cambodia,interstate,intensity_2020,1,2020
+93,CMR,Cameroon,intrastate,intensity_2020,4,2020
+68,CAF,Central African Republic,transstate,intensity_2020,3,2020
+117,CAF,Central African Republic,intrastate,intensity_2020,4,2020
+84,TCD,Chad,substate,intensity_2020,3,2020
+85,TCD,Chad,intrastate,intensity_2020,3,2020
+86,TCD,Chad,intrastate,intensity_2020,3,2020
+113,TCD,Chad,transstate,intensity_2020,5,2020
+165,CHL,Chile,intrastate,intensity_2020,3,2020
+168,CHL,Chile,interstate,intensity_2020,1,2020
+169,CHL,Chile,intrastate,intensity_2020,3,2020
+170,CHL,Chile,intrastate,intensity_2020,3,2020
+175,CHL,Chile,interstate,intensity_2020,1,2020
+210,CHN,China,interstate,intensity_2020,2,2020
+225,CHN,China,intrastate,intensity_2020,2,2020
+226,CHN,China,intrastate,intensity_2020,2,2020
+227,CHN,China,intrastate,intensity_2020,2,2020
+228,CHN,China,intrastate,intensity_2020,3,2020
+229,CHN,China,interstate,intensity_2020,3,2020
+230,CHN,China,intrastate,intensity_2020,2,2020
+231,CHN,China,interstate,intensity_2020,3,2020
+232,CHN,China,interstate,intensity_2020,2,2020
+234,CHN,China,interstate,intensity_2020,,2020
+242,CHN,China,intrastate,intensity_2020,2,2020
+277,CHN,China,intrastate,intensity_2020,3,2020
+286,CHN,China,intrastate,intensity_2020,2,2020
+295,CHN,China,transstate,intensity_2020,2,2020
+138,COL,Colombia,intrastate,intensity_2020,4,2020
+139,COL,Colombia,interstate,intensity_2020,1,2020
+140,COL,Colombia,intrastate,intensity_2020,3,2020
+143,COL,Colombia,substate,intensity_2020,4,2020
+153,COL,Colombia,intrastate,intensity_2020,,2020
+154,COL,Colombia,intrastate,intensity_2020,3,2020
+155,COL,Colombia,intrastate,intensity_2020,3,2020
+156,COL,Colombia,intrastate,intensity_2020,3,2020
+162,COL,Colombia,interstate,intensity_2020,1,2020
+193,COL,Colombia,interstate,intensity_2020,2,2020
+23,HRV,Croatia,interstate,intensity_2020,1,2020
+41,HRV,Croatia,substate,intensity_2020,2,2020
+150,CUB,Cuba,interstate,intensity_2020,2,2020
+173,CUB,Cuba,intrastate,intensity_2020,0,2020
+174,CUB,Cuba,interstate,intensity_2020,1,2020
+34,CYP,Cyprus,intrastate,intensity_2020,2,2020
+38,CYP,Cyprus,interstate,intensity_2020,2,2020
+71,,Côte d’Ivoire,intrastate,intensity_2020,1,2020
+99,,Côte d’Ivoire,intrastate,intensity_2020,3,2020
+56,COD,DR Congo,substate,intensity_2020,3,2020
+58,COD,DR Congo,intrastate,intensity_2020,3,2020
+68,COD,DR Congo,transstate,intensity_2020,3,2020
+70,COD,DR Congo,transstate,intensity_2020,5,2020
+81,COD,DR Congo,intrastate,intensity_2020,5,2020
+87,COD,DR Congo,transstate,intensity_2020,3,2020
+89,COD,DR Congo,intrastate,intensity_2020,5,2020
+90,COD,DR Congo,transstate,intensity_2020,3,2020
+95,COD,DR Congo,intrastate,intensity_2020,2,2020
+97,COD,DR Congo,intrastate,intensity_2020,2,2020
+101,COD,DR Congo,intrastate,intensity_2020,3,2020
+119,DJI,Djibouti,interstate,intensity_2020,1,2020
+127,DJI,Djibouti,intrastate,intensity_2020,1,2020
+129,DJI,Djibouti,intrastate,intensity_2020,3,2020
+177,DOM,Dominican Republic,interstate,intensity_2020,3,2020
+17,,EU,interstate,intensity_2020,2,2020
+141,ECU,Ecuador,intrastate,intensity_2020,3,2020
+176,ECU,Ecuador,substate,intensity_2020,0,2020
+122,EGY,Egypt,interstate,intensity_2020,2,2020
+302,EGY,Egypt,interstate,intensity_2020,1,2020
+313,EGY,Egypt,intrastate,intensity_2020,3,2020
+333,EGY,Egypt,intrastate,intensity_2020,4,2020
+337,EGY,Egypt,substate,intensity_2020,3,2020
+185,SLV,El Salvador,intrastate,intensity_2020,3,2020
+186,SLV,El Salvador,interstate,intensity_2020,1,2020
+187,SLV,El Salvador,substate,intensity_2020,3,2020
+188,SLV,El Salvador,intrastate,intensity_2020,2,2020
+119,ERI,Eritrea,interstate,intensity_2020,1,2020
+128,ERI,Eritrea,intrastate,intensity_2020,1,2020
+135,ERI,Eritrea,transstate,intensity_2020,5,2020
+12,EST,Estonia,interstate,intensity_2020,2,2020
+69,ETH,Ethiopia,intrastate,intensity_2020,4,2020
+80,ETH,Ethiopia,intrastate,intensity_2020,4,2020
+94,ETH,Ethiopia,interstate,intensity_2020,3,2020
+122,ETH,Ethiopia,interstate,intensity_2020,2,2020
+132,ETH,Ethiopia,substate,intensity_2020,5,2020
+135,ETH,Ethiopia,transstate,intensity_2020,5,2020
+219,FJI,Fiji,interstate,intensity_2020,1,2020
+32,FRA,France,intrastate,intensity_2020,2,2020
+40,FRA,France,interstate,intensity_2020,0,2020
+114,GAB,Gabon,intrastate,intensity_2020,1,2020
+123,GMB,Gambia,intrastate,intensity_2020,3,2020
+1,GEO,Georgia,interstate,intensity_2020,3,2020
+2,GEO,Georgia,intrastate,intensity_2020,2,2020
+3,GEO,Georgia,intrastate,intensity_2020,3,2020
+13,GEO,Georgia,intrastate,intensity_2020,3,2020
+4,DEU,Germany,intrastate,intensity_2020,3,2020
+124,GHA,Ghana,intrastate,intensity_2020,3,2020
+18,GRC,Greece,intrastate,intensity_2020,3,2020
+35,GRC,Greece,interstate,intensity_2020,2,2020
+38,GRC,Greece,interstate,intensity_2020,2,2020
+42,GRC,Greece,intrastate,intensity_2020,3,2020
+43,GRC,Greece,substate,intensity_2020,2,2020
+146,GTM,Guatemala,interstate,intensity_2020,2,2020
+178,GTM,Guatemala,intrastate,intensity_2020,3,2020
+182,GTM,Guatemala,intrastate,intensity_2020,3,2020
+82,GIN,Guinea,intrastate,intensity_2020,3,2020
+66,,Guinea-Bissau,intrastate,intensity_2020,2,2020
+194,GUY,Guyana,interstate,intensity_2020,2,2020
+149,HTI,Haiti,intrastate,intensity_2020,3,2020
+177,HTI,Haiti,interstate,intensity_2020,3,2020
+179,HND,Honduras,substate,intensity_2020,2,2020
+183,HND,Honduras,intrastate,intensity_2020,2,2020
+184,HND,Honduras,intrastate,intensity_2020,3,2020
+186,HND,Honduras,interstate,intensity_2020,1,2020
+36,HUN,Hungary,transstate,intensity_2020,2,2020
+37,HUN,Hungary,substate,intensity_2020,2,2020
+204,IND,India,intrastate,intensity_2020,1,2020
+212,IND,India,substate,intensity_2020,3,2020
+213,IND,India,intrastate,intensity_2020,3,2020
+214,IND,India,interstate,intensity_2020,3,2020
+220,IND,India,substate,intensity_2020,3,2020
+229,IND,India,interstate,intensity_2020,3,2020
+235,IND,India,intrastate,intensity_2020,,2020
+236,IND,India,intrastate,intensity_2020,3,2020
+238,IND,India,intrastate,intensity_2020,3,2020
+239,IND,India,substate,intensity_2020,3,2020
+247,IND,India,intrastate,intensity_2020,3,2020
+252,IND,India,intrastate,intensity_2020,3,2020
+253,IND,India,intrastate,intensity_2020,3,2020
+267,IND,India,intrastate,intensity_2020,1,2020
+269,IND,India,intrastate,intensity_2020,1,2020
+270,IND,India,intrastate,intensity_2020,3,2020
+273,IND,India,substate,intensity_2020,3,2020
+274,IND,India,intrastate,intensity_2020,3,2020
+276,IND,India,intrastate,intensity_2020,3,2020
+291,IND,India,intrastate,intensity_2020,2,2020
+292,IND,India,intrastate,intensity_2020,3,2020
+221,IDN,Indonesia,intrastate,intensity_2020,1,2020
+222,IDN,Indonesia,intrastate,intensity_2020,3,2020
+223,IDN,Indonesia,intrastate,intensity_2020,3,2020
+233,IDN,Indonesia,substate,intensity_2020,3,2020
+250,IDN,Indonesia,interstate,intensity_2020,1,2020
+278,IDN,Indonesia,substate,intensity_2020,2,2020
+279,IDN,Indonesia,intrastate,intensity_2020,1,2020
+296,IRN,Iran,interstate,intensity_2020,2,2020
+297,IRN,Iran,intrastate,intensity_2020,3,2020
+298,IRN,Iran,intrastate,intensity_2020,2,2020
+299,IRN,Iran,interstate,intensity_2020,3,2020
+308,IRN,Iran,intrastate,intensity_2020,3,2020
+309,IRN,Iran,interstate,intensity_2020,3,2020
+334,IRN,Iran,interstate,intensity_2020,2,2020
+350,IRN,Iran,intrastate,intensity_2020,3,2020
+351,IRN,Iran,intrastate,intensity_2020,3,2020
+300,IRQ,Iraq,intrastate,intensity_2020,3,2020
+303,IRQ,Iraq,transstate,intensity_2020,5,2020
+311,IRQ,Iraq,intrastate,intensity_2020,1,2020
+338,IRQ,Iraq,intrastate,intensity_2020,3,2020
+346,IRQ,Iraq,intrastate,intensity_2020,3,2020
+301,ISR,Israel,intrastate,intensity_2020,3,2020
+306,ISR,Israel,interstate,intensity_2020,3,2020
+309,ISR,Israel,interstate,intensity_2020,3,2020
+312,ISR,Israel,intrastate,intensity_2020,3,2020
+327,ISR,Israel,interstate,intensity_2020,3,2020
+331,ISR,Israel,interstate,intensity_2020,3,2020
+181,JAM,Jamaica,intrastate,intensity_2020,3,2020
+200,JPN,Japan,interstate,intensity_2020,1,2020
+201,JPN,Japan,interstate,intensity_2020,2,2020
+202,JPN,Japan,interstate,intensity_2020,2,2020
+232,JPN,Japan,interstate,intensity_2020,2,2020
+339,JOR,Jordan,intrastate,intensity_2020,3,2020
+246,KAZ,Kazakhstan,intrastate,intensity_2020,2,2020
+51,KEN,Kenya,intrastate,intensity_2020,1,2020
+67,KEN,Kenya,substate,intensity_2020,3,2020
+78,KEN,Kenya,intrastate,intensity_2020,1,2020
+92,KEN,Kenya,transstate,intensity_2020,5,2020
+126,KEN,Kenya,interstate,intensity_2020,0,2020
+27,XKX,Kosovo,interstate,intensity_2020,1,2020
+50,XKX,Kosovo,intrastate,intensity_2020,1,2020
+347,KWT,Kuwait,intrastate,intensity_2020,1,2020
+349,KWT,Kuwait,intrastate,intensity_2020,1,2020
+251,KGZ,Kyrgyzstan,intrastate,intensity_2020,3,2020
+287,KGZ,Kyrgyzstan,interstate,intensity_2020,3,2020
+206,LAO,Laos,intrastate,intensity_2020,3,2020
+288,LAO,Laos,intrastate,intensity_2020,2,2020
+31,LVA,Latvia,interstate,intensity_2020,2,2020
+306,LBN,Lebanon,interstate,intensity_2020,3,2020
+319,LBN,Lebanon,substate,intensity_2020,1,2020
+321,LBN,Lebanon,intrastate,intensity_2020,,2020
+38,LBY,Libya,interstate,intensity_2020,2,2020
+340,LBY,Libya,intrastate,intensity_2020,5,2020
+354,LBY,Libya,substate,intensity_2020,3,2020
+205,MYS,Malaysia,interstate,intensity_2020,1,2020
+209,MYS,Malaysia,intrastate,intensity_2020,1,2020
+271,MYS,Malaysia,substate,intensity_2020,1,2020
+244,MDV,Maldives,intrastate,intensity_2020,3,2020
+63,MLI,Mali,intrastate,intensity_2020,1,2020
+64,MLI,Mali,transstate,intensity_2020,5,2020
+77,MLI,Mali,substate,intensity_2020,4,2020
+133,MLI,Mali,substate,intensity_2020,3,2020
+136,MLI,Mali,intrastate,intensity_2020,3,2020
+322,MLI,Mali,transstate,intensity_2020,5,2020
+352,MRT,Mauritania,intrastate,intensity_2020,2,2020
+145,MEX,Mexico,intrastate,intensity_2020,1,2020
+147,MEX,Mexico,substate,intensity_2020,4,2020
+151,MEX,Mexico,intrastate,intensity_2020,3,2020
+157,MEX,Mexico,intrastate,intensity_2020,1,2020
+158,MEX,Mexico,intrastate,intensity_2020,3,2020
+159,MEX,Mexico,interstate,intensity_2020,3,2020
+163,MEX,Mexico,intrastate,intensity_2020,,2020
+164,MEX,Mexico,intrastate,intensity_2020,4,2020
+21,MDA,Moldova,intrastate,intensity_2020,3,2020
+30,MDA,Moldova,intrastate,intensity_2020,2,2020
+45,MNE,Montenegro,intrastate,intensity_2020,3,2020
+310,MAR,Morocco,interstate,intensity_2020,,2020
+324,MAR,Morocco,intrastate,intensity_2020,3,2020
+341,MAR,Morocco,intrastate,intensity_2020,2,2020
+55,MOZ,Mozambique,intrastate,intensity_2020,5,2020
+121,MOZ,Mozambique,intrastate,intensity_2020,3,2020
+207,MMR,Myanmar,intrastate,intensity_2020,3,2020
+218,MMR,Myanmar,intrastate,intensity_2020,3,2020
+257,MMR,Myanmar,intrastate,intensity_2020,4,2020
+258,MMR,Myanmar,intrastate,intensity_2020,3,2020
+259,MMR,Myanmar,intrastate,intensity_2020,3,2020
+260,MMR,Myanmar,intrastate,intensity_2020,3,2020
+261,MMR,Myanmar,substate,intensity_2020,3,2020
+262,MMR,Myanmar,intrastate,intensity_2020,1,2020
+265,MMR,Myanmar,intrastate,intensity_2020,4,2020
+282,MMR,Myanmar,intrastate,intensity_2020,3,2020
+294,MMR,Myanmar,intrastate,intensity_2020,3,2020
+224,NPL,Nepal,intrastate,intensity_2020,2,2020
+255,NPL,Nepal,intrastate,intensity_2020,2,2020
+283,NPL,Nepal,intrastate,intensity_2020,2,2020
+162,NIC,Nicaragua,interstate,intensity_2020,1,2020
+167,NIC,Nicaragua,intrastate,intensity_2020,3,2020
+195,NIC,Nicaragua,intrastate,intensity_2020,3,2020
+98,NER,Niger,intrastate,intensity_2020,3,2020
+60,NGA,Nigeria,intrastate,intensity_2020,3,2020
+64,NGA,Nigeria,transstate,intensity_2020,5,2020
+73,NGA,Nigeria,substate,intensity_2020,,2020
+76,NGA,Nigeria,intrastate,intensity_2020,3,2020
+79,NGA,Nigeria,intrastate,intensity_2020,3,2020
+100,NGA,Nigeria,substate,intensity_2020,4,2020
+108,NGA,Nigeria,substate,intensity_2020,3,2020
+109,NGA,Nigeria,intrastate,intensity_2020,3,2020
+110,NGA,Nigeria,intrastate,intensity_2020,3,2020
+113,NGA,Nigeria,transstate,intensity_2020,5,2020
+198,PRK,North Korea,interstate,intensity_2020,3,2020
+202,PRK,North Korea,interstate,intensity_2020,2,2020
+295,PRK,North Korea,transstate,intensity_2020,2,2020
+28,MKD,North Macedonia,substate,intensity_2020,1,2020
+49,MKD,North Macedonia,intrastate,intensity_2020,1,2020
+10,NOR,Norway,interstate,intensity_2020,2,2020
+342,OMN,Oman,intrastate,intensity_2020,1,2020
+214,PAK,Pakistan,interstate,intensity_2020,3,2020
+248,PAK,Pakistan,intrastate,intensity_2020,3,2020
+249,PAK,Pakistan,substate,intensity_2020,3,2020
+254,PAK,Pakistan,intrastate,intensity_2020,3,2020
+256,PAK,Pakistan,intrastate,intensity_2020,3,2020
+284,PAK,Pakistan,intrastate,intensity_2020,3,2020
+290,PAK,Pakistan,intrastate,intensity_2020,3,2020
+353,PAK,Pakistan,interstate,intensity_2020,3,2020
+211,PNG,Papua New Guinea,substate,intensity_2020,1,2020
+215,PNG,Papua New Guinea,intrastate,intensity_2020,1,2020
+216,PNG,Papua New Guinea,substate,intensity_2020,3,2020
+272,PNG,Papua New Guinea,intrastate,intensity_2020,1,2020
+289,PNG,Papua New Guinea,intrastate,intensity_2020,1,2020
+160,PRY,Paraguay,intrastate,intensity_2020,3,2020
+166,PER,Peru,intrastate,intensity_2020,3,2020
+171,PER,Peru,intrastate,intensity_2020,3,2020
+196,PHL,Philippines,intrastate,intensity_2020,2,2020
+197,PHL,Philippines,intrastate,intensity_2020,4,2020
+199,PHL,Philippines,intrastate,intensity_2020,4,2020
+203,PHL,Philippines,intrastate,intensity_2020,2,2020
+266,PHL,Philippines,intrastate,intensity_2020,,2020
+280,PHL,Philippines,intrastate,intensity_2020,3,2020
+281,PHL,Philippines,substate,intensity_2020,3,2020
+326,QAT,Qatar,interstate,intensity_2020,1,2020
+75,COG,Republic of Congo,intrastate,intensity_2020,1,2020
+36,ROU,Romania,transstate,intensity_2020,2,2020
+1,RUS,Russia,interstate,intensity_2020,3,2020
+9,RUS,Russia,intrastate,intensity_2020,3,2020
+10,RUS,Russia,interstate,intensity_2020,2,2020
+12,RUS,Russia,interstate,intensity_2020,2,2020
+17,RUS,Russia,interstate,intensity_2020,2,2020
+31,RUS,Russia,interstate,intensity_2020,2,2020
+39,RUS,Russia,interstate,intensity_2020,2,2020
+48,RUS,Russia,intrastate,intensity_2020,3,2020
+200,RUS,Russia,interstate,intensity_2020,1,2020
+329,RUS,Russia,interstate,intensity_2020,3,2020
+59,RWA,Rwanda,interstate,intensity_2020,3,2020
+90,RWA,Rwanda,transstate,intensity_2020,3,2020
+111,RWA,Rwanda,intrastate,intensity_2020,1,2020
+131,RWA,Rwanda,interstate,intensity_2020,3,2020
+304,SAU,Saudi Arabia,transstate,intensity_2020,5,2020
+314,SAU,Saudi Arabia,intrastate,intensity_2020,1,2020
+326,SAU,Saudi Arabia,interstate,intensity_2020,1,2020
+328,SAU,Saudi Arabia,intrastate,intensity_2020,2,2020
+334,SAU,Saudi Arabia,interstate,intensity_2020,2,2020
+355,SAU,Saudi Arabia,transstate,intensity_2020,3,2020
+91,SEN,Senegal,intrastate,intensity_2020,2,2020
+27,SRB,Serbia,interstate,intensity_2020,1,2020
+47,SRB,Serbia,intrastate,intensity_2020,3,2020
+107,SLE,Sierra Leone,intrastate,intensity_2020,3,2020
+205,SGP,Singapore,interstate,intensity_2020,1,2020
+36,SVK,Slovakia,transstate,intensity_2020,2,2020
+23,SVN,Slovenia,interstate,intensity_2020,1,2020
+61,SOM,Somalia,intrastate,intensity_2020,1,2020
+83,SOM,Somalia,intrastate,intensity_2020,3,2020
+92,SOM,Somalia,transstate,intensity_2020,5,2020
+103,SOM,Somalia,intrastate,intensity_2020,3,2020
+120,SOM,Somalia,substate,intensity_2020,3,2020
+126,SOM,Somalia,interstate,intensity_2020,0,2020
+54,ZAF,South Africa,intrastate,intensity_2020,3,2020
+96,ZAF,South Africa,substate,intensity_2020,3,2020
+130,ZAF,South Africa,intrastate,intensity_2020,3,2020
+198,KOR,South Korea,interstate,intensity_2020,3,2020
+201,KOR,South Korea,interstate,intensity_2020,2,2020
+202,KOR,South Korea,interstate,intensity_2020,2,2020
+234,KOR,South Korea,interstate,intensity_2020,,2020
+104,SSD,South Sudan,interstate,intensity_2020,1,2020
+106,SSD,South Sudan,substate,intensity_2020,3,2020
+112,SSD,South Sudan,substate,intensity_2020,5,2020
+134,SSD,South Sudan,intrastate,intensity_2020,4,2020
+11,ESP,Spain,intrastate,intensity_2020,2,2020
+19,ESP,Spain,intrastate,intensity_2020,1,2020
+20,ESP,Spain,interstate,intensity_2020,2,2020
+240,LKA,Sri Lanka,intrastate,intensity_2020,3,2020
+241,LKA,Sri Lanka,substate,intensity_2020,3,2020
+307,PSE,State of Palestine,substate,intensity_2020,2,2020
+327,PSE,State of Palestine,interstate,intensity_2020,3,2020
+74,SDN,Sudan,intrastate,intensity_2020,4,2020
+94,SDN,Sudan,interstate,intensity_2020,3,2020
+104,SDN,Sudan,interstate,intensity_2020,1,2020
+105,SDN,Sudan,intrastate,intensity_2020,1,2020
+106,SDN,Sudan,substate,intensity_2020,3,2020
+118,SDN,Sudan,substate,intensity_2020,3,2020
+122,SDN,Sudan,interstate,intensity_2020,2,2020
+125,SDN,Sudan,intrastate,intensity_2020,3,2020
+302,SDN,Sudan,interstate,intensity_2020,1,2020
+5,SWE,Sweden,intrastate,intensity_2020,3,2020
+303,SYR,Syria,transstate,intensity_2020,5,2020
+305,SYR,Syria,interstate,intensity_2020,2,2020
+317,SYR,Syria,intrastate,intensity_2020,3,2020
+318,SYR,Syria,substate,intensity_2020,3,2020
+331,SYR,Syria,interstate,intensity_2020,3,2020
+332,SYR,Syria,interstate,intensity_2020,2,2020
+343,SYR,Syria,intrastate,intensity_2020,5,2020
+348,SYR,Syria,intrastate,intensity_2020,3,2020
+245,TJK,Tajikistan,intrastate,intensity_2020,2,2020
+287,TJK,Tajikistan,interstate,intensity_2020,3,2020
+53,TZA,Tanzania,intrastate,intensity_2020,3,2020
+237,THA,Thailand,intrastate,intensity_2020,3,2020
+275,THA,Thailand,intrastate,intensity_2020,3,2020
+250,TLS,Timor-Leste,interstate,intensity_2020,1,2020
+72,TGO,Togo,intrastate,intensity_2020,3,2020
+219,TON,Tonga,interstate,intensity_2020,1,2020
+344,TUN,Tunisia,intrastate,intensity_2020,3,2020
+7,TUR,Turkey,interstate,intensity_2020,2,2020
+35,TUR,Turkey,interstate,intensity_2020,2,2020
+38,TUR,Turkey,interstate,intensity_2020,2,2020
+305,TUR,Turkey,interstate,intensity_2020,2,2020
+320,TUR,Turkey,intrastate,intensity_2020,1,2020
+329,TUR,Turkey,interstate,intensity_2020,3,2020
+330,TUR,Turkey,intrastate,intensity_2020,5,2020
+296,ARE,UAE,interstate,intensity_2020,2,2020
+17,USA,USA,interstate,intensity_2020,2,2020
+150,USA,USA,interstate,intensity_2020,2,2020
+159,USA,USA,interstate,intensity_2020,3,2020
+161,USA,USA,interstate,intensity_2020,2,2020
+174,USA,USA,interstate,intensity_2020,1,2020
+191,USA,USA,intrastate,intensity_2020,3,2020
+192,USA,USA,intrastate,intensity_2020,3,2020
+202,USA,USA,interstate,intensity_2020,2,2020
+210,USA,USA,interstate,intensity_2020,2,2020
+299,USA,USA,interstate,intensity_2020,3,2020
+332,USA,USA,interstate,intensity_2020,2,2020
+57,UGA,Uganda,substate,intensity_2020,-99,2020
+70,UGA,Uganda,transstate,intensity_2020,5,2020
+102,UGA,Uganda,intrastate,intensity_2020,3,2020
+131,UGA,Uganda,interstate,intensity_2020,3,2020
+24,UKR,Ukraine,intrastate,intensity_2020,2,2020
+25,UKR,Ukraine,intrastate,intensity_2020,4,2020
+26,UKR,Ukraine,intrastate,intensity_2020,2,2020
+36,UKR,Ukraine,transstate,intensity_2020,2,2020
+39,UKR,Ukraine,interstate,intensity_2020,2,2020
+16,GBR,United Kingdom,intrastate,intensity_2020,2,2020
+20,GBR,United Kingdom,interstate,intensity_2020,2,2020
+29,GBR,United Kingdom,intrastate,intensity_2020,3,2020
+40,GBR,United Kingdom,interstate,intensity_2020,0,2020
+148,GBR,United Kingdom,interstate,intensity_2020,1,2020
+168,GBR,United Kingdom,interstate,intensity_2020,1,2020
+287,UZB,Uzbekistan,interstate,intensity_2020,3,2020
+137,VEN,Venezuela,intrastate,intensity_2020,3,2020
+139,VEN,Venezuela,interstate,intensity_2020,1,2020
+142,VEN,Venezuela,intrastate,intensity_2020,,2020
+161,VEN,Venezuela,interstate,intensity_2020,2,2020
+193,VEN,Venezuela,interstate,intensity_2020,2,2020
+194,VEN,Venezuela,interstate,intensity_2020,2,2020
+231,VNM,Vietnam,interstate,intensity_2020,3,2020
+243,VNM,Vietnam,interstate,intensity_2020,1,2020
+285,VNM,Vietnam,intrastate,intensity_2020,1,2020
+293,VNM,Vietnam,intrastate,intensity_2020,3,2020
+304,YEM,Yemen,transstate,intensity_2020,5,2020
+315,YEM,Yemen,intrastate,intensity_2020,5,2020
+345,YEM,Yemen,substate,intensity_2020,3,2020
+355,YEM,Yemen,transstate,intensity_2020,3,2020
+52,ZWE,Zimbabwe,intrastate,intensity_2020,3,2020
+62,SWZ,eSwatini,intrastate,intensity_2020,3,2020
+316,AFG,Afghanistan,substate,intensity_2019,1,2019
+325,AFG,Afghanistan,intrastate,intensity_2019,5,2019
+353,AFG,Afghanistan,interstate,intensity_2019,3,2019
+44,ALB,Albania,intrastate,intensity_2019,3,2019
+310,DZA,Algeria,interstate,intensity_2019,,2019
+323,DZA,Algeria,intrastate,intensity_2019,2,2019
+336,DZA,Algeria,intrastate,intensity_2019,3,2019
+65,AGO,Angola,intrastate,intensity_2019,3,2019
+148,ARG,Argentina,interstate,intensity_2019,1,2019
+7,ARM,Armenia,interstate,intensity_2019,1,2019
+15,ARM,Armenia,intrastate,intensity_2019,1,2019
+33,ARM,Armenia,interstate,intensity_2019,3,2019
+6,AZE,Azerbaijan,intrastate,intensity_2019,2,2019
+14,AZE,Azerbaijan,intrastate,intensity_2019,3,2019
+33,AZE,Azerbaijan,interstate,intensity_2019,3,2019
+335,BHR,Bahrain,intrastate,intensity_2019,3,2019
+217,BGD,Bangladesh,intrastate,intensity_2019,3,2019
+263,BGD,Bangladesh,intrastate,intensity_2019,3,2019
+264,BGD,Bangladesh,intrastate,intensity_2019,3,2019
+268,BGD,Bangladesh,intrastate,intensity_2019,3,2019
+8,BLR,Belarus,intrastate,intensity_2019,2,2019
+17,BLR,Belarus,interstate,intensity_2019,2,2019
+146,BLZ,Belize,interstate,intensity_2019,2,2019
+144,BOL,Bolivia,intrastate,intensity_2019,3,2019
+172,BOL,Bolivia,intrastate,intensity_2019,3,2019
+175,BOL,Bolivia,interstate,intensity_2019,1,2019
+22,BIH,Bosnia and Herzegovina,intrastate,intensity_2019,2,2019
+152,BRA,Brazil,intrastate,intensity_2019,3,2019
+180,BRA,Brazil,intrastate,intensity_2019,5,2019
+189,BRA,Brazil,intrastate,intensity_2019,3,2019
+190,BRA,Brazil,intrastate,intensity_2019,3,2019
+46,BGR,Bulgaria,intrastate,intensity_2019,0,2019
+115,BFA,Burkina Faso,intrastate,intensity_2019,2,2019
+116,BFA,Burkina Faso,intrastate,intensity_2019,3,2019
+322,BFA,Burkina Faso,transstate,intensity_2019,5,2019
+59,BDI,Burundi,interstate,intensity_2019,2,2019
+87,BDI,Burundi,transstate,intensity_2019,3,2019
+88,BDI,Burundi,intrastate,intensity_2019,3,2019
+208,KHM,Cambodia,intrastate,intensity_2019,2,2019
+243,KHM,Cambodia,interstate,intensity_2019,1,2019
+93,CMR,Cameroon,intrastate,intensity_2019,4,2019
+68,CAF,Central African Republic,transstate,intensity_2019,3,2019
+117,CAF,Central African Republic,intrastate,intensity_2019,4,2019
+84,TCD,Chad,substate,intensity_2019,3,2019
+85,TCD,Chad,intrastate,intensity_2019,3,2019
+86,TCD,Chad,intrastate,intensity_2019,3,2019
+113,TCD,Chad,transstate,intensity_2019,5,2019
+165,CHL,Chile,intrastate,intensity_2019,3,2019
+168,CHL,Chile,interstate,intensity_2019,1,2019
+169,CHL,Chile,intrastate,intensity_2019,3,2019
+170,CHL,Chile,intrastate,intensity_2019,3,2019
+175,CHL,Chile,interstate,intensity_2019,1,2019
+210,CHN,China,interstate,intensity_2019,2,2019
+225,CHN,China,intrastate,intensity_2019,2,2019
+226,CHN,China,intrastate,intensity_2019,2,2019
+227,CHN,China,intrastate,intensity_2019,2,2019
+228,CHN,China,intrastate,intensity_2019,3,2019
+229,CHN,China,interstate,intensity_2019,1,2019
+230,CHN,China,intrastate,intensity_2019,2,2019
+231,CHN,China,interstate,intensity_2019,3,2019
+232,CHN,China,interstate,intensity_2019,2,2019
+234,CHN,China,interstate,intensity_2019,,2019
+242,CHN,China,intrastate,intensity_2019,2,2019
+277,CHN,China,intrastate,intensity_2019,3,2019
+286,CHN,China,intrastate,intensity_2019,2,2019
+295,CHN,China,transstate,intensity_2019,3,2019
+138,COL,Colombia,intrastate,intensity_2019,3,2019
+139,COL,Colombia,interstate,intensity_2019,1,2019
+140,COL,Colombia,intrastate,intensity_2019,4,2019
+143,COL,Colombia,substate,intensity_2019,4,2019
+153,COL,Colombia,intrastate,intensity_2019,,2019
+154,COL,Colombia,intrastate,intensity_2019,2,2019
+155,COL,Colombia,intrastate,intensity_2019,3,2019
+156,COL,Colombia,intrastate,intensity_2019,3,2019
+162,COL,Colombia,interstate,intensity_2019,2,2019
+193,COL,Colombia,interstate,intensity_2019,2,2019
+23,HRV,Croatia,interstate,intensity_2019,1,2019
+41,HRV,Croatia,substate,intensity_2019,3,2019
+150,CUB,Cuba,interstate,intensity_2019,2,2019
+173,CUB,Cuba,intrastate,intensity_2019,0,2019
+174,CUB,Cuba,interstate,intensity_2019,1,2019
+34,CYP,Cyprus,intrastate,intensity_2019,2,2019
+38,CYP,Cyprus,interstate,intensity_2019,0,2019
+71,,Côte d’Ivoire,intrastate,intensity_2019,1,2019
+99,,Côte d’Ivoire,intrastate,intensity_2019,3,2019
+56,COD,DR Congo,substate,intensity_2019,3,2019
+58,COD,DR Congo,intrastate,intensity_2019,3,2019
+68,COD,DR Congo,transstate,intensity_2019,3,2019
+70,COD,DR Congo,transstate,intensity_2019,4,2019
+81,COD,DR Congo,intrastate,intensity_2019,5,2019
+87,COD,DR Congo,transstate,intensity_2019,3,2019
+89,COD,DR Congo,intrastate,intensity_2019,5,2019
+90,COD,DR Congo,transstate,intensity_2019,3,2019
+95,COD,DR Congo,intrastate,intensity_2019,3,2019
+97,COD,DR Congo,intrastate,intensity_2019,-99,2019
+101,COD,DR Congo,intrastate,intensity_2019,3,2019
+119,DJI,Djibouti,interstate,intensity_2019,1,2019
+127,DJI,Djibouti,intrastate,intensity_2019,1,2019
+129,DJI,Djibouti,intrastate,intensity_2019,3,2019
+177,DOM,Dominican Republic,interstate,intensity_2019,3,2019
+17,,EU,interstate,intensity_2019,2,2019
+141,ECU,Ecuador,intrastate,intensity_2019,3,2019
+176,ECU,Ecuador,substate,intensity_2019,0,2019
+122,EGY,Egypt,interstate,intensity_2019,2,2019
+302,EGY,Egypt,interstate,intensity_2019,1,2019
+313,EGY,Egypt,intrastate,intensity_2019,3,2019
+333,EGY,Egypt,intrastate,intensity_2019,5,2019
+337,EGY,Egypt,substate,intensity_2019,3,2019
+185,SLV,El Salvador,intrastate,intensity_2019,3,2019
+186,SLV,El Salvador,interstate,intensity_2019,2,2019
+187,SLV,El Salvador,substate,intensity_2019,3,2019
+188,SLV,El Salvador,intrastate,intensity_2019,0,2019
+119,ERI,Eritrea,interstate,intensity_2019,1,2019
+128,ERI,Eritrea,intrastate,intensity_2019,1,2019
+135,ERI,Eritrea,transstate,intensity_2019,0,2019
+12,EST,Estonia,interstate,intensity_2019,1,2019
+69,ETH,Ethiopia,intrastate,intensity_2019,3,2019
+80,ETH,Ethiopia,intrastate,intensity_2019,3,2019
+94,ETH,Ethiopia,interstate,intensity_2019,1,2019
+122,ETH,Ethiopia,interstate,intensity_2019,2,2019
+132,ETH,Ethiopia,substate,intensity_2019,3,2019
+135,ETH,Ethiopia,transstate,intensity_2019,0,2019
+219,FJI,Fiji,interstate,intensity_2019,1,2019
+32,FRA,France,intrastate,intensity_2019,2,2019
+40,FRA,France,interstate,intensity_2019,0,2019
+114,GAB,Gabon,intrastate,intensity_2019,3,2019
+123,GMB,Gambia,intrastate,intensity_2019,3,2019
+1,GEO,Georgia,interstate,intensity_2019,2,2019
+2,GEO,Georgia,intrastate,intensity_2019,3,2019
+3,GEO,Georgia,intrastate,intensity_2019,3,2019
+13,GEO,Georgia,intrastate,intensity_2019,3,2019
+4,DEU,Germany,intrastate,intensity_2019,3,2019
+124,GHA,Ghana,intrastate,intensity_2019,2,2019
+18,GRC,Greece,intrastate,intensity_2019,3,2019
+35,GRC,Greece,interstate,intensity_2019,2,2019
+38,GRC,Greece,interstate,intensity_2019,0,2019
+42,GRC,Greece,intrastate,intensity_2019,2,2019
+43,GRC,Greece,substate,intensity_2019,2,2019
+146,GTM,Guatemala,interstate,intensity_2019,2,2019
+178,GTM,Guatemala,intrastate,intensity_2019,3,2019
+182,GTM,Guatemala,intrastate,intensity_2019,3,2019
+82,GIN,Guinea,intrastate,intensity_2019,3,2019
+66,,Guinea-Bissau,intrastate,intensity_2019,3,2019
+194,GUY,Guyana,interstate,intensity_2019,2,2019
+149,HTI,Haiti,intrastate,intensity_2019,3,2019
+177,HTI,Haiti,interstate,intensity_2019,3,2019
+179,HND,Honduras,substate,intensity_2019,3,2019
+183,HND,Honduras,intrastate,intensity_2019,3,2019
+184,HND,Honduras,intrastate,intensity_2019,3,2019
+186,HND,Honduras,interstate,intensity_2019,2,2019
+36,HUN,Hungary,transstate,intensity_2019,2,2019
+37,HUN,Hungary,substate,intensity_2019,1,2019
+204,IND,India,intrastate,intensity_2019,1,2019
+212,IND,India,substate,intensity_2019,3,2019
+213,IND,India,intrastate,intensity_2019,3,2019
+214,IND,India,interstate,intensity_2019,4,2019
+220,IND,India,substate,intensity_2019,3,2019
+229,IND,India,interstate,intensity_2019,1,2019
+235,IND,India,intrastate,intensity_2019,0,2019
+236,IND,India,intrastate,intensity_2019,3,2019
+238,IND,India,intrastate,intensity_2019,3,2019
+239,IND,India,substate,intensity_2019,2,2019
+247,IND,India,intrastate,intensity_2019,3,2019
+252,IND,India,intrastate,intensity_2019,3,2019
+253,IND,India,intrastate,intensity_2019,3,2019
+267,IND,India,intrastate,intensity_2019,2,2019
+269,IND,India,intrastate,intensity_2019,1,2019
+270,IND,India,intrastate,intensity_2019,2,2019
+273,IND,India,substate,intensity_2019,3,2019
+274,IND,India,intrastate,intensity_2019,2,2019
+276,IND,India,intrastate,intensity_2019,3,2019
+291,IND,India,intrastate,intensity_2019,3,2019
+292,IND,India,intrastate,intensity_2019,3,2019
+221,IDN,Indonesia,intrastate,intensity_2019,1,2019
+222,IDN,Indonesia,intrastate,intensity_2019,3,2019
+223,IDN,Indonesia,intrastate,intensity_2019,4,2019
+233,IDN,Indonesia,substate,intensity_2019,3,2019
+250,IDN,Indonesia,interstate,intensity_2019,1,2019
+278,IDN,Indonesia,substate,intensity_2019,2,2019
+279,IDN,Indonesia,intrastate,intensity_2019,1,2019
+296,IRN,Iran,interstate,intensity_2019,1,2019
+297,IRN,Iran,intrastate,intensity_2019,3,2019
+298,IRN,Iran,intrastate,intensity_2019,2,2019
+299,IRN,Iran,interstate,intensity_2019,2,2019
+308,IRN,Iran,intrastate,intensity_2019,3,2019
+309,IRN,Iran,interstate,intensity_2019,3,2019
+334,IRN,Iran,interstate,intensity_2019,2,2019
+350,IRN,Iran,intrastate,intensity_2019,3,2019
+351,IRN,Iran,intrastate,intensity_2019,3,2019
+300,IRQ,Iraq,intrastate,intensity_2019,3,2019
+303,IRQ,Iraq,transstate,intensity_2019,5,2019
+311,IRQ,Iraq,intrastate,intensity_2019,1,2019
+338,IRQ,Iraq,intrastate,intensity_2019,-99,2019
+346,IRQ,Iraq,intrastate,intensity_2019,4,2019
+301,ISR,Israel,intrastate,intensity_2019,2,2019
+306,ISR,Israel,interstate,intensity_2019,2,2019
+309,ISR,Israel,interstate,intensity_2019,3,2019
+312,ISR,Israel,intrastate,intensity_2019,4,2019
+327,ISR,Israel,interstate,intensity_2019,3,2019
+331,ISR,Israel,interstate,intensity_2019,3,2019
+181,JAM,Jamaica,intrastate,intensity_2019,3,2019
+200,JPN,Japan,interstate,intensity_2019,2,2019
+201,JPN,Japan,interstate,intensity_2019,2,2019
+202,JPN,Japan,interstate,intensity_2019,2,2019
+232,JPN,Japan,interstate,intensity_2019,2,2019
+339,JOR,Jordan,intrastate,intensity_2019,3,2019
+246,KAZ,Kazakhstan,intrastate,intensity_2019,2,2019
+51,KEN,Kenya,intrastate,intensity_2019,1,2019
+67,KEN,Kenya,substate,intensity_2019,3,2019
+78,KEN,Kenya,intrastate,intensity_2019,2,2019
+92,KEN,Kenya,transstate,intensity_2019,5,2019
+126,KEN,Kenya,interstate,intensity_2019,0,2019
+27,XKX,Kosovo,interstate,intensity_2019,2,2019
+50,XKX,Kosovo,intrastate,intensity_2019,1,2019
+347,KWT,Kuwait,intrastate,intensity_2019,1,2019
+349,KWT,Kuwait,intrastate,intensity_2019,1,2019
+251,KGZ,Kyrgyzstan,intrastate,intensity_2019,2,2019
+287,KGZ,Kyrgyzstan,interstate,intensity_2019,3,2019
+206,LAO,Laos,intrastate,intensity_2019,2,2019
+288,LAO,Laos,intrastate,intensity_2019,2,2019
+31,LVA,Latvia,interstate,intensity_2019,2,2019
+306,LBN,Lebanon,interstate,intensity_2019,2,2019
+319,LBN,Lebanon,substate,intensity_2019,3,2019
+321,LBN,Lebanon,intrastate,intensity_2019,,2019
+38,LBY,Libya,interstate,intensity_2019,0,2019
+340,LBY,Libya,intrastate,intensity_2019,5,2019
+354,LBY,Libya,substate,intensity_2019,4,2019
+205,MYS,Malaysia,interstate,intensity_2019,1,2019
+209,MYS,Malaysia,intrastate,intensity_2019,-99,2019
+271,MYS,Malaysia,substate,intensity_2019,1,2019
+244,MDV,Maldives,intrastate,intensity_2019,2,2019
+63,MLI,Mali,intrastate,intensity_2019,1,2019
+64,MLI,Mali,transstate,intensity_2019,,2019
+77,MLI,Mali,substate,intensity_2019,4,2019
+133,MLI,Mali,substate,intensity_2019,3,2019
+136,MLI,Mali,intrastate,intensity_2019,3,2019
+322,MLI,Mali,transstate,intensity_2019,5,2019
+352,MRT,Mauritania,intrastate,intensity_2019,2,2019
+145,MEX,Mexico,intrastate,intensity_2019,-99,2019
+147,MEX,Mexico,substate,intensity_2019,4,2019
+151,MEX,Mexico,intrastate,intensity_2019,3,2019
+157,MEX,Mexico,intrastate,intensity_2019,1,2019
+158,MEX,Mexico,intrastate,intensity_2019,2,2019
+159,MEX,Mexico,interstate,intensity_2019,2,2019
+163,MEX,Mexico,intrastate,intensity_2019,0,2019
+164,MEX,Mexico,intrastate,intensity_2019,5,2019
+21,MDA,Moldova,intrastate,intensity_2019,3,2019
+30,MDA,Moldova,intrastate,intensity_2019,2,2019
+45,MNE,Montenegro,intrastate,intensity_2019,,2019
+310,MAR,Morocco,interstate,intensity_2019,,2019
+324,MAR,Morocco,intrastate,intensity_2019,2,2019
+341,MAR,Morocco,intrastate,intensity_2019,3,2019
+55,MOZ,Mozambique,intrastate,intensity_2019,4,2019
+121,MOZ,Mozambique,intrastate,intensity_2019,3,2019
+207,MMR,Myanmar,intrastate,intensity_2019,3,2019
+218,MMR,Myanmar,intrastate,intensity_2019,3,2019
+257,MMR,Myanmar,intrastate,intensity_2019,3,2019
+258,MMR,Myanmar,intrastate,intensity_2019,3,2019
+259,MMR,Myanmar,intrastate,intensity_2019,3,2019
+260,MMR,Myanmar,intrastate,intensity_2019,3,2019
+261,MMR,Myanmar,substate,intensity_2019,3,2019
+262,MMR,Myanmar,intrastate,intensity_2019,2,2019
+265,MMR,Myanmar,intrastate,intensity_2019,4,2019
+282,MMR,Myanmar,intrastate,intensity_2019,3,2019
+294,MMR,Myanmar,intrastate,intensity_2019,2,2019
+224,NPL,Nepal,intrastate,intensity_2019,3,2019
+255,NPL,Nepal,intrastate,intensity_2019,3,2019
+283,NPL,Nepal,intrastate,intensity_2019,3,2019
+162,NIC,Nicaragua,interstate,intensity_2019,2,2019
+167,NIC,Nicaragua,intrastate,intensity_2019,3,2019
+195,NIC,Nicaragua,intrastate,intensity_2019,3,2019
+98,NER,Niger,intrastate,intensity_2019,2,2019
+60,NGA,Nigeria,intrastate,intensity_2019,3,2019
+64,NGA,Nigeria,transstate,intensity_2019,,2019
+73,NGA,Nigeria,substate,intensity_2019,,2019
+76,NGA,Nigeria,intrastate,intensity_2019,3,2019
+79,NGA,Nigeria,intrastate,intensity_2019,3,2019
+100,NGA,Nigeria,substate,intensity_2019,4,2019
+108,NGA,Nigeria,substate,intensity_2019,3,2019
+109,NGA,Nigeria,intrastate,intensity_2019,0,2019
+110,NGA,Nigeria,intrastate,intensity_2019,1,2019
+113,NGA,Nigeria,transstate,intensity_2019,5,2019
+198,PRK,North Korea,interstate,intensity_2019,2,2019
+202,PRK,North Korea,interstate,intensity_2019,2,2019
+295,PRK,North Korea,transstate,intensity_2019,3,2019
+28,MKD,North Macedonia,substate,intensity_2019,2,2019
+49,MKD,North Macedonia,intrastate,intensity_2019,1,2019
+10,NOR,Norway,interstate,intensity_2019,2,2019
+342,OMN,Oman,intrastate,intensity_2019,1,2019
+214,PAK,Pakistan,interstate,intensity_2019,4,2019
+248,PAK,Pakistan,intrastate,intensity_2019,3,2019
+249,PAK,Pakistan,substate,intensity_2019,3,2019
+254,PAK,Pakistan,intrastate,intensity_2019,3,2019
+256,PAK,Pakistan,intrastate,intensity_2019,2,2019
+284,PAK,Pakistan,intrastate,intensity_2019,2,2019
+290,PAK,Pakistan,intrastate,intensity_2019,3,2019
+353,PAK,Pakistan,interstate,intensity_2019,3,2019
+211,PNG,Papua New Guinea,substate,intensity_2019,2,2019
+215,PNG,Papua New Guinea,intrastate,intensity_2019,2,2019
+216,PNG,Papua New Guinea,substate,intensity_2019,3,2019
+272,PNG,Papua New Guinea,intrastate,intensity_2019,2,2019
+289,PNG,Papua New Guinea,intrastate,intensity_2019,1,2019
+160,PRY,Paraguay,intrastate,intensity_2019,3,2019
+166,PER,Peru,intrastate,intensity_2019,3,2019
+171,PER,Peru,intrastate,intensity_2019,3,2019
+196,PHL,Philippines,intrastate,intensity_2019,3,2019
+197,PHL,Philippines,intrastate,intensity_2019,4,2019
+199,PHL,Philippines,intrastate,intensity_2019,3,2019
+203,PHL,Philippines,intrastate,intensity_2019,2,2019
+266,PHL,Philippines,intrastate,intensity_2019,,2019
+280,PHL,Philippines,intrastate,intensity_2019,4,2019
+281,PHL,Philippines,substate,intensity_2019,2,2019
+326,QAT,Qatar,interstate,intensity_2019,1,2019
+75,COG,Republic of Congo,intrastate,intensity_2019,1,2019
+36,ROU,Romania,transstate,intensity_2019,2,2019
+1,RUS,Russia,interstate,intensity_2019,2,2019
+9,RUS,Russia,intrastate,intensity_2019,3,2019
+10,RUS,Russia,interstate,intensity_2019,2,2019
+12,RUS,Russia,interstate,intensity_2019,1,2019
+17,RUS,Russia,interstate,intensity_2019,2,2019
+31,RUS,Russia,interstate,intensity_2019,2,2019
+39,RUS,Russia,interstate,intensity_2019,2,2019
+48,RUS,Russia,intrastate,intensity_2019,3,2019
+200,RUS,Russia,interstate,intensity_2019,2,2019
+329,RUS,Russia,interstate,intensity_2019,2,2019
+59,RWA,Rwanda,interstate,intensity_2019,2,2019
+90,RWA,Rwanda,transstate,intensity_2019,3,2019
+111,RWA,Rwanda,intrastate,intensity_2019,1,2019
+131,RWA,Rwanda,interstate,intensity_2019,2,2019
+304,SAU,Saudi Arabia,transstate,intensity_2019,5,2019
+314,SAU,Saudi Arabia,intrastate,intensity_2019,3,2019
+326,SAU,Saudi Arabia,interstate,intensity_2019,1,2019
+328,SAU,Saudi Arabia,intrastate,intensity_2019,1,2019
+334,SAU,Saudi Arabia,interstate,intensity_2019,2,2019
+355,SAU,Saudi Arabia,transstate,intensity_2019,3,2019
+91,SEN,Senegal,intrastate,intensity_2019,2,2019
+27,SRB,Serbia,interstate,intensity_2019,2,2019
+47,SRB,Serbia,intrastate,intensity_2019,3,2019
+107,SLE,Sierra Leone,intrastate,intensity_2019,3,2019
+205,SGP,Singapore,interstate,intensity_2019,1,2019
+36,SVK,Slovakia,transstate,intensity_2019,2,2019
+23,SVN,Slovenia,interstate,intensity_2019,1,2019
+61,SOM,Somalia,intrastate,intensity_2019,1,2019
+83,SOM,Somalia,intrastate,intensity_2019,3,2019
+92,SOM,Somalia,transstate,intensity_2019,5,2019
+103,SOM,Somalia,intrastate,intensity_2019,3,2019
+120,SOM,Somalia,substate,intensity_2019,3,2019
+126,SOM,Somalia,interstate,intensity_2019,0,2019
+54,ZAF,South Africa,intrastate,intensity_2019,3,2019
+96,ZAF,South Africa,substate,intensity_2019,3,2019
+130,ZAF,South Africa,intrastate,intensity_2019,3,2019
+198,KOR,South Korea,interstate,intensity_2019,2,2019
+201,KOR,South Korea,interstate,intensity_2019,2,2019
+202,KOR,South Korea,interstate,intensity_2019,2,2019
+234,KOR,South Korea,interstate,intensity_2019,,2019
+104,SSD,South Sudan,interstate,intensity_2019,1,2019
+106,SSD,South Sudan,substate,intensity_2019,3,2019
+112,SSD,South Sudan,substate,intensity_2019,4,2019
+134,SSD,South Sudan,intrastate,intensity_2019,3,2019
+11,ESP,Spain,intrastate,intensity_2019,3,2019
+19,ESP,Spain,intrastate,intensity_2019,1,2019
+20,ESP,Spain,interstate,intensity_2019,2,2019
+240,LKA,Sri Lanka,intrastate,intensity_2019,3,2019
+241,LKA,Sri Lanka,substate,intensity_2019,3,2019
+307,PSE,State of Palestine,substate,intensity_2019,2,2019
+327,PSE,State of Palestine,interstate,intensity_2019,3,2019
+74,SDN,Sudan,intrastate,intensity_2019,3,2019
+94,SDN,Sudan,interstate,intensity_2019,1,2019
+104,SDN,Sudan,interstate,intensity_2019,1,2019
+105,SDN,Sudan,intrastate,intensity_2019,2,2019
+106,SDN,Sudan,substate,intensity_2019,3,2019
+118,SDN,Sudan,substate,intensity_2019,4,2019
+122,SDN,Sudan,interstate,intensity_2019,2,2019
+125,SDN,Sudan,intrastate,intensity_2019,4,2019
+302,SDN,Sudan,interstate,intensity_2019,1,2019
+5,SWE,Sweden,intrastate,intensity_2019,3,2019
+303,SYR,Syria,transstate,intensity_2019,5,2019
+305,SYR,Syria,interstate,intensity_2019,2,2019
+317,SYR,Syria,intrastate,intensity_2019,5,2019
+318,SYR,Syria,substate,intensity_2019,4,2019
+331,SYR,Syria,interstate,intensity_2019,3,2019
+332,SYR,Syria,interstate,intensity_2019,2,2019
+343,SYR,Syria,intrastate,intensity_2019,5,2019
+348,SYR,Syria,intrastate,intensity_2019,2,2019
+245,TJK,Tajikistan,intrastate,intensity_2019,3,2019
+287,TJK,Tajikistan,interstate,intensity_2019,3,2019
+53,TZA,Tanzania,intrastate,intensity_2019,1,2019
+237,THA,Thailand,intrastate,intensity_2019,3,2019
+275,THA,Thailand,intrastate,intensity_2019,1,2019
+250,TLS,Timor-Leste,interstate,intensity_2019,1,2019
+72,TGO,Togo,intrastate,intensity_2019,3,2019
+219,TON,Tonga,interstate,intensity_2019,1,2019
+344,TUN,Tunisia,intrastate,intensity_2019,3,2019
+7,TUR,Turkey,interstate,intensity_2019,1,2019
+35,TUR,Turkey,interstate,intensity_2019,2,2019
+38,TUR,Turkey,interstate,intensity_2019,0,2019
+305,TUR,Turkey,interstate,intensity_2019,2,2019
+320,TUR,Turkey,intrastate,intensity_2019,1,2019
+329,TUR,Turkey,interstate,intensity_2019,2,2019
+330,TUR,Turkey,intrastate,intensity_2019,5,2019
+296,ARE,UAE,interstate,intensity_2019,1,2019
+17,USA,USA,interstate,intensity_2019,2,2019
+150,USA,USA,interstate,intensity_2019,2,2019
+159,USA,USA,interstate,intensity_2019,2,2019
+161,USA,USA,interstate,intensity_2019,2,2019
+174,USA,USA,interstate,intensity_2019,1,2019
+191,USA,USA,intrastate,intensity_2019,2,2019
+192,USA,USA,intrastate,intensity_2019,3,2019
+202,USA,USA,interstate,intensity_2019,2,2019
+210,USA,USA,interstate,intensity_2019,2,2019
+299,USA,USA,interstate,intensity_2019,2,2019
+332,USA,USA,interstate,intensity_2019,2,2019
+57,UGA,Uganda,substate,intensity_2019,-99,2019
+70,UGA,Uganda,transstate,intensity_2019,4,2019
+102,UGA,Uganda,intrastate,intensity_2019,3,2019
+131,UGA,Uganda,interstate,intensity_2019,2,2019
+24,UKR,Ukraine,intrastate,intensity_2019,3,2019
+25,UKR,Ukraine,intrastate,intensity_2019,4,2019
+26,UKR,Ukraine,intrastate,intensity_2019,2,2019
+36,UKR,Ukraine,transstate,intensity_2019,2,2019
+39,UKR,Ukraine,interstate,intensity_2019,2,2019
+16,GBR,United Kingdom,intrastate,intensity_2019,2,2019
+20,GBR,United Kingdom,interstate,intensity_2019,2,2019
+29,GBR,United Kingdom,intrastate,intensity_2019,3,2019
+40,GBR,United Kingdom,interstate,intensity_2019,0,2019
+148,GBR,United Kingdom,interstate,intensity_2019,1,2019
+168,GBR,United Kingdom,interstate,intensity_2019,1,2019
+287,UZB,Uzbekistan,interstate,intensity_2019,3,2019
+137,VEN,Venezuela,intrastate,intensity_2019,3,2019
+139,VEN,Venezuela,interstate,intensity_2019,1,2019
+142,VEN,Venezuela,intrastate,intensity_2019,0,2019
+161,VEN,Venezuela,interstate,intensity_2019,2,2019
+193,VEN,Venezuela,interstate,intensity_2019,2,2019
+194,VEN,Venezuela,interstate,intensity_2019,2,2019
+231,VNM,Vietnam,interstate,intensity_2019,3,2019
+243,VNM,Vietnam,interstate,intensity_2019,1,2019
+285,VNM,Vietnam,intrastate,intensity_2019,1,2019
+293,VNM,Vietnam,intrastate,intensity_2019,2,2019
+304,YEM,Yemen,transstate,intensity_2019,5,2019
+315,YEM,Yemen,intrastate,intensity_2019,3,2019
+345,YEM,Yemen,substate,intensity_2019,3,2019
+355,YEM,Yemen,transstate,intensity_2019,3,2019
+52,ZWE,Zimbabwe,intrastate,intensity_2019,3,2019
+62,SWZ,eSwatini,intrastate,intensity_2019,3,2019
+316,AFG,Afghanistan,substate,intensity_2018,1,2018
+325,AFG,Afghanistan,intrastate,intensity_2018,5,2018
+353,AFG,Afghanistan,interstate,intensity_2018,3,2018
+44,ALB,Albania,intrastate,intensity_2018,3,2018
+310,DZA,Algeria,interstate,intensity_2018,,2018
+323,DZA,Algeria,intrastate,intensity_2018,2,2018
+336,DZA,Algeria,intrastate,intensity_2018,3,2018
+65,AGO,Angola,intrastate,intensity_2018,3,2018
+148,ARG,Argentina,interstate,intensity_2018,1,2018
+7,ARM,Armenia,interstate,intensity_2018,1,2018
+15,ARM,Armenia,intrastate,intensity_2018,3,2018
+33,ARM,Armenia,interstate,intensity_2018,3,2018
+6,AZE,Azerbaijan,intrastate,intensity_2018,2,2018
+14,AZE,Azerbaijan,intrastate,intensity_2018,3,2018
+33,AZE,Azerbaijan,interstate,intensity_2018,3,2018
+335,BHR,Bahrain,intrastate,intensity_2018,3,2018
+217,BGD,Bangladesh,intrastate,intensity_2018,3,2018
+263,BGD,Bangladesh,intrastate,intensity_2018,3,2018
+264,BGD,Bangladesh,intrastate,intensity_2018,3,2018
+268,BGD,Bangladesh,intrastate,intensity_2018,3,2018
+8,BLR,Belarus,intrastate,intensity_2018,2,2018
+17,BLR,Belarus,interstate,intensity_2018,2,2018
+146,BLZ,Belize,interstate,intensity_2018,2,2018
+144,BOL,Bolivia,intrastate,intensity_2018,3,2018
+172,BOL,Bolivia,intrastate,intensity_2018,,2018
+175,BOL,Bolivia,interstate,intensity_2018,1,2018
+22,BIH,Bosnia and Herzegovina,intrastate,intensity_2018,2,2018
+152,BRA,Brazil,intrastate,intensity_2018,3,2018
+180,BRA,Brazil,intrastate,intensity_2018,4,2018
+189,BRA,Brazil,intrastate,intensity_2018,3,2018
+190,BRA,Brazil,intrastate,intensity_2018,3,2018
+46,BGR,Bulgaria,intrastate,intensity_2018,0,2018
+115,BFA,Burkina Faso,intrastate,intensity_2018,2,2018
+116,BFA,Burkina Faso,intrastate,intensity_2018,3,2018
+322,BFA,Burkina Faso,transstate,intensity_2018,4,2018
+59,BDI,Burundi,interstate,intensity_2018,3,2018
+87,BDI,Burundi,transstate,intensity_2018,3,2018
+88,BDI,Burundi,intrastate,intensity_2018,3,2018
+208,KHM,Cambodia,intrastate,intensity_2018,2,2018
+243,KHM,Cambodia,interstate,intensity_2018,1,2018
+93,CMR,Cameroon,intrastate,intensity_2018,4,2018
+68,CAF,Central African Republic,transstate,intensity_2018,3,2018
+117,CAF,Central African Republic,intrastate,intensity_2018,5,2018
+84,TCD,Chad,substate,intensity_2018,3,2018
+85,TCD,Chad,intrastate,intensity_2018,3,2018
+86,TCD,Chad,intrastate,intensity_2018,3,2018
+113,TCD,Chad,transstate,intensity_2018,5,2018
+165,CHL,Chile,intrastate,intensity_2018,3,2018
+168,CHL,Chile,interstate,intensity_2018,1,2018
+169,CHL,Chile,intrastate,intensity_2018,3,2018
+170,CHL,Chile,intrastate,intensity_2018,3,2018
+175,CHL,Chile,interstate,intensity_2018,1,2018
+210,CHN,China,interstate,intensity_2018,2,2018
+225,CHN,China,intrastate,intensity_2018,3,2018
+226,CHN,China,intrastate,intensity_2018,2,2018
+227,CHN,China,intrastate,intensity_2018,2,2018
+228,CHN,China,intrastate,intensity_2018,2,2018
+229,CHN,China,interstate,intensity_2018,1,2018
+230,CHN,China,intrastate,intensity_2018,2,2018
+231,CHN,China,interstate,intensity_2018,3,2018
+232,CHN,China,interstate,intensity_2018,2,2018
+234,CHN,China,interstate,intensity_2018,,2018
+242,CHN,China,intrastate,intensity_2018,3,2018
+277,CHN,China,intrastate,intensity_2018,3,2018
+286,CHN,China,intrastate,intensity_2018,2,2018
+295,CHN,China,transstate,intensity_2018,2,2018
+138,COL,Colombia,intrastate,intensity_2018,3,2018
+139,COL,Colombia,interstate,intensity_2018,1,2018
+140,COL,Colombia,intrastate,intensity_2018,4,2018
+143,COL,Colombia,substate,intensity_2018,4,2018
+153,COL,Colombia,intrastate,intensity_2018,0,2018
+154,COL,Colombia,intrastate,intensity_2018,2,2018
+155,COL,Colombia,intrastate,intensity_2018,3,2018
+156,COL,Colombia,intrastate,intensity_2018,3,2018
+162,COL,Colombia,interstate,intensity_2018,2,2018
+193,COL,Colombia,interstate,intensity_2018,2,2018
+23,HRV,Croatia,interstate,intensity_2018,1,2018
+41,HRV,Croatia,substate,intensity_2018,1,2018
+150,CUB,Cuba,interstate,intensity_2018,2,2018
+173,CUB,Cuba,intrastate,intensity_2018,0,2018
+174,CUB,Cuba,interstate,intensity_2018,1,2018
+34,CYP,Cyprus,intrastate,intensity_2018,2,2018
+38,CYP,Cyprus,interstate,intensity_2018,0,2018
+71,,Côte d’Ivoire,intrastate,intensity_2018,3,2018
+99,,Côte d’Ivoire,intrastate,intensity_2018,3,2018
+56,COD,DR Congo,substate,intensity_2018,3,2018
+58,COD,DR Congo,intrastate,intensity_2018,3,2018
+68,COD,DR Congo,transstate,intensity_2018,3,2018
+70,COD,DR Congo,transstate,intensity_2018,4,2018
+81,COD,DR Congo,intrastate,intensity_2018,4,2018
+87,COD,DR Congo,transstate,intensity_2018,3,2018
+89,COD,DR Congo,intrastate,intensity_2018,4,2018
+90,COD,DR Congo,transstate,intensity_2018,3,2018
+95,COD,DR Congo,intrastate,intensity_2018,3,2018
+97,COD,DR Congo,intrastate,intensity_2018,1,2018
+101,COD,DR Congo,intrastate,intensity_2018,1,2018
+119,DJI,Djibouti,interstate,intensity_2018,2,2018
+127,DJI,Djibouti,intrastate,intensity_2018,2,2018
+129,DJI,Djibouti,intrastate,intensity_2018,2,2018
+177,DOM,Dominican Republic,interstate,intensity_2018,3,2018
+17,,EU,interstate,intensity_2018,2,2018
+141,ECU,Ecuador,intrastate,intensity_2018,2,2018
+176,ECU,Ecuador,substate,intensity_2018,0,2018
+122,EGY,Egypt,interstate,intensity_2018,2,2018
+302,EGY,Egypt,interstate,intensity_2018,1,2018
+313,EGY,Egypt,intrastate,intensity_2018,3,2018
+333,EGY,Egypt,intrastate,intensity_2018,5,2018
+337,EGY,Egypt,substate,intensity_2018,3,2018
+185,SLV,El Salvador,intrastate,intensity_2018,3,2018
+186,SLV,El Salvador,interstate,intensity_2018,2,2018
+187,SLV,El Salvador,substate,intensity_2018,3,2018
+188,SLV,El Salvador,intrastate,intensity_2018,0,2018
+119,ERI,Eritrea,interstate,intensity_2018,2,2018
+128,ERI,Eritrea,intrastate,intensity_2018,1,2018
+135,ERI,Eritrea,transstate,intensity_2018,0,2018
+12,EST,Estonia,interstate,intensity_2018,1,2018
+69,ETH,Ethiopia,intrastate,intensity_2018,3,2018
+80,ETH,Ethiopia,intrastate,intensity_2018,3,2018
+94,ETH,Ethiopia,interstate,intensity_2018,,2018
+122,ETH,Ethiopia,interstate,intensity_2018,2,2018
+132,ETH,Ethiopia,substate,intensity_2018,5,2018
+135,ETH,Ethiopia,transstate,intensity_2018,0,2018
+219,FJI,Fiji,interstate,intensity_2018,1,2018
+32,FRA,France,intrastate,intensity_2018,1,2018
+40,FRA,France,interstate,intensity_2018,0,2018
+114,GAB,Gabon,intrastate,intensity_2018,2,2018
+123,GMB,Gambia,intrastate,intensity_2018,3,2018
+1,GEO,Georgia,interstate,intensity_2018,2,2018
+2,GEO,Georgia,intrastate,intensity_2018,2,2018
+3,GEO,Georgia,intrastate,intensity_2018,3,2018
+13,GEO,Georgia,intrastate,intensity_2018,3,2018
+4,DEU,Germany,intrastate,intensity_2018,3,2018
+124,GHA,Ghana,intrastate,intensity_2018,,2018
+18,GRC,Greece,intrastate,intensity_2018,3,2018
+35,GRC,Greece,interstate,intensity_2018,1,2018
+38,GRC,Greece,interstate,intensity_2018,0,2018
+42,GRC,Greece,intrastate,intensity_2018,3,2018
+43,GRC,Greece,substate,intensity_2018,3,2018
+146,GTM,Guatemala,interstate,intensity_2018,2,2018
+178,GTM,Guatemala,intrastate,intensity_2018,3,2018
+182,GTM,Guatemala,intrastate,intensity_2018,3,2018
+82,GIN,Guinea,intrastate,intensity_2018,3,2018
+66,,Guinea-Bissau,intrastate,intensity_2018,1,2018
+194,GUY,Guyana,interstate,intensity_2018,2,2018
+149,HTI,Haiti,intrastate,intensity_2018,3,2018
+177,HTI,Haiti,interstate,intensity_2018,3,2018
+179,HND,Honduras,substate,intensity_2018,3,2018
+183,HND,Honduras,intrastate,intensity_2018,3,2018
+184,HND,Honduras,intrastate,intensity_2018,3,2018
+186,HND,Honduras,interstate,intensity_2018,2,2018
+36,HUN,Hungary,transstate,intensity_2018,2,2018
+37,HUN,Hungary,substate,intensity_2018,1,2018
+204,IND,India,intrastate,intensity_2018,1,2018
+212,IND,India,substate,intensity_2018,3,2018
+213,IND,India,intrastate,intensity_2018,3,2018
+214,IND,India,interstate,intensity_2018,4,2018
+220,IND,India,substate,intensity_2018,3,2018
+229,IND,India,interstate,intensity_2018,1,2018
+235,IND,India,intrastate,intensity_2018,0,2018
+236,IND,India,intrastate,intensity_2018,4,2018
+238,IND,India,intrastate,intensity_2018,3,2018
+239,IND,India,substate,intensity_2018,1,2018
+247,IND,India,intrastate,intensity_2018,3,2018
+252,IND,India,intrastate,intensity_2018,3,2018
+253,IND,India,intrastate,intensity_2018,3,2018
+267,IND,India,intrastate,intensity_2018,1,2018
+269,IND,India,intrastate,intensity_2018,2,2018
+270,IND,India,intrastate,intensity_2018,3,2018
+273,IND,India,substate,intensity_2018,3,2018
+274,IND,India,intrastate,intensity_2018,2,2018
+276,IND,India,intrastate,intensity_2018,3,2018
+291,IND,India,intrastate,intensity_2018,3,2018
+292,IND,India,intrastate,intensity_2018,3,2018
+221,IDN,Indonesia,intrastate,intensity_2018,1,2018
+222,IDN,Indonesia,intrastate,intensity_2018,3,2018
+223,IDN,Indonesia,intrastate,intensity_2018,3,2018
+233,IDN,Indonesia,substate,intensity_2018,3,2018
+250,IDN,Indonesia,interstate,intensity_2018,1,2018
+278,IDN,Indonesia,substate,intensity_2018,2,2018
+279,IDN,Indonesia,intrastate,intensity_2018,1,2018
+296,IRN,Iran,interstate,intensity_2018,1,2018
+297,IRN,Iran,intrastate,intensity_2018,3,2018
+298,IRN,Iran,intrastate,intensity_2018,2,2018
+299,IRN,Iran,interstate,intensity_2018,2,2018
+308,IRN,Iran,intrastate,intensity_2018,3,2018
+309,IRN,Iran,interstate,intensity_2018,3,2018
+334,IRN,Iran,interstate,intensity_2018,2,2018
+350,IRN,Iran,intrastate,intensity_2018,3,2018
+351,IRN,Iran,intrastate,intensity_2018,3,2018
+300,IRQ,Iraq,intrastate,intensity_2018,3,2018
+303,IRQ,Iraq,transstate,intensity_2018,5,2018
+311,IRQ,Iraq,intrastate,intensity_2018,1,2018
+338,IRQ,Iraq,intrastate,intensity_2018,-99,2018
+346,IRQ,Iraq,intrastate,intensity_2018,3,2018
+301,ISR,Israel,intrastate,intensity_2018,2,2018
+306,ISR,Israel,interstate,intensity_2018,3,2018
+309,ISR,Israel,interstate,intensity_2018,3,2018
+312,ISR,Israel,intrastate,intensity_2018,4,2018
+327,ISR,Israel,interstate,intensity_2018,3,2018
+331,ISR,Israel,interstate,intensity_2018,3,2018
+181,JAM,Jamaica,intrastate,intensity_2018,3,2018
+200,JPN,Japan,interstate,intensity_2018,2,2018
+201,JPN,Japan,interstate,intensity_2018,1,2018
+202,JPN,Japan,interstate,intensity_2018,2,2018
+232,JPN,Japan,interstate,intensity_2018,2,2018
+339,JOR,Jordan,intrastate,intensity_2018,3,2018
+246,KAZ,Kazakhstan,intrastate,intensity_2018,2,2018
+51,KEN,Kenya,intrastate,intensity_2018,1,2018
+67,KEN,Kenya,substate,intensity_2018,3,2018
+78,KEN,Kenya,intrastate,intensity_2018,2,2018
+92,KEN,Kenya,transstate,intensity_2018,5,2018
+126,KEN,Kenya,interstate,intensity_2018,0,2018
+27,XKX,Kosovo,interstate,intensity_2018,2,2018
+50,XKX,Kosovo,intrastate,intensity_2018,3,2018
+347,KWT,Kuwait,intrastate,intensity_2018,1,2018
+349,KWT,Kuwait,intrastate,intensity_2018,1,2018
+251,KGZ,Kyrgyzstan,intrastate,intensity_2018,2,2018
+287,KGZ,Kyrgyzstan,interstate,intensity_2018,3,2018
+206,LAO,Laos,intrastate,intensity_2018,3,2018
+288,LAO,Laos,intrastate,intensity_2018,1,2018
+31,LVA,Latvia,interstate,intensity_2018,2,2018
+306,LBN,Lebanon,interstate,intensity_2018,3,2018
+319,LBN,Lebanon,substate,intensity_2018,3,2018
+321,LBN,Lebanon,intrastate,intensity_2018,0,2018
+38,LBY,Libya,interstate,intensity_2018,0,2018
+340,LBY,Libya,intrastate,intensity_2018,5,2018
+354,LBY,Libya,substate,intensity_2018,4,2018
+205,MYS,Malaysia,interstate,intensity_2018,2,2018
+209,MYS,Malaysia,intrastate,intensity_2018,-99,2018
+271,MYS,Malaysia,substate,intensity_2018,1,2018
+244,MDV,Maldives,intrastate,intensity_2018,3,2018
+63,MLI,Mali,intrastate,intensity_2018,1,2018
+64,MLI,Mali,transstate,intensity_2018,,2018
+77,MLI,Mali,substate,intensity_2018,4,2018
+133,MLI,Mali,substate,intensity_2018,3,2018
+136,MLI,Mali,intrastate,intensity_2018,3,2018
+322,MLI,Mali,transstate,intensity_2018,4,2018
+352,MRT,Mauritania,intrastate,intensity_2018,3,2018
+145,MEX,Mexico,intrastate,intensity_2018,2,2018
+147,MEX,Mexico,substate,intensity_2018,4,2018
+151,MEX,Mexico,intrastate,intensity_2018,3,2018
+157,MEX,Mexico,intrastate,intensity_2018,3,2018
+158,MEX,Mexico,intrastate,intensity_2018,3,2018
+159,MEX,Mexico,interstate,intensity_2018,3,2018
+163,MEX,Mexico,intrastate,intensity_2018,0,2018
+164,MEX,Mexico,intrastate,intensity_2018,5,2018
+21,MDA,Moldova,intrastate,intensity_2018,3,2018
+30,MDA,Moldova,intrastate,intensity_2018,2,2018
+45,MNE,Montenegro,intrastate,intensity_2018,,2018
+310,MAR,Morocco,interstate,intensity_2018,,2018
+324,MAR,Morocco,intrastate,intensity_2018,2,2018
+341,MAR,Morocco,intrastate,intensity_2018,3,2018
+55,MOZ,Mozambique,intrastate,intensity_2018,3,2018
+121,MOZ,Mozambique,intrastate,intensity_2018,3,2018
+207,MMR,Myanmar,intrastate,intensity_2018,3,2018
+218,MMR,Myanmar,intrastate,intensity_2018,1,2018
+257,MMR,Myanmar,intrastate,intensity_2018,3,2018
+258,MMR,Myanmar,intrastate,intensity_2018,3,2018
+259,MMR,Myanmar,intrastate,intensity_2018,3,2018
+260,MMR,Myanmar,intrastate,intensity_2018,4,2018
+261,MMR,Myanmar,substate,intensity_2018,3,2018
+262,MMR,Myanmar,intrastate,intensity_2018,1,2018
+265,MMR,Myanmar,intrastate,intensity_2018,3,2018
+282,MMR,Myanmar,intrastate,intensity_2018,4,2018
+294,MMR,Myanmar,intrastate,intensity_2018,3,2018
+224,NPL,Nepal,intrastate,intensity_2018,3,2018
+255,NPL,Nepal,intrastate,intensity_2018,3,2018
+283,NPL,Nepal,intrastate,intensity_2018,3,2018
+162,NIC,Nicaragua,interstate,intensity_2018,2,2018
+167,NIC,Nicaragua,intrastate,intensity_2018,4,2018
+195,NIC,Nicaragua,intrastate,intensity_2018,3,2018
+98,NER,Niger,intrastate,intensity_2018,3,2018
+60,NGA,Nigeria,intrastate,intensity_2018,3,2018
+64,NGA,Nigeria,transstate,intensity_2018,,2018
+73,NGA,Nigeria,substate,intensity_2018,,2018
+76,NGA,Nigeria,intrastate,intensity_2018,3,2018
+79,NGA,Nigeria,intrastate,intensity_2018,3,2018
+100,NGA,Nigeria,substate,intensity_2018,5,2018
+108,NGA,Nigeria,substate,intensity_2018,3,2018
+109,NGA,Nigeria,intrastate,intensity_2018,0,2018
+110,NGA,Nigeria,intrastate,intensity_2018,,2018
+113,NGA,Nigeria,transstate,intensity_2018,5,2018
+198,PRK,North Korea,interstate,intensity_2018,2,2018
+202,PRK,North Korea,interstate,intensity_2018,2,2018
+295,PRK,North Korea,transstate,intensity_2018,2,2018
+28,MKD,North Macedonia,substate,intensity_2018,2,2018
+49,MKD,North Macedonia,intrastate,intensity_2018,3,2018
+10,NOR,Norway,interstate,intensity_2018,2,2018
+342,OMN,Oman,intrastate,intensity_2018,1,2018
+214,PAK,Pakistan,interstate,intensity_2018,4,2018
+248,PAK,Pakistan,intrastate,intensity_2018,3,2018
+249,PAK,Pakistan,substate,intensity_2018,3,2018
+254,PAK,Pakistan,intrastate,intensity_2018,4,2018
+256,PAK,Pakistan,intrastate,intensity_2018,3,2018
+284,PAK,Pakistan,intrastate,intensity_2018,3,2018
+290,PAK,Pakistan,intrastate,intensity_2018,3,2018
+353,PAK,Pakistan,interstate,intensity_2018,3,2018
+211,PNG,Papua New Guinea,substate,intensity_2018,2,2018
+215,PNG,Papua New Guinea,intrastate,intensity_2018,2,2018
+216,PNG,Papua New Guinea,substate,intensity_2018,3,2018
+272,PNG,Papua New Guinea,intrastate,intensity_2018,2,2018
+289,PNG,Papua New Guinea,intrastate,intensity_2018,1,2018
+160,PRY,Paraguay,intrastate,intensity_2018,3,2018
+166,PER,Peru,intrastate,intensity_2018,3,2018
+171,PER,Peru,intrastate,intensity_2018,3,2018
+196,PHL,Philippines,intrastate,intensity_2018,3,2018
+197,PHL,Philippines,intrastate,intensity_2018,4,2018
+199,PHL,Philippines,intrastate,intensity_2018,3,2018
+203,PHL,Philippines,intrastate,intensity_2018,2,2018
+266,PHL,Philippines,intrastate,intensity_2018,,2018
+280,PHL,Philippines,intrastate,intensity_2018,4,2018
+281,PHL,Philippines,substate,intensity_2018,3,2018
+326,QAT,Qatar,interstate,intensity_2018,1,2018
+75,COG,Republic of Congo,intrastate,intensity_2018,1,2018
+36,ROU,Romania,transstate,intensity_2018,2,2018
+1,RUS,Russia,interstate,intensity_2018,2,2018
+9,RUS,Russia,intrastate,intensity_2018,3,2018
+10,RUS,Russia,interstate,intensity_2018,2,2018
+12,RUS,Russia,interstate,intensity_2018,1,2018
+17,RUS,Russia,interstate,intensity_2018,2,2018
+31,RUS,Russia,interstate,intensity_2018,2,2018
+39,RUS,Russia,interstate,intensity_2018,3,2018
+48,RUS,Russia,intrastate,intensity_2018,3,2018
+200,RUS,Russia,interstate,intensity_2018,2,2018
+329,RUS,Russia,interstate,intensity_2018,-99,2018
+59,RWA,Rwanda,interstate,intensity_2018,3,2018
+90,RWA,Rwanda,transstate,intensity_2018,3,2018
+111,RWA,Rwanda,intrastate,intensity_2018,1,2018
+131,RWA,Rwanda,interstate,intensity_2018,1,2018
+304,SAU,Saudi Arabia,transstate,intensity_2018,5,2018
+314,SAU,Saudi Arabia,intrastate,intensity_2018,3,2018
+326,SAU,Saudi Arabia,interstate,intensity_2018,1,2018
+328,SAU,Saudi Arabia,intrastate,intensity_2018,3,2018
+334,SAU,Saudi Arabia,interstate,intensity_2018,2,2018
+355,SAU,Saudi Arabia,transstate,intensity_2018,,2018
+91,SEN,Senegal,intrastate,intensity_2018,3,2018
+27,SRB,Serbia,interstate,intensity_2018,2,2018
+47,SRB,Serbia,intrastate,intensity_2018,,2018
+107,SLE,Sierra Leone,intrastate,intensity_2018,3,2018
+205,SGP,Singapore,interstate,intensity_2018,2,2018
+36,SVK,Slovakia,transstate,intensity_2018,2,2018
+23,SVN,Slovenia,interstate,intensity_2018,1,2018
+61,SOM,Somalia,intrastate,intensity_2018,1,2018
+83,SOM,Somalia,intrastate,intensity_2018,3,2018
+92,SOM,Somalia,transstate,intensity_2018,5,2018
+103,SOM,Somalia,intrastate,intensity_2018,4,2018
+120,SOM,Somalia,substate,intensity_2018,3,2018
+126,SOM,Somalia,interstate,intensity_2018,0,2018
+54,ZAF,South Africa,intrastate,intensity_2018,3,2018
+96,ZAF,South Africa,substate,intensity_2018,3,2018
+130,ZAF,South Africa,intrastate,intensity_2018,3,2018
+198,KOR,South Korea,interstate,intensity_2018,2,2018
+201,KOR,South Korea,interstate,intensity_2018,1,2018
+202,KOR,South Korea,interstate,intensity_2018,2,2018
+234,KOR,South Korea,interstate,intensity_2018,,2018
+104,SSD,South Sudan,interstate,intensity_2018,2,2018
+106,SSD,South Sudan,substate,intensity_2018,3,2018
+112,SSD,South Sudan,substate,intensity_2018,4,2018
+134,SSD,South Sudan,intrastate,intensity_2018,2,2018
+11,ESP,Spain,intrastate,intensity_2018,3,2018
+19,ESP,Spain,intrastate,intensity_2018,1,2018
+20,ESP,Spain,interstate,intensity_2018,2,2018
+240,LKA,Sri Lanka,intrastate,intensity_2018,2,2018
+241,LKA,Sri Lanka,substate,intensity_2018,3,2018
+307,PSE,State of Palestine,substate,intensity_2018,1,2018
+327,PSE,State of Palestine,interstate,intensity_2018,3,2018
+74,SDN,Sudan,intrastate,intensity_2018,5,2018
+94,SDN,Sudan,interstate,intensity_2018,,2018
+104,SDN,Sudan,interstate,intensity_2018,2,2018
+105,SDN,Sudan,intrastate,intensity_2018,3,2018
+106,SDN,Sudan,substate,intensity_2018,3,2018
+118,SDN,Sudan,substate,intensity_2018,3,2018
+122,SDN,Sudan,interstate,intensity_2018,2,2018
+125,SDN,Sudan,intrastate,intensity_2018,3,2018
+302,SDN,Sudan,interstate,intensity_2018,1,2018
+5,SWE,Sweden,intrastate,intensity_2018,3,2018
+303,SYR,Syria,transstate,intensity_2018,5,2018
+305,SYR,Syria,interstate,intensity_2018,2,2018
+317,SYR,Syria,intrastate,intensity_2018,5,2018
+318,SYR,Syria,substate,intensity_2018,5,2018
+331,SYR,Syria,interstate,intensity_2018,3,2018
+332,SYR,Syria,interstate,intensity_2018,3,2018
+343,SYR,Syria,intrastate,intensity_2018,5,2018
+348,SYR,Syria,intrastate,intensity_2018,3,2018
+245,TJK,Tajikistan,intrastate,intensity_2018,3,2018
+287,TJK,Tajikistan,interstate,intensity_2018,3,2018
+53,TZA,Tanzania,intrastate,intensity_2018,3,2018
+237,THA,Thailand,intrastate,intensity_2018,3,2018
+275,THA,Thailand,intrastate,intensity_2018,1,2018
+250,TLS,Timor-Leste,interstate,intensity_2018,1,2018
+72,TGO,Togo,intrastate,intensity_2018,3,2018
+219,TON,Tonga,interstate,intensity_2018,1,2018
+344,TUN,Tunisia,intrastate,intensity_2018,3,2018
+7,TUR,Turkey,interstate,intensity_2018,1,2018
+35,TUR,Turkey,interstate,intensity_2018,1,2018
+38,TUR,Turkey,interstate,intensity_2018,0,2018
+305,TUR,Turkey,interstate,intensity_2018,2,2018
+320,TUR,Turkey,intrastate,intensity_2018,2,2018
+329,TUR,Turkey,interstate,intensity_2018,-99,2018
+330,TUR,Turkey,intrastate,intensity_2018,5,2018
+296,ARE,UAE,interstate,intensity_2018,1,2018
+17,USA,USA,interstate,intensity_2018,2,2018
+150,USA,USA,interstate,intensity_2018,2,2018
+159,USA,USA,interstate,intensity_2018,3,2018
+161,USA,USA,interstate,intensity_2018,2,2018
+174,USA,USA,interstate,intensity_2018,1,2018
+191,USA,USA,intrastate,intensity_2018,2,2018
+192,USA,USA,intrastate,intensity_2018,3,2018
+202,USA,USA,interstate,intensity_2018,2,2018
+210,USA,USA,interstate,intensity_2018,2,2018
+299,USA,USA,interstate,intensity_2018,2,2018
+332,USA,USA,interstate,intensity_2018,3,2018
+57,UGA,Uganda,substate,intensity_2018,1,2018
+70,UGA,Uganda,transstate,intensity_2018,4,2018
+102,UGA,Uganda,intrastate,intensity_2018,3,2018
+131,UGA,Uganda,interstate,intensity_2018,1,2018
+24,UKR,Ukraine,intrastate,intensity_2018,3,2018
+25,UKR,Ukraine,intrastate,intensity_2018,4,2018
+26,UKR,Ukraine,intrastate,intensity_2018,2,2018
+36,UKR,Ukraine,transstate,intensity_2018,2,2018
+39,UKR,Ukraine,interstate,intensity_2018,3,2018
+16,GBR,United Kingdom,intrastate,intensity_2018,1,2018
+20,GBR,United Kingdom,interstate,intensity_2018,2,2018
+29,GBR,United Kingdom,intrastate,intensity_2018,3,2018
+40,GBR,United Kingdom,interstate,intensity_2018,0,2018
+148,GBR,United Kingdom,interstate,intensity_2018,1,2018
+168,GBR,United Kingdom,interstate,intensity_2018,1,2018
+287,UZB,Uzbekistan,interstate,intensity_2018,3,2018
+137,VEN,Venezuela,intrastate,intensity_2018,3,2018
+139,VEN,Venezuela,interstate,intensity_2018,1,2018
+142,VEN,Venezuela,intrastate,intensity_2018,0,2018
+161,VEN,Venezuela,interstate,intensity_2018,2,2018
+193,VEN,Venezuela,interstate,intensity_2018,2,2018
+194,VEN,Venezuela,interstate,intensity_2018,2,2018
+231,VNM,Vietnam,interstate,intensity_2018,3,2018
+243,VNM,Vietnam,interstate,intensity_2018,1,2018
+285,VNM,Vietnam,intrastate,intensity_2018,1,2018
+293,VNM,Vietnam,intrastate,intensity_2018,3,2018
+304,YEM,Yemen,transstate,intensity_2018,5,2018
+315,YEM,Yemen,intrastate,intensity_2018,3,2018
+345,YEM,Yemen,substate,intensity_2018,3,2018
+355,YEM,Yemen,transstate,intensity_2018,,2018
+52,ZWE,Zimbabwe,intrastate,intensity_2018,3,2018
+62,SWZ,eSwatini,intrastate,intensity_2018,3,2018
+316,AFG,Afghanistan,substate,intensity_2017,3,2017
+325,AFG,Afghanistan,intrastate,intensity_2017,5,2017
+353,AFG,Afghanistan,interstate,intensity_2017,3,2017
+44,ALB,Albania,intrastate,intensity_2017,3,2017
+310,DZA,Algeria,interstate,intensity_2017,,2017
+323,DZA,Algeria,intrastate,intensity_2017,3,2017
+336,DZA,Algeria,intrastate,intensity_2017,3,2017
+65,AGO,Angola,intrastate,intensity_2017,3,2017
+148,ARG,Argentina,interstate,intensity_2017,1,2017
+7,ARM,Armenia,interstate,intensity_2017,1,2017
+15,ARM,Armenia,intrastate,intensity_2017,2,2017
+33,ARM,Armenia,interstate,intensity_2017,3,2017
+6,AZE,Azerbaijan,intrastate,intensity_2017,3,2017
+14,AZE,Azerbaijan,intrastate,intensity_2017,3,2017
+33,AZE,Azerbaijan,interstate,intensity_2017,3,2017
+335,BHR,Bahrain,intrastate,intensity_2017,3,2017
+217,BGD,Bangladesh,intrastate,intensity_2017,3,2017
+263,BGD,Bangladesh,intrastate,intensity_2017,3,2017
+264,BGD,Bangladesh,intrastate,intensity_2017,3,2017
+268,BGD,Bangladesh,intrastate,intensity_2017,3,2017
+8,BLR,Belarus,intrastate,intensity_2017,3,2017
+17,BLR,Belarus,interstate,intensity_2017,2,2017
+146,BLZ,Belize,interstate,intensity_2017,2,2017
+144,BOL,Bolivia,intrastate,intensity_2017,3,2017
+172,BOL,Bolivia,intrastate,intensity_2017,,2017
+175,BOL,Bolivia,interstate,intensity_2017,1,2017
+22,BIH,Bosnia and Herzegovina,intrastate,intensity_2017,2,2017
+152,BRA,Brazil,intrastate,intensity_2017,3,2017
+180,BRA,Brazil,intrastate,intensity_2017,4,2017
+189,BRA,Brazil,intrastate,intensity_2017,3,2017
+190,BRA,Brazil,intrastate,intensity_2017,3,2017
+46,BGR,Bulgaria,intrastate,intensity_2017,0,2017
+115,BFA,Burkina Faso,intrastate,intensity_2017,2,2017
+116,BFA,Burkina Faso,intrastate,intensity_2017,3,2017
+322,BFA,Burkina Faso,transstate,intensity_2017,4,2017
+59,BDI,Burundi,interstate,intensity_2017,2,2017
+87,BDI,Burundi,transstate,intensity_2017,3,2017
+88,BDI,Burundi,intrastate,intensity_2017,3,2017
+208,KHM,Cambodia,intrastate,intensity_2017,2,2017
+243,KHM,Cambodia,interstate,intensity_2017,1,2017
+93,CMR,Cameroon,intrastate,intensity_2017,3,2017
+68,CAF,Central African Republic,transstate,intensity_2017,3,2017
+117,CAF,Central African Republic,intrastate,intensity_2017,5,2017
+84,TCD,Chad,substate,intensity_2017,1,2017
+85,TCD,Chad,intrastate,intensity_2017,1,2017
+86,TCD,Chad,intrastate,intensity_2017,3,2017
+113,TCD,Chad,transstate,intensity_2017,5,2017
+165,CHL,Chile,intrastate,intensity_2017,3,2017
+168,CHL,Chile,interstate,intensity_2017,1,2017
+169,CHL,Chile,intrastate,intensity_2017,3,2017
+170,CHL,Chile,intrastate,intensity_2017,3,2017
+175,CHL,Chile,interstate,intensity_2017,1,2017
+210,CHN,China,interstate,intensity_2017,2,2017
+225,CHN,China,intrastate,intensity_2017,3,2017
+226,CHN,China,intrastate,intensity_2017,3,2017
+227,CHN,China,intrastate,intensity_2017,3,2017
+228,CHN,China,intrastate,intensity_2017,3,2017
+229,CHN,China,interstate,intensity_2017,2,2017
+230,CHN,China,intrastate,intensity_2017,2,2017
+231,CHN,China,interstate,intensity_2017,3,2017
+232,CHN,China,interstate,intensity_2017,2,2017
+234,CHN,China,interstate,intensity_2017,,2017
+242,CHN,China,intrastate,intensity_2017,1,2017
+277,CHN,China,intrastate,intensity_2017,3,2017
+286,CHN,China,intrastate,intensity_2017,3,2017
+295,CHN,China,transstate,intensity_2017,3,2017
+138,COL,Colombia,intrastate,intensity_2017,4,2017
+139,COL,Colombia,interstate,intensity_2017,1,2017
+140,COL,Colombia,intrastate,intensity_2017,4,2017
+143,COL,Colombia,substate,intensity_2017,4,2017
+153,COL,Colombia,intrastate,intensity_2017,0,2017
+154,COL,Colombia,intrastate,intensity_2017,3,2017
+155,COL,Colombia,intrastate,intensity_2017,3,2017
+156,COL,Colombia,intrastate,intensity_2017,3,2017
+162,COL,Colombia,interstate,intensity_2017,2,2017
+193,COL,Colombia,interstate,intensity_2017,2,2017
+23,HRV,Croatia,interstate,intensity_2017,1,2017
+41,HRV,Croatia,substate,intensity_2017,1,2017
+150,CUB,Cuba,interstate,intensity_2017,2,2017
+173,CUB,Cuba,intrastate,intensity_2017,0,2017
+174,CUB,Cuba,interstate,intensity_2017,1,2017
+34,CYP,Cyprus,intrastate,intensity_2017,2,2017
+38,CYP,Cyprus,interstate,intensity_2017,0,2017
+71,,Côte d’Ivoire,intrastate,intensity_2017,2,2017
+99,,Côte d’Ivoire,intrastate,intensity_2017,3,2017
+56,COD,DR Congo,substate,intensity_2017,4,2017
+58,COD,DR Congo,intrastate,intensity_2017,3,2017
+68,COD,DR Congo,transstate,intensity_2017,3,2017
+70,COD,DR Congo,transstate,intensity_2017,4,2017
+81,COD,DR Congo,intrastate,intensity_2017,3,2017
+87,COD,DR Congo,transstate,intensity_2017,3,2017
+89,COD,DR Congo,intrastate,intensity_2017,5,2017
+90,COD,DR Congo,transstate,intensity_2017,3,2017
+95,COD,DR Congo,intrastate,intensity_2017,5,2017
+97,COD,DR Congo,intrastate,intensity_2017,3,2017
+101,COD,DR Congo,intrastate,intensity_2017,1,2017
+119,DJI,Djibouti,interstate,intensity_2017,2,2017
+127,DJI,Djibouti,intrastate,intensity_2017,2,2017
+129,DJI,Djibouti,intrastate,intensity_2017,2,2017
+177,DOM,Dominican Republic,interstate,intensity_2017,3,2017
+17,,EU,interstate,intensity_2017,2,2017
+141,ECU,Ecuador,intrastate,intensity_2017,2,2017
+176,ECU,Ecuador,substate,intensity_2017,0,2017
+122,EGY,Egypt,interstate,intensity_2017,2,2017
+302,EGY,Egypt,interstate,intensity_2017,2,2017
+313,EGY,Egypt,intrastate,intensity_2017,3,2017
+333,EGY,Egypt,intrastate,intensity_2017,4,2017
+337,EGY,Egypt,substate,intensity_2017,3,2017
+185,SLV,El Salvador,intrastate,intensity_2017,4,2017
+186,SLV,El Salvador,interstate,intensity_2017,1,2017
+187,SLV,El Salvador,substate,intensity_2017,3,2017
+188,SLV,El Salvador,intrastate,intensity_2017,0,2017
+119,ERI,Eritrea,interstate,intensity_2017,2,2017
+128,ERI,Eritrea,intrastate,intensity_2017,1,2017
+135,ERI,Eritrea,transstate,intensity_2017,0,2017
+12,EST,Estonia,interstate,intensity_2017,2,2017
+69,ETH,Ethiopia,intrastate,intensity_2017,2,2017
+80,ETH,Ethiopia,intrastate,intensity_2017,3,2017
+94,ETH,Ethiopia,interstate,intensity_2017,,2017
+122,ETH,Ethiopia,interstate,intensity_2017,2,2017
+132,ETH,Ethiopia,substate,intensity_2017,5,2017
+135,ETH,Ethiopia,transstate,intensity_2017,0,2017
+219,FJI,Fiji,interstate,intensity_2017,1,2017
+32,FRA,France,intrastate,intensity_2017,1,2017
+40,FRA,France,interstate,intensity_2017,0,2017
+114,GAB,Gabon,intrastate,intensity_2017,3,2017
+123,GMB,Gambia,intrastate,intensity_2017,3,2017
+1,GEO,Georgia,interstate,intensity_2017,2,2017
+2,GEO,Georgia,intrastate,intensity_2017,2,2017
+3,GEO,Georgia,intrastate,intensity_2017,2,2017
+13,GEO,Georgia,intrastate,intensity_2017,3,2017
+4,DEU,Germany,intrastate,intensity_2017,3,2017
+124,GHA,Ghana,intrastate,intensity_2017,,2017
+18,GRC,Greece,intrastate,intensity_2017,3,2017
+35,GRC,Greece,interstate,intensity_2017,1,2017
+38,GRC,Greece,interstate,intensity_2017,0,2017
+42,GRC,Greece,intrastate,intensity_2017,3,2017
+43,GRC,Greece,substate,intensity_2017,3,2017
+146,GTM,Guatemala,interstate,intensity_2017,2,2017
+178,GTM,Guatemala,intrastate,intensity_2017,2,2017
+182,GTM,Guatemala,intrastate,intensity_2017,3,2017
+82,GIN,Guinea,intrastate,intensity_2017,3,2017
+66,,Guinea-Bissau,intrastate,intensity_2017,3,2017
+194,GUY,Guyana,interstate,intensity_2017,1,2017
+149,HTI,Haiti,intrastate,intensity_2017,3,2017
+177,HTI,Haiti,interstate,intensity_2017,3,2017
+179,HND,Honduras,substate,intensity_2017,3,2017
+183,HND,Honduras,intrastate,intensity_2017,3,2017
+184,HND,Honduras,intrastate,intensity_2017,3,2017
+186,HND,Honduras,interstate,intensity_2017,1,2017
+36,HUN,Hungary,transstate,intensity_2017,1,2017
+37,HUN,Hungary,substate,intensity_2017,2,2017
+204,IND,India,intrastate,intensity_2017,3,2017
+212,IND,India,substate,intensity_2017,3,2017
+213,IND,India,intrastate,intensity_2017,3,2017
+214,IND,India,interstate,intensity_2017,3,2017
+220,IND,India,substate,intensity_2017,3,2017
+229,IND,India,interstate,intensity_2017,2,2017
+235,IND,India,intrastate,intensity_2017,0,2017
+236,IND,India,intrastate,intensity_2017,3,2017
+238,IND,India,intrastate,intensity_2017,3,2017
+239,IND,India,substate,intensity_2017,2,2017
+247,IND,India,intrastate,intensity_2017,3,2017
+252,IND,India,intrastate,intensity_2017,3,2017
+253,IND,India,intrastate,intensity_2017,3,2017
+267,IND,India,intrastate,intensity_2017,3,2017
+269,IND,India,intrastate,intensity_2017,3,2017
+270,IND,India,intrastate,intensity_2017,3,2017
+273,IND,India,substate,intensity_2017,3,2017
+274,IND,India,intrastate,intensity_2017,3,2017
+276,IND,India,intrastate,intensity_2017,3,2017
+291,IND,India,intrastate,intensity_2017,3,2017
+292,IND,India,intrastate,intensity_2017,3,2017
+221,IDN,Indonesia,intrastate,intensity_2017,1,2017
+222,IDN,Indonesia,intrastate,intensity_2017,3,2017
+223,IDN,Indonesia,intrastate,intensity_2017,3,2017
+233,IDN,Indonesia,substate,intensity_2017,3,2017
+250,IDN,Indonesia,interstate,intensity_2017,1,2017
+278,IDN,Indonesia,substate,intensity_2017,2,2017
+279,IDN,Indonesia,intrastate,intensity_2017,2,2017
+296,IRN,Iran,interstate,intensity_2017,1,2017
+297,IRN,Iran,intrastate,intensity_2017,3,2017
+298,IRN,Iran,intrastate,intensity_2017,2,2017
+299,IRN,Iran,interstate,intensity_2017,2,2017
+308,IRN,Iran,intrastate,intensity_2017,3,2017
+309,IRN,Iran,interstate,intensity_2017,2,2017
+334,IRN,Iran,interstate,intensity_2017,2,2017
+350,IRN,Iran,intrastate,intensity_2017,3,2017
+351,IRN,Iran,intrastate,intensity_2017,3,2017
+300,IRQ,Iraq,intrastate,intensity_2017,2,2017
+303,IRQ,Iraq,transstate,intensity_2017,5,2017
+311,IRQ,Iraq,intrastate,intensity_2017,3,2017
+338,IRQ,Iraq,intrastate,intensity_2017,-99,2017
+346,IRQ,Iraq,intrastate,intensity_2017,1,2017
+301,ISR,Israel,intrastate,intensity_2017,2,2017
+306,ISR,Israel,interstate,intensity_2017,2,2017
+309,ISR,Israel,interstate,intensity_2017,2,2017
+312,ISR,Israel,intrastate,intensity_2017,3,2017
+327,ISR,Israel,interstate,intensity_2017,3,2017
+331,ISR,Israel,interstate,intensity_2017,3,2017
+181,JAM,Jamaica,intrastate,intensity_2017,3,2017
+200,JPN,Japan,interstate,intensity_2017,2,2017
+201,JPN,Japan,interstate,intensity_2017,1,2017
+202,JPN,Japan,interstate,intensity_2017,2,2017
+232,JPN,Japan,interstate,intensity_2017,2,2017
+339,JOR,Jordan,intrastate,intensity_2017,1,2017
+246,KAZ,Kazakhstan,intrastate,intensity_2017,2,2017
+51,KEN,Kenya,intrastate,intensity_2017,1,2017
+67,KEN,Kenya,substate,intensity_2017,3,2017
+78,KEN,Kenya,intrastate,intensity_2017,3,2017
+92,KEN,Kenya,transstate,intensity_2017,5,2017
+126,KEN,Kenya,interstate,intensity_2017,0,2017
+27,XKX,Kosovo,interstate,intensity_2017,2,2017
+50,XKX,Kosovo,intrastate,intensity_2017,3,2017
+347,KWT,Kuwait,intrastate,intensity_2017,2,2017
+349,KWT,Kuwait,intrastate,intensity_2017,1,2017
+251,KGZ,Kyrgyzstan,intrastate,intensity_2017,2,2017
+287,KGZ,Kyrgyzstan,interstate,intensity_2017,3,2017
+206,LAO,Laos,intrastate,intensity_2017,1,2017
+288,LAO,Laos,intrastate,intensity_2017,1,2017
+31,LVA,Latvia,interstate,intensity_2017,2,2017
+306,LBN,Lebanon,interstate,intensity_2017,2,2017
+319,LBN,Lebanon,substate,intensity_2017,3,2017
+321,LBN,Lebanon,intrastate,intensity_2017,0,2017
+38,LBY,Libya,interstate,intensity_2017,0,2017
+340,LBY,Libya,intrastate,intensity_2017,5,2017
+354,LBY,Libya,substate,intensity_2017,3,2017
+205,MYS,Malaysia,interstate,intensity_2017,1,2017
+209,MYS,Malaysia,intrastate,intensity_2017,1,2017
+271,MYS,Malaysia,substate,intensity_2017,1,2017
+244,MDV,Maldives,intrastate,intensity_2017,2,2017
+63,MLI,Mali,intrastate,intensity_2017,3,2017
+64,MLI,Mali,transstate,intensity_2017,,2017
+77,MLI,Mali,substate,intensity_2017,3,2017
+133,MLI,Mali,substate,intensity_2017,3,2017
+136,MLI,Mali,intrastate,intensity_2017,3,2017
+322,MLI,Mali,transstate,intensity_2017,4,2017
+352,MRT,Mauritania,intrastate,intensity_2017,3,2017
+145,MEX,Mexico,intrastate,intensity_2017,2,2017
+147,MEX,Mexico,substate,intensity_2017,4,2017
+151,MEX,Mexico,intrastate,intensity_2017,3,2017
+157,MEX,Mexico,intrastate,intensity_2017,3,2017
+158,MEX,Mexico,intrastate,intensity_2017,3,2017
+159,MEX,Mexico,interstate,intensity_2017,3,2017
+163,MEX,Mexico,intrastate,intensity_2017,0,2017
+164,MEX,Mexico,intrastate,intensity_2017,5,2017
+21,MDA,Moldova,intrastate,intensity_2017,1,2017
+30,MDA,Moldova,intrastate,intensity_2017,2,2017
+45,MNE,Montenegro,intrastate,intensity_2017,,2017
+310,MAR,Morocco,interstate,intensity_2017,,2017
+324,MAR,Morocco,intrastate,intensity_2017,3,2017
+341,MAR,Morocco,intrastate,intensity_2017,3,2017
+55,MOZ,Mozambique,intrastate,intensity_2017,3,2017
+121,MOZ,Mozambique,intrastate,intensity_2017,3,2017
+207,MMR,Myanmar,intrastate,intensity_2017,1,2017
+218,MMR,Myanmar,intrastate,intensity_2017,1,2017
+257,MMR,Myanmar,intrastate,intensity_2017,3,2017
+258,MMR,Myanmar,intrastate,intensity_2017,3,2017
+259,MMR,Myanmar,intrastate,intensity_2017,3,2017
+260,MMR,Myanmar,intrastate,intensity_2017,3,2017
+261,MMR,Myanmar,substate,intensity_2017,2,2017
+262,MMR,Myanmar,intrastate,intensity_2017,1,2017
+265,MMR,Myanmar,intrastate,intensity_2017,3,2017
+282,MMR,Myanmar,intrastate,intensity_2017,5,2017
+294,MMR,Myanmar,intrastate,intensity_2017,3,2017
+224,NPL,Nepal,intrastate,intensity_2017,3,2017
+255,NPL,Nepal,intrastate,intensity_2017,3,2017
+283,NPL,Nepal,intrastate,intensity_2017,3,2017
+162,NIC,Nicaragua,interstate,intensity_2017,2,2017
+167,NIC,Nicaragua,intrastate,intensity_2017,3,2017
+195,NIC,Nicaragua,intrastate,intensity_2017,3,2017
+98,NER,Niger,intrastate,intensity_2017,3,2017
+60,NGA,Nigeria,intrastate,intensity_2017,3,2017
+64,NGA,Nigeria,transstate,intensity_2017,,2017
+73,NGA,Nigeria,substate,intensity_2017,,2017
+76,NGA,Nigeria,intrastate,intensity_2017,3,2017
+79,NGA,Nigeria,intrastate,intensity_2017,3,2017
+100,NGA,Nigeria,substate,intensity_2017,5,2017
+108,NGA,Nigeria,substate,intensity_2017,3,2017
+109,NGA,Nigeria,intrastate,intensity_2017,0,2017
+110,NGA,Nigeria,intrastate,intensity_2017,,2017
+113,NGA,Nigeria,transstate,intensity_2017,5,2017
+198,PRK,North Korea,interstate,intensity_2017,2,2017
+202,PRK,North Korea,interstate,intensity_2017,2,2017
+295,PRK,North Korea,transstate,intensity_2017,3,2017
+28,MKD,North Macedonia,substate,intensity_2017,3,2017
+49,MKD,North Macedonia,intrastate,intensity_2017,3,2017
+10,NOR,Norway,interstate,intensity_2017,2,2017
+342,OMN,Oman,intrastate,intensity_2017,1,2017
+214,PAK,Pakistan,interstate,intensity_2017,3,2017
+248,PAK,Pakistan,intrastate,intensity_2017,3,2017
+249,PAK,Pakistan,substate,intensity_2017,3,2017
+254,PAK,Pakistan,intrastate,intensity_2017,4,2017
+256,PAK,Pakistan,intrastate,intensity_2017,3,2017
+284,PAK,Pakistan,intrastate,intensity_2017,3,2017
+290,PAK,Pakistan,intrastate,intensity_2017,0,2017
+353,PAK,Pakistan,interstate,intensity_2017,3,2017
+211,PNG,Papua New Guinea,substate,intensity_2017,2,2017
+215,PNG,Papua New Guinea,intrastate,intensity_2017,3,2017
+216,PNG,Papua New Guinea,substate,intensity_2017,3,2017
+272,PNG,Papua New Guinea,intrastate,intensity_2017,3,2017
+289,PNG,Papua New Guinea,intrastate,intensity_2017,1,2017
+160,PRY,Paraguay,intrastate,intensity_2017,3,2017
+166,PER,Peru,intrastate,intensity_2017,3,2017
+171,PER,Peru,intrastate,intensity_2017,3,2017
+196,PHL,Philippines,intrastate,intensity_2017,3,2017
+197,PHL,Philippines,intrastate,intensity_2017,5,2017
+199,PHL,Philippines,intrastate,intensity_2017,3,2017
+203,PHL,Philippines,intrastate,intensity_2017,2,2017
+266,PHL,Philippines,intrastate,intensity_2017,,2017
+280,PHL,Philippines,intrastate,intensity_2017,4,2017
+281,PHL,Philippines,substate,intensity_2017,3,2017
+326,QAT,Qatar,interstate,intensity_2017,2,2017
+75,COG,Republic of Congo,intrastate,intensity_2017,2,2017
+36,ROU,Romania,transstate,intensity_2017,1,2017
+1,RUS,Russia,interstate,intensity_2017,2,2017
+9,RUS,Russia,intrastate,intensity_2017,3,2017
+10,RUS,Russia,interstate,intensity_2017,2,2017
+12,RUS,Russia,interstate,intensity_2017,2,2017
+17,RUS,Russia,interstate,intensity_2017,2,2017
+31,RUS,Russia,interstate,intensity_2017,2,2017
+39,RUS,Russia,interstate,intensity_2017,2,2017
+48,RUS,Russia,intrastate,intensity_2017,3,2017
+200,RUS,Russia,interstate,intensity_2017,2,2017
+329,RUS,Russia,interstate,intensity_2017,-99,2017
+59,RWA,Rwanda,interstate,intensity_2017,2,2017
+90,RWA,Rwanda,transstate,intensity_2017,3,2017
+111,RWA,Rwanda,intrastate,intensity_2017,2,2017
+131,RWA,Rwanda,interstate,intensity_2017,0,2017
+304,SAU,Saudi Arabia,transstate,intensity_2017,5,2017
+314,SAU,Saudi Arabia,intrastate,intensity_2017,3,2017
+326,SAU,Saudi Arabia,interstate,intensity_2017,2,2017
+328,SAU,Saudi Arabia,intrastate,intensity_2017,1,2017
+334,SAU,Saudi Arabia,interstate,intensity_2017,2,2017
+355,SAU,Saudi Arabia,transstate,intensity_2017,,2017
+91,SEN,Senegal,intrastate,intensity_2017,2,2017
+27,SRB,Serbia,interstate,intensity_2017,2,2017
+47,SRB,Serbia,intrastate,intensity_2017,0,2017
+107,SLE,Sierra Leone,intrastate,intensity_2017,3,2017
+205,SGP,Singapore,interstate,intensity_2017,1,2017
+36,SVK,Slovakia,transstate,intensity_2017,1,2017
+23,SVN,Slovenia,interstate,intensity_2017,1,2017
+61,SOM,Somalia,intrastate,intensity_2017,1,2017
+83,SOM,Somalia,intrastate,intensity_2017,3,2017
+92,SOM,Somalia,transstate,intensity_2017,5,2017
+103,SOM,Somalia,intrastate,intensity_2017,2,2017
+120,SOM,Somalia,substate,intensity_2017,3,2017
+126,SOM,Somalia,interstate,intensity_2017,0,2017
+54,ZAF,South Africa,intrastate,intensity_2017,0,2017
+96,ZAF,South Africa,substate,intensity_2017,3,2017
+130,ZAF,South Africa,intrastate,intensity_2017,3,2017
+198,KOR,South Korea,interstate,intensity_2017,2,2017
+201,KOR,South Korea,interstate,intensity_2017,1,2017
+202,KOR,South Korea,interstate,intensity_2017,2,2017
+234,KOR,South Korea,interstate,intensity_2017,,2017
+104,SSD,South Sudan,interstate,intensity_2017,3,2017
+106,SSD,South Sudan,substate,intensity_2017,3,2017
+112,SSD,South Sudan,substate,intensity_2017,5,2017
+134,SSD,South Sudan,intrastate,intensity_2017,3,2017
+11,ESP,Spain,intrastate,intensity_2017,3,2017
+19,ESP,Spain,intrastate,intensity_2017,1,2017
+20,ESP,Spain,interstate,intensity_2017,2,2017
+240,LKA,Sri Lanka,intrastate,intensity_2017,2,2017
+241,LKA,Sri Lanka,substate,intensity_2017,3,2017
+307,PSE,State of Palestine,substate,intensity_2017,1,2017
+327,PSE,State of Palestine,interstate,intensity_2017,3,2017
+74,SDN,Sudan,intrastate,intensity_2017,5,2017
+94,SDN,Sudan,interstate,intensity_2017,,2017
+104,SDN,Sudan,interstate,intensity_2017,3,2017
+105,SDN,Sudan,intrastate,intensity_2017,3,2017
+106,SDN,Sudan,substate,intensity_2017,3,2017
+118,SDN,Sudan,substate,intensity_2017,4,2017
+122,SDN,Sudan,interstate,intensity_2017,2,2017
+125,SDN,Sudan,intrastate,intensity_2017,3,2017
+302,SDN,Sudan,interstate,intensity_2017,2,2017
+5,SWE,Sweden,intrastate,intensity_2017,3,2017
+303,SYR,Syria,transstate,intensity_2017,5,2017
+305,SYR,Syria,interstate,intensity_2017,2,2017
+317,SYR,Syria,intrastate,intensity_2017,0,2017
+318,SYR,Syria,substate,intensity_2017,5,2017
+331,SYR,Syria,interstate,intensity_2017,3,2017
+332,SYR,Syria,interstate,intensity_2017,3,2017
+343,SYR,Syria,intrastate,intensity_2017,5,2017
+348,SYR,Syria,intrastate,intensity_2017,3,2017
+245,TJK,Tajikistan,intrastate,intensity_2017,3,2017
+287,TJK,Tajikistan,interstate,intensity_2017,3,2017
+53,TZA,Tanzania,intrastate,intensity_2017,3,2017
+237,THA,Thailand,intrastate,intensity_2017,3,2017
+275,THA,Thailand,intrastate,intensity_2017,1,2017
+250,TLS,Timor-Leste,interstate,intensity_2017,1,2017
+72,TGO,Togo,intrastate,intensity_2017,3,2017
+219,TON,Tonga,interstate,intensity_2017,1,2017
+344,TUN,Tunisia,intrastate,intensity_2017,3,2017
+7,TUR,Turkey,interstate,intensity_2017,1,2017
+35,TUR,Turkey,interstate,intensity_2017,1,2017
+38,TUR,Turkey,interstate,intensity_2017,0,2017
+305,TUR,Turkey,interstate,intensity_2017,2,2017
+320,TUR,Turkey,intrastate,intensity_2017,2,2017
+329,TUR,Turkey,interstate,intensity_2017,-99,2017
+330,TUR,Turkey,intrastate,intensity_2017,4,2017
+296,ARE,UAE,interstate,intensity_2017,1,2017
+17,USA,USA,interstate,intensity_2017,2,2017
+150,USA,USA,interstate,intensity_2017,2,2017
+159,USA,USA,interstate,intensity_2017,3,2017
+161,USA,USA,interstate,intensity_2017,2,2017
+174,USA,USA,interstate,intensity_2017,1,2017
+191,USA,USA,intrastate,intensity_2017,2,2017
+192,USA,USA,intrastate,intensity_2017,3,2017
+202,USA,USA,interstate,intensity_2017,2,2017
+210,USA,USA,interstate,intensity_2017,2,2017
+299,USA,USA,interstate,intensity_2017,2,2017
+332,USA,USA,interstate,intensity_2017,3,2017
+57,UGA,Uganda,substate,intensity_2017,3,2017
+70,UGA,Uganda,transstate,intensity_2017,4,2017
+102,UGA,Uganda,intrastate,intensity_2017,3,2017
+131,UGA,Uganda,interstate,intensity_2017,0,2017
+24,UKR,Ukraine,intrastate,intensity_2017,3,2017
+25,UKR,Ukraine,intrastate,intensity_2017,5,2017
+26,UKR,Ukraine,intrastate,intensity_2017,2,2017
+36,UKR,Ukraine,transstate,intensity_2017,1,2017
+39,UKR,Ukraine,interstate,intensity_2017,2,2017
+16,GBR,United Kingdom,intrastate,intensity_2017,2,2017
+20,GBR,United Kingdom,interstate,intensity_2017,2,2017
+29,GBR,United Kingdom,intrastate,intensity_2017,3,2017
+40,GBR,United Kingdom,interstate,intensity_2017,0,2017
+148,GBR,United Kingdom,interstate,intensity_2017,1,2017
+168,GBR,United Kingdom,interstate,intensity_2017,1,2017
+287,UZB,Uzbekistan,interstate,intensity_2017,3,2017
+137,VEN,Venezuela,intrastate,intensity_2017,3,2017
+139,VEN,Venezuela,interstate,intensity_2017,1,2017
+142,VEN,Venezuela,intrastate,intensity_2017,0,2017
+161,VEN,Venezuela,interstate,intensity_2017,2,2017
+193,VEN,Venezuela,interstate,intensity_2017,2,2017
+194,VEN,Venezuela,interstate,intensity_2017,1,2017
+231,VNM,Vietnam,interstate,intensity_2017,3,2017
+243,VNM,Vietnam,interstate,intensity_2017,1,2017
+285,VNM,Vietnam,intrastate,intensity_2017,1,2017
+293,VNM,Vietnam,intrastate,intensity_2017,3,2017
+304,YEM,Yemen,transstate,intensity_2017,5,2017
+315,YEM,Yemen,intrastate,intensity_2017,2,2017
+345,YEM,Yemen,substate,intensity_2017,3,2017
+355,YEM,Yemen,transstate,intensity_2017,,2017
+52,ZWE,Zimbabwe,intrastate,intensity_2017,3,2017
+62,SWZ,eSwatini,intrastate,intensity_2017,2,2017
+316,AFG,Afghanistan,substate,intensity_2016,1,2016
+325,AFG,Afghanistan,intrastate,intensity_2016,5,2016
+353,AFG,Afghanistan,interstate,intensity_2016,3,2016
+44,ALB,Albania,intrastate,intensity_2016,0,2016
+310,DZA,Algeria,interstate,intensity_2016,,2016
+323,DZA,Algeria,intrastate,intensity_2016,3,2016
+336,DZA,Algeria,intrastate,intensity_2016,3,2016
+65,AGO,Angola,intrastate,intensity_2016,3,2016
+148,ARG,Argentina,interstate,intensity_2016,1,2016
+7,ARM,Armenia,interstate,intensity_2016,1,2016
+15,ARM,Armenia,intrastate,intensity_2016,3,2016
+33,ARM,Armenia,interstate,intensity_2016,3,2016
+6,AZE,Azerbaijan,intrastate,intensity_2016,2,2016
+14,AZE,Azerbaijan,intrastate,intensity_2016,3,2016
+33,AZE,Azerbaijan,interstate,intensity_2016,3,2016
+335,BHR,Bahrain,intrastate,intensity_2016,3,2016
+217,BGD,Bangladesh,intrastate,intensity_2016,3,2016
+263,BGD,Bangladesh,intrastate,intensity_2016,3,2016
+264,BGD,Bangladesh,intrastate,intensity_2016,3,2016
+268,BGD,Bangladesh,intrastate,intensity_2016,3,2016
+8,BLR,Belarus,intrastate,intensity_2016,1,2016
+17,BLR,Belarus,interstate,intensity_2016,2,2016
+146,BLZ,Belize,interstate,intensity_2016,3,2016
+144,BOL,Bolivia,intrastate,intensity_2016,3,2016
+172,BOL,Bolivia,intrastate,intensity_2016,0,2016
+175,BOL,Bolivia,interstate,intensity_2016,1,2016
+22,BIH,Bosnia and Herzegovina,intrastate,intensity_2016,1,2016
+152,BRA,Brazil,intrastate,intensity_2016,3,2016
+180,BRA,Brazil,intrastate,intensity_2016,4,2016
+189,BRA,Brazil,intrastate,intensity_2016,2,2016
+190,BRA,Brazil,intrastate,intensity_2016,3,2016
+46,BGR,Bulgaria,intrastate,intensity_2016,0,2016
+115,BFA,Burkina Faso,intrastate,intensity_2016,2,2016
+116,BFA,Burkina Faso,intrastate,intensity_2016,3,2016
+322,BFA,Burkina Faso,transstate,intensity_2016,3,2016
+59,BDI,Burundi,interstate,intensity_2016,2,2016
+87,BDI,Burundi,transstate,intensity_2016,3,2016
+88,BDI,Burundi,intrastate,intensity_2016,3,2016
+208,KHM,Cambodia,intrastate,intensity_2016,3,2016
+243,KHM,Cambodia,interstate,intensity_2016,1,2016
+93,CMR,Cameroon,intrastate,intensity_2016,3,2016
+68,CAF,Central African Republic,transstate,intensity_2016,3,2016
+117,CAF,Central African Republic,intrastate,intensity_2016,4,2016
+84,TCD,Chad,substate,intensity_2016,1,2016
+85,TCD,Chad,intrastate,intensity_2016,1,2016
+86,TCD,Chad,intrastate,intensity_2016,3,2016
+113,TCD,Chad,transstate,intensity_2016,5,2016
+165,CHL,Chile,intrastate,intensity_2016,3,2016
+168,CHL,Chile,interstate,intensity_2016,1,2016
+169,CHL,Chile,intrastate,intensity_2016,3,2016
+170,CHL,Chile,intrastate,intensity_2016,2,2016
+175,CHL,Chile,interstate,intensity_2016,1,2016
+210,CHN,China,interstate,intensity_2016,2,2016
+225,CHN,China,intrastate,intensity_2016,3,2016
+226,CHN,China,intrastate,intensity_2016,3,2016
+227,CHN,China,intrastate,intensity_2016,3,2016
+228,CHN,China,intrastate,intensity_2016,3,2016
+229,CHN,China,interstate,intensity_2016,2,2016
+230,CHN,China,intrastate,intensity_2016,2,2016
+231,CHN,China,interstate,intensity_2016,3,2016
+232,CHN,China,interstate,intensity_2016,2,2016
+234,CHN,China,interstate,intensity_2016,,2016
+242,CHN,China,intrastate,intensity_2016,1,2016
+277,CHN,China,intrastate,intensity_2016,3,2016
+286,CHN,China,intrastate,intensity_2016,3,2016
+295,CHN,China,transstate,intensity_2016,2,2016
+138,COL,Colombia,intrastate,intensity_2016,4,2016
+139,COL,Colombia,interstate,intensity_2016,1,2016
+140,COL,Colombia,intrastate,intensity_2016,3,2016
+143,COL,Colombia,substate,intensity_2016,4,2016
+153,COL,Colombia,intrastate,intensity_2016,0,2016
+154,COL,Colombia,intrastate,intensity_2016,1,2016
+155,COL,Colombia,intrastate,intensity_2016,3,2016
+156,COL,Colombia,intrastate,intensity_2016,0,2016
+162,COL,Colombia,interstate,intensity_2016,2,2016
+193,COL,Colombia,interstate,intensity_2016,2,2016
+23,HRV,Croatia,interstate,intensity_2016,1,2016
+41,HRV,Croatia,substate,intensity_2016,1,2016
+150,CUB,Cuba,interstate,intensity_2016,2,2016
+173,CUB,Cuba,intrastate,intensity_2016,0,2016
+174,CUB,Cuba,interstate,intensity_2016,1,2016
+34,CYP,Cyprus,intrastate,intensity_2016,2,2016
+38,CYP,Cyprus,interstate,intensity_2016,0,2016
+71,,Côte d’Ivoire,intrastate,intensity_2016,2,2016
+99,,Côte d’Ivoire,intrastate,intensity_2016,3,2016
+56,COD,DR Congo,substate,intensity_2016,4,2016
+58,COD,DR Congo,intrastate,intensity_2016,3,2016
+68,COD,DR Congo,transstate,intensity_2016,3,2016
+70,COD,DR Congo,transstate,intensity_2016,4,2016
+81,COD,DR Congo,intrastate,intensity_2016,3,2016
+87,COD,DR Congo,transstate,intensity_2016,3,2016
+89,COD,DR Congo,intrastate,intensity_2016,4,2016
+90,COD,DR Congo,transstate,intensity_2016,4,2016
+95,COD,DR Congo,intrastate,intensity_2016,4,2016
+97,COD,DR Congo,intrastate,intensity_2016,3,2016
+101,COD,DR Congo,intrastate,intensity_2016,3,2016
+119,DJI,Djibouti,interstate,intensity_2016,,2016
+127,DJI,Djibouti,intrastate,intensity_2016,2,2016
+129,DJI,Djibouti,intrastate,intensity_2016,2,2016
+177,DOM,Dominican Republic,interstate,intensity_2016,3,2016
+17,,EU,interstate,intensity_2016,2,2016
+141,ECU,Ecuador,intrastate,intensity_2016,3,2016
+176,ECU,Ecuador,substate,intensity_2016,0,2016
+122,EGY,Egypt,interstate,intensity_2016,1,2016
+302,EGY,Egypt,interstate,intensity_2016,1,2016
+313,EGY,Egypt,intrastate,intensity_2016,3,2016
+333,EGY,Egypt,intrastate,intensity_2016,4,2016
+337,EGY,Egypt,substate,intensity_2016,3,2016
+185,SLV,El Salvador,intrastate,intensity_2016,4,2016
+186,SLV,El Salvador,interstate,intensity_2016,2,2016
+187,SLV,El Salvador,substate,intensity_2016,3,2016
+188,SLV,El Salvador,intrastate,intensity_2016,0,2016
+119,ERI,Eritrea,interstate,intensity_2016,,2016
+128,ERI,Eritrea,intrastate,intensity_2016,3,2016
+135,ERI,Eritrea,transstate,intensity_2016,0,2016
+12,EST,Estonia,interstate,intensity_2016,2,2016
+69,ETH,Ethiopia,intrastate,intensity_2016,3,2016
+80,ETH,Ethiopia,intrastate,intensity_2016,3,2016
+94,ETH,Ethiopia,interstate,intensity_2016,,2016
+122,ETH,Ethiopia,interstate,intensity_2016,1,2016
+132,ETH,Ethiopia,substate,intensity_2016,0,2016
+135,ETH,Ethiopia,transstate,intensity_2016,0,2016
+219,FJI,Fiji,interstate,intensity_2016,1,2016
+32,FRA,France,intrastate,intensity_2016,3,2016
+40,FRA,France,interstate,intensity_2016,0,2016
+114,GAB,Gabon,intrastate,intensity_2016,3,2016
+123,GMB,Gambia,intrastate,intensity_2016,3,2016
+1,GEO,Georgia,interstate,intensity_2016,2,2016
+2,GEO,Georgia,intrastate,intensity_2016,3,2016
+3,GEO,Georgia,intrastate,intensity_2016,2,2016
+13,GEO,Georgia,intrastate,intensity_2016,3,2016
+4,DEU,Germany,intrastate,intensity_2016,3,2016
+124,GHA,Ghana,intrastate,intensity_2016,0,2016
+18,GRC,Greece,intrastate,intensity_2016,3,2016
+35,GRC,Greece,interstate,intensity_2016,1,2016
+38,GRC,Greece,interstate,intensity_2016,0,2016
+42,GRC,Greece,intrastate,intensity_2016,3,2016
+43,GRC,Greece,substate,intensity_2016,3,2016
+146,GTM,Guatemala,interstate,intensity_2016,3,2016
+178,GTM,Guatemala,intrastate,intensity_2016,2,2016
+182,GTM,Guatemala,intrastate,intensity_2016,3,2016
+82,GIN,Guinea,intrastate,intensity_2016,3,2016
+66,,Guinea-Bissau,intrastate,intensity_2016,3,2016
+194,GUY,Guyana,interstate,intensity_2016,2,2016
+149,HTI,Haiti,intrastate,intensity_2016,3,2016
+177,HTI,Haiti,interstate,intensity_2016,3,2016
+179,HND,Honduras,substate,intensity_2016,3,2016
+183,HND,Honduras,intrastate,intensity_2016,3,2016
+184,HND,Honduras,intrastate,intensity_2016,3,2016
+186,HND,Honduras,interstate,intensity_2016,2,2016
+36,HUN,Hungary,transstate,intensity_2016,1,2016
+37,HUN,Hungary,substate,intensity_2016,2,2016
+204,IND,India,intrastate,intensity_2016,2,2016
+212,IND,India,substate,intensity_2016,3,2016
+213,IND,India,intrastate,intensity_2016,3,2016
+214,IND,India,interstate,intensity_2016,4,2016
+220,IND,India,substate,intensity_2016,3,2016
+229,IND,India,interstate,intensity_2016,2,2016
+235,IND,India,intrastate,intensity_2016,0,2016
+236,IND,India,intrastate,intensity_2016,4,2016
+238,IND,India,intrastate,intensity_2016,3,2016
+239,IND,India,substate,intensity_2016,3,2016
+247,IND,India,intrastate,intensity_2016,3,2016
+252,IND,India,intrastate,intensity_2016,3,2016
+253,IND,India,intrastate,intensity_2016,3,2016
+267,IND,India,intrastate,intensity_2016,2,2016
+269,IND,India,intrastate,intensity_2016,1,2016
+270,IND,India,intrastate,intensity_2016,3,2016
+273,IND,India,substate,intensity_2016,3,2016
+274,IND,India,intrastate,intensity_2016,3,2016
+276,IND,India,intrastate,intensity_2016,3,2016
+291,IND,India,intrastate,intensity_2016,3,2016
+292,IND,India,intrastate,intensity_2016,3,2016
+221,IDN,Indonesia,intrastate,intensity_2016,1,2016
+222,IDN,Indonesia,intrastate,intensity_2016,3,2016
+223,IDN,Indonesia,intrastate,intensity_2016,3,2016
+233,IDN,Indonesia,substate,intensity_2016,3,2016
+250,IDN,Indonesia,interstate,intensity_2016,1,2016
+278,IDN,Indonesia,substate,intensity_2016,2,2016
+279,IDN,Indonesia,intrastate,intensity_2016,2,2016
+296,IRN,Iran,interstate,intensity_2016,1,2016
+297,IRN,Iran,intrastate,intensity_2016,3,2016
+298,IRN,Iran,intrastate,intensity_2016,2,2016
+299,IRN,Iran,interstate,intensity_2016,2,2016
+308,IRN,Iran,intrastate,intensity_2016,3,2016
+309,IRN,Iran,interstate,intensity_2016,2,2016
+334,IRN,Iran,interstate,intensity_2016,2,2016
+350,IRN,Iran,intrastate,intensity_2016,3,2016
+351,IRN,Iran,intrastate,intensity_2016,3,2016
+300,IRQ,Iraq,intrastate,intensity_2016,2,2016
+303,IRQ,Iraq,transstate,intensity_2016,5,2016
+311,IRQ,Iraq,intrastate,intensity_2016,1,2016
+338,IRQ,Iraq,intrastate,intensity_2016,-99,2016
+346,IRQ,Iraq,intrastate,intensity_2016,1,2016
+301,ISR,Israel,intrastate,intensity_2016,3,2016
+306,ISR,Israel,interstate,intensity_2016,2,2016
+309,ISR,Israel,interstate,intensity_2016,2,2016
+312,ISR,Israel,intrastate,intensity_2016,3,2016
+327,ISR,Israel,interstate,intensity_2016,3,2016
+331,ISR,Israel,interstate,intensity_2016,3,2016
+181,JAM,Jamaica,intrastate,intensity_2016,3,2016
+200,JPN,Japan,interstate,intensity_2016,2,2016
+201,JPN,Japan,interstate,intensity_2016,1,2016
+202,JPN,Japan,interstate,intensity_2016,2,2016
+232,JPN,Japan,interstate,intensity_2016,2,2016
+339,JOR,Jordan,intrastate,intensity_2016,2,2016
+246,KAZ,Kazakhstan,intrastate,intensity_2016,2,2016
+51,KEN,Kenya,intrastate,intensity_2016,2,2016
+67,KEN,Kenya,substate,intensity_2016,3,2016
+78,KEN,Kenya,intrastate,intensity_2016,3,2016
+92,KEN,Kenya,transstate,intensity_2016,5,2016
+126,KEN,Kenya,interstate,intensity_2016,0,2016
+27,XKX,Kosovo,interstate,intensity_2016,1,2016
+50,XKX,Kosovo,intrastate,intensity_2016,3,2016
+347,KWT,Kuwait,intrastate,intensity_2016,1,2016
+349,KWT,Kuwait,intrastate,intensity_2016,1,2016
+251,KGZ,Kyrgyzstan,intrastate,intensity_2016,2,2016
+287,KGZ,Kyrgyzstan,interstate,intensity_2016,3,2016
+206,LAO,Laos,intrastate,intensity_2016,1,2016
+288,LAO,Laos,intrastate,intensity_2016,1,2016
+31,LVA,Latvia,interstate,intensity_2016,2,2016
+306,LBN,Lebanon,interstate,intensity_2016,2,2016
+319,LBN,Lebanon,substate,intensity_2016,3,2016
+321,LBN,Lebanon,intrastate,intensity_2016,0,2016
+38,LBY,Libya,interstate,intensity_2016,0,2016
+340,LBY,Libya,intrastate,intensity_2016,5,2016
+354,LBY,Libya,substate,intensity_2016,3,2016
+205,MYS,Malaysia,interstate,intensity_2016,1,2016
+209,MYS,Malaysia,intrastate,intensity_2016,2,2016
+271,MYS,Malaysia,substate,intensity_2016,1,2016
+244,MDV,Maldives,intrastate,intensity_2016,3,2016
+63,MLI,Mali,intrastate,intensity_2016,2,2016
+64,MLI,Mali,transstate,intensity_2016,,2016
+77,MLI,Mali,substate,intensity_2016,3,2016
+133,MLI,Mali,substate,intensity_2016,3,2016
+136,MLI,Mali,intrastate,intensity_2016,3,2016
+322,MLI,Mali,transstate,intensity_2016,3,2016
+352,MRT,Mauritania,intrastate,intensity_2016,3,2016
+145,MEX,Mexico,intrastate,intensity_2016,2,2016
+147,MEX,Mexico,substate,intensity_2016,4,2016
+151,MEX,Mexico,intrastate,intensity_2016,3,2016
+157,MEX,Mexico,intrastate,intensity_2016,3,2016
+158,MEX,Mexico,intrastate,intensity_2016,3,2016
+159,MEX,Mexico,interstate,intensity_2016,3,2016
+163,MEX,Mexico,intrastate,intensity_2016,0,2016
+164,MEX,Mexico,intrastate,intensity_2016,5,2016
+21,MDA,Moldova,intrastate,intensity_2016,3,2016
+30,MDA,Moldova,intrastate,intensity_2016,2,2016
+45,MNE,Montenegro,intrastate,intensity_2016,,2016
+310,MAR,Morocco,interstate,intensity_2016,,2016
+324,MAR,Morocco,intrastate,intensity_2016,3,2016
+341,MAR,Morocco,intrastate,intensity_2016,3,2016
+55,MOZ,Mozambique,intrastate,intensity_2016,0,2016
+121,MOZ,Mozambique,intrastate,intensity_2016,3,2016
+207,MMR,Myanmar,intrastate,intensity_2016,1,2016
+218,MMR,Myanmar,intrastate,intensity_2016,3,2016
+257,MMR,Myanmar,intrastate,intensity_2016,3,2016
+258,MMR,Myanmar,intrastate,intensity_2016,2,2016
+259,MMR,Myanmar,intrastate,intensity_2016,4,2016
+260,MMR,Myanmar,intrastate,intensity_2016,4,2016
+261,MMR,Myanmar,substate,intensity_2016,3,2016
+262,MMR,Myanmar,intrastate,intensity_2016,2,2016
+265,MMR,Myanmar,intrastate,intensity_2016,3,2016
+282,MMR,Myanmar,intrastate,intensity_2016,4,2016
+294,MMR,Myanmar,intrastate,intensity_2016,3,2016
+224,NPL,Nepal,intrastate,intensity_2016,3,2016
+255,NPL,Nepal,intrastate,intensity_2016,3,2016
+283,NPL,Nepal,intrastate,intensity_2016,3,2016
+162,NIC,Nicaragua,interstate,intensity_2016,2,2016
+167,NIC,Nicaragua,intrastate,intensity_2016,3,2016
+195,NIC,Nicaragua,intrastate,intensity_2016,3,2016
+98,NER,Niger,intrastate,intensity_2016,3,2016
+60,NGA,Nigeria,intrastate,intensity_2016,3,2016
+64,NGA,Nigeria,transstate,intensity_2016,,2016
+73,NGA,Nigeria,substate,intensity_2016,,2016
+76,NGA,Nigeria,intrastate,intensity_2016,3,2016
+79,NGA,Nigeria,intrastate,intensity_2016,3,2016
+100,NGA,Nigeria,substate,intensity_2016,5,2016
+108,NGA,Nigeria,substate,intensity_2016,4,2016
+109,NGA,Nigeria,intrastate,intensity_2016,0,2016
+110,NGA,Nigeria,intrastate,intensity_2016,,2016
+113,NGA,Nigeria,transstate,intensity_2016,5,2016
+198,PRK,North Korea,interstate,intensity_2016,2,2016
+202,PRK,North Korea,interstate,intensity_2016,2,2016
+295,PRK,North Korea,transstate,intensity_2016,2,2016
+28,MKD,North Macedonia,substate,intensity_2016,1,2016
+49,MKD,North Macedonia,intrastate,intensity_2016,3,2016
+10,NOR,Norway,interstate,intensity_2016,1,2016
+342,OMN,Oman,intrastate,intensity_2016,1,2016
+214,PAK,Pakistan,interstate,intensity_2016,4,2016
+248,PAK,Pakistan,intrastate,intensity_2016,3,2016
+249,PAK,Pakistan,substate,intensity_2016,3,2016
+254,PAK,Pakistan,intrastate,intensity_2016,5,2016
+256,PAK,Pakistan,intrastate,intensity_2016,3,2016
+284,PAK,Pakistan,intrastate,intensity_2016,3,2016
+290,PAK,Pakistan,intrastate,intensity_2016,0,2016
+353,PAK,Pakistan,interstate,intensity_2016,3,2016
+211,PNG,Papua New Guinea,substate,intensity_2016,2,2016
+215,PNG,Papua New Guinea,intrastate,intensity_2016,3,2016
+216,PNG,Papua New Guinea,substate,intensity_2016,3,2016
+272,PNG,Papua New Guinea,intrastate,intensity_2016,2,2016
+289,PNG,Papua New Guinea,intrastate,intensity_2016,1,2016
+160,PRY,Paraguay,intrastate,intensity_2016,3,2016
+166,PER,Peru,intrastate,intensity_2016,3,2016
+171,PER,Peru,intrastate,intensity_2016,3,2016
+196,PHL,Philippines,intrastate,intensity_2016,3,2016
+197,PHL,Philippines,intrastate,intensity_2016,3,2016
+199,PHL,Philippines,intrastate,intensity_2016,3,2016
+203,PHL,Philippines,intrastate,intensity_2016,2,2016
+266,PHL,Philippines,intrastate,intensity_2016,0,2016
+280,PHL,Philippines,intrastate,intensity_2016,4,2016
+281,PHL,Philippines,substate,intensity_2016,3,2016
+326,QAT,Qatar,interstate,intensity_2016,0,2016
+75,COG,Republic of Congo,intrastate,intensity_2016,2,2016
+36,ROU,Romania,transstate,intensity_2016,1,2016
+1,RUS,Russia,interstate,intensity_2016,2,2016
+9,RUS,Russia,intrastate,intensity_2016,3,2016
+10,RUS,Russia,interstate,intensity_2016,1,2016
+12,RUS,Russia,interstate,intensity_2016,2,2016
+17,RUS,Russia,interstate,intensity_2016,2,2016
+31,RUS,Russia,interstate,intensity_2016,2,2016
+39,RUS,Russia,interstate,intensity_2016,2,2016
+48,RUS,Russia,intrastate,intensity_2016,3,2016
+200,RUS,Russia,interstate,intensity_2016,2,2016
+329,RUS,Russia,interstate,intensity_2016,2,2016
+59,RWA,Rwanda,interstate,intensity_2016,2,2016
+90,RWA,Rwanda,transstate,intensity_2016,4,2016
+111,RWA,Rwanda,intrastate,intensity_2016,2,2016
+131,RWA,Rwanda,interstate,intensity_2016,0,2016
+304,SAU,Saudi Arabia,transstate,intensity_2016,5,2016
+314,SAU,Saudi Arabia,intrastate,intensity_2016,3,2016
+326,SAU,Saudi Arabia,interstate,intensity_2016,0,2016
+328,SAU,Saudi Arabia,intrastate,intensity_2016,1,2016
+334,SAU,Saudi Arabia,interstate,intensity_2016,2,2016
+355,SAU,Saudi Arabia,transstate,intensity_2016,,2016
+91,SEN,Senegal,intrastate,intensity_2016,3,2016
+27,SRB,Serbia,interstate,intensity_2016,1,2016
+47,SRB,Serbia,intrastate,intensity_2016,0,2016
+107,SLE,Sierra Leone,intrastate,intensity_2016,3,2016
+205,SGP,Singapore,interstate,intensity_2016,1,2016
+36,SVK,Slovakia,transstate,intensity_2016,1,2016
+23,SVN,Slovenia,interstate,intensity_2016,1,2016
+61,SOM,Somalia,intrastate,intensity_2016,1,2016
+83,SOM,Somalia,intrastate,intensity_2016,,2016
+92,SOM,Somalia,transstate,intensity_2016,5,2016
+103,SOM,Somalia,intrastate,intensity_2016,3,2016
+120,SOM,Somalia,substate,intensity_2016,3,2016
+126,SOM,Somalia,interstate,intensity_2016,0,2016
+54,ZAF,South Africa,intrastate,intensity_2016,0,2016
+96,ZAF,South Africa,substate,intensity_2016,3,2016
+130,ZAF,South Africa,intrastate,intensity_2016,3,2016
+198,KOR,South Korea,interstate,intensity_2016,2,2016
+201,KOR,South Korea,interstate,intensity_2016,1,2016
+202,KOR,South Korea,interstate,intensity_2016,2,2016
+234,KOR,South Korea,interstate,intensity_2016,,2016
+104,SSD,South Sudan,interstate,intensity_2016,3,2016
+106,SSD,South Sudan,substate,intensity_2016,3,2016
+112,SSD,South Sudan,substate,intensity_2016,5,2016
+134,SSD,South Sudan,intrastate,intensity_2016,2,2016
+11,ESP,Spain,intrastate,intensity_2016,2,2016
+19,ESP,Spain,intrastate,intensity_2016,3,2016
+20,ESP,Spain,interstate,intensity_2016,1,2016
+240,LKA,Sri Lanka,intrastate,intensity_2016,3,2016
+241,LKA,Sri Lanka,substate,intensity_2016,1,2016
+307,PSE,State of Palestine,substate,intensity_2016,1,2016
+327,PSE,State of Palestine,interstate,intensity_2016,3,2016
+74,SDN,Sudan,intrastate,intensity_2016,5,2016
+94,SDN,Sudan,interstate,intensity_2016,,2016
+104,SDN,Sudan,interstate,intensity_2016,3,2016
+105,SDN,Sudan,intrastate,intensity_2016,5,2016
+106,SDN,Sudan,substate,intensity_2016,3,2016
+118,SDN,Sudan,substate,intensity_2016,4,2016
+122,SDN,Sudan,interstate,intensity_2016,1,2016
+125,SDN,Sudan,intrastate,intensity_2016,3,2016
+302,SDN,Sudan,interstate,intensity_2016,1,2016
+5,SWE,Sweden,intrastate,intensity_2016,3,2016
+303,SYR,Syria,transstate,intensity_2016,5,2016
+305,SYR,Syria,interstate,intensity_2016,2,2016
+317,SYR,Syria,intrastate,intensity_2016,0,2016
+318,SYR,Syria,substate,intensity_2016,5,2016
+331,SYR,Syria,interstate,intensity_2016,3,2016
+332,SYR,Syria,interstate,intensity_2016,2,2016
+343,SYR,Syria,intrastate,intensity_2016,5,2016
+348,SYR,Syria,intrastate,intensity_2016,3,2016
+245,TJK,Tajikistan,intrastate,intensity_2016,3,2016
+287,TJK,Tajikistan,interstate,intensity_2016,3,2016
+53,TZA,Tanzania,intrastate,intensity_2016,3,2016
+237,THA,Thailand,intrastate,intensity_2016,3,2016
+275,THA,Thailand,intrastate,intensity_2016,1,2016
+250,TLS,Timor-Leste,interstate,intensity_2016,1,2016
+72,TGO,Togo,intrastate,intensity_2016,3,2016
+219,TON,Tonga,interstate,intensity_2016,1,2016
+344,TUN,Tunisia,intrastate,intensity_2016,3,2016
+7,TUR,Turkey,interstate,intensity_2016,1,2016
+35,TUR,Turkey,interstate,intensity_2016,1,2016
+38,TUR,Turkey,interstate,intensity_2016,0,2016
+305,TUR,Turkey,interstate,intensity_2016,2,2016
+320,TUR,Turkey,intrastate,intensity_2016,4,2016
+329,TUR,Turkey,interstate,intensity_2016,2,2016
+330,TUR,Turkey,intrastate,intensity_2016,5,2016
+296,ARE,UAE,interstate,intensity_2016,1,2016
+17,USA,USA,interstate,intensity_2016,2,2016
+150,USA,USA,interstate,intensity_2016,2,2016
+159,USA,USA,interstate,intensity_2016,3,2016
+161,USA,USA,interstate,intensity_2016,2,2016
+174,USA,USA,interstate,intensity_2016,1,2016
+191,USA,USA,intrastate,intensity_2016,3,2016
+192,USA,USA,intrastate,intensity_2016,3,2016
+202,USA,USA,interstate,intensity_2016,2,2016
+210,USA,USA,interstate,intensity_2016,2,2016
+299,USA,USA,interstate,intensity_2016,2,2016
+332,USA,USA,interstate,intensity_2016,2,2016
+57,UGA,Uganda,substate,intensity_2016,3,2016
+70,UGA,Uganda,transstate,intensity_2016,4,2016
+102,UGA,Uganda,intrastate,intensity_2016,3,2016
+131,UGA,Uganda,interstate,intensity_2016,0,2016
+24,UKR,Ukraine,intrastate,intensity_2016,3,2016
+25,UKR,Ukraine,intrastate,intensity_2016,5,2016
+26,UKR,Ukraine,intrastate,intensity_2016,2,2016
+36,UKR,Ukraine,transstate,intensity_2016,1,2016
+39,UKR,Ukraine,interstate,intensity_2016,2,2016
+16,GBR,United Kingdom,intrastate,intensity_2016,1,2016
+20,GBR,United Kingdom,interstate,intensity_2016,1,2016
+29,GBR,United Kingdom,intrastate,intensity_2016,3,2016
+40,GBR,United Kingdom,interstate,intensity_2016,0,2016
+148,GBR,United Kingdom,interstate,intensity_2016,1,2016
+168,GBR,United Kingdom,interstate,intensity_2016,1,2016
+287,UZB,Uzbekistan,interstate,intensity_2016,3,2016
+137,VEN,Venezuela,intrastate,intensity_2016,3,2016
+139,VEN,Venezuela,interstate,intensity_2016,1,2016
+142,VEN,Venezuela,intrastate,intensity_2016,0,2016
+161,VEN,Venezuela,interstate,intensity_2016,2,2016
+193,VEN,Venezuela,interstate,intensity_2016,2,2016
+194,VEN,Venezuela,interstate,intensity_2016,2,2016
+231,VNM,Vietnam,interstate,intensity_2016,3,2016
+243,VNM,Vietnam,interstate,intensity_2016,1,2016
+285,VNM,Vietnam,intrastate,intensity_2016,1,2016
+293,VNM,Vietnam,intrastate,intensity_2016,3,2016
+304,YEM,Yemen,transstate,intensity_2016,5,2016
+315,YEM,Yemen,intrastate,intensity_2016,2,2016
+345,YEM,Yemen,substate,intensity_2016,3,2016
+355,YEM,Yemen,transstate,intensity_2016,,2016
+52,ZWE,Zimbabwe,intrastate,intensity_2016,3,2016
+62,SWZ,eSwatini,intrastate,intensity_2016,3,2016
+316,AFG,Afghanistan,substate,intensity_2021,2,2022
+325,AFG,Afghanistan,intrastate,intensity_2021,5,2022
+353,AFG,Afghanistan,interstate,intensity_2021,3,2022
+44,ALB,Albania,intrastate,intensity_2021,3,2022
+310,DZA,Algeria,interstate,intensity_2021,2,2022
+323,DZA,Algeria,intrastate,intensity_2021,1,2022
+336,DZA,Algeria,intrastate,intensity_2021,3,2022
+65,AGO,Angola,intrastate,intensity_2021,3,2022
+148,ARG,Argentina,interstate,intensity_2021,1,2022
+7,ARM,Armenia,interstate,intensity_2021,1,2022
+15,ARM,Armenia,intrastate,intensity_2021,3,2022
+33,ARM,Armenia,interstate,intensity_2021,3,2022
+6,AZE,Azerbaijan,intrastate,intensity_2021,3,2022
+14,AZE,Azerbaijan,intrastate,intensity_2021,3,2022
+33,AZE,Azerbaijan,interstate,intensity_2021,3,2022
+335,BHR,Bahrain,intrastate,intensity_2021,2,2022
+217,BGD,Bangladesh,intrastate,intensity_2021,3,2022
+263,BGD,Bangladesh,intrastate,intensity_2021,3,2022
+264,BGD,Bangladesh,intrastate,intensity_2021,3,2022
+268,BGD,Bangladesh,intrastate,intensity_2021,3,2022
+8,BLR,Belarus,intrastate,intensity_2021,3,2022
+17,BLR,Belarus,interstate,intensity_2021,2,2022
+146,BLZ,Belize,interstate,intensity_2021,3,2022
+144,BOL,Bolivia,intrastate,intensity_2021,3,2022
+172,BOL,Bolivia,intrastate,intensity_2021,3,2022
+175,BOL,Bolivia,interstate,intensity_2021,1,2022
+22,BIH,Bosnia and Herzegovina,intrastate,intensity_2021,1,2022
+152,BRA,Brazil,intrastate,intensity_2021,2,2022
+180,BRA,Brazil,intrastate,intensity_2021,4,2022
+189,BRA,Brazil,intrastate,intensity_2021,3,2022
+190,BRA,Brazil,intrastate,intensity_2021,3,2022
+46,BGR,Bulgaria,intrastate,intensity_2021,2,2022
+115,BFA,Burkina Faso,intrastate,intensity_2021,3,2022
+116,BFA,Burkina Faso,intrastate,intensity_2021,4,2022
+322,BFA,Burkina Faso,transstate,intensity_2021,5,2022
+59,BDI,Burundi,interstate,intensity_2021,1,2022
+87,BDI,Burundi,transstate,intensity_2021,3,2022
+88,BDI,Burundi,intrastate,intensity_2021,3,2022
+208,KHM,Cambodia,intrastate,intensity_2021,2,2022
+243,KHM,Cambodia,interstate,intensity_2021,1,2022
+93,CMR,Cameroon,intrastate,intensity_2021,5,2022
+68,CAF,Central African Republic,transstate,intensity_2021,3,2022
+117,CAF,Central African Republic,intrastate,intensity_2021,5,2022
+84,TCD,Chad,substate,intensity_2021,3,2022
+85,TCD,Chad,intrastate,intensity_2021,4,2022
+86,TCD,Chad,intrastate,intensity_2021,3,2022
+113,TCD,Chad,transstate,intensity_2021,5,2022
+165,CHL,Chile,intrastate,intensity_2021,3,2022
+168,CHL,Chile,interstate,intensity_2021,1,2022
+169,CHL,Chile,intrastate,intensity_2021,3,2022
+170,CHL,Chile,intrastate,intensity_2021,2,2022
+175,CHL,Chile,interstate,intensity_2021,1,2022
+210,CHN,China,interstate,intensity_2021,2,2022
+225,CHN,China,intrastate,intensity_2021,2,2022
+226,CHN,China,intrastate,intensity_2021,2,2022
+227,CHN,China,intrastate,intensity_2021,1,2022
+228,CHN,China,intrastate,intensity_2021,2,2022
+229,CHN,China,interstate,intensity_2021,3,2022
+230,CHN,China,intrastate,intensity_2021,2,2022
+231,CHN,China,interstate,intensity_2021,2,2022
+232,CHN,China,interstate,intensity_2021,2,2022
+234,CHN,China,interstate,intensity_2021,1,2022
+242,CHN,China,intrastate,intensity_2021,2,2022
+277,CHN,China,intrastate,intensity_2021,3,2022
+286,CHN,China,intrastate,intensity_2021,2,2022
+295,CHN,China,transstate,intensity_2021,1,2022
+138,COL,Colombia,intrastate,intensity_2021,3,2022
+139,COL,Colombia,interstate,intensity_2021,1,2022
+140,COL,Colombia,intrastate,intensity_2021,3,2022
+143,COL,Colombia,substate,intensity_2021,4,2022
+153,COL,Colombia,intrastate,intensity_2021,3,2022
+154,COL,Colombia,intrastate,intensity_2021,3,2022
+155,COL,Colombia,intrastate,intensity_2021,3,2022
+156,COL,Colombia,intrastate,intensity_2021,3,2022
+162,COL,Colombia,interstate,intensity_2021,1,2022
+193,COL,Colombia,interstate,intensity_2021,2,2022
+23,HRV,Croatia,interstate,intensity_2021,1,2022
+41,HRV,Croatia,substate,intensity_2021,2,2022
+150,CUB,Cuba,interstate,intensity_2021,2,2022
+173,CUB,Cuba,intrastate,intensity_2021,3,2022
+174,CUB,Cuba,interstate,intensity_2021,1,2022
+34,CYP,Cyprus,intrastate,intensity_2021,2,2022
+38,CYP,Cyprus,interstate,intensity_2021,2,2022
+71,,Côte d’Ivoire,intrastate,intensity_2021,2,2022
+99,,Côte d’Ivoire,intrastate,intensity_2021,2,2022
+56,COD,DR Congo,substate,intensity_2021,4,2022
+58,COD,DR Congo,intrastate,intensity_2021,3,2022
+68,COD,DR Congo,transstate,intensity_2021,3,2022
+70,COD,DR Congo,transstate,intensity_2021,5,2022
+81,COD,DR Congo,intrastate,intensity_2021,5,2022
+87,COD,DR Congo,transstate,intensity_2021,3,2022
+89,COD,DR Congo,intrastate,intensity_2021,5,2022
+90,COD,DR Congo,transstate,intensity_2021,3,2022
+95,COD,DR Congo,intrastate,intensity_2021,2,2022
+97,COD,DR Congo,intrastate,intensity_2021,2,2022
+101,COD,DR Congo,intrastate,intensity_2021,3,2022
+119,DJI,Djibouti,interstate,intensity_2021,1,2022
+127,DJI,Djibouti,intrastate,intensity_2021,1,2022
+129,DJI,Djibouti,intrastate,intensity_2021,3,2022
+177,DOM,Dominican Republic,interstate,intensity_2021,1,2022
+17,,EU,interstate,intensity_2021,2,2022
+141,ECU,Ecuador,intrastate,intensity_2021,3,2022
+176,ECU,Ecuador,substate,intensity_2021,3,2022
+122,EGY,Egypt,interstate,intensity_2021,2,2022
+302,EGY,Egypt,interstate,intensity_2021,1,2022
+313,EGY,Egypt,intrastate,intensity_2021,3,2022
+333,EGY,Egypt,intrastate,intensity_2021,3,2022
+337,EGY,Egypt,substate,intensity_2021,2,2022
+185,SLV,El Salvador,intrastate,intensity_2021,3,2022
+186,SLV,El Salvador,interstate,intensity_2021,1,2022
+187,SLV,El Salvador,substate,intensity_2021,3,2022
+188,SLV,El Salvador,intrastate,intensity_2021,3,2022
+119,ERI,Eritrea,interstate,intensity_2021,1,2022
+128,ERI,Eritrea,intrastate,intensity_2021,1,2022
+135,ERI,Eritrea,transstate,intensity_2021,5,2022
+12,EST,Estonia,interstate,intensity_2021,2,2022
+69,ETH,Ethiopia,intrastate,intensity_2021,5,2022
+80,ETH,Ethiopia,intrastate,intensity_2021,4,2022
+94,ETH,Ethiopia,interstate,intensity_2021,3,2022
+122,ETH,Ethiopia,interstate,intensity_2021,2,2022
+132,ETH,Ethiopia,substate,intensity_2021,5,2022
+135,ETH,Ethiopia,transstate,intensity_2021,5,2022
+219,FJI,Fiji,interstate,intensity_2021,1,2022
+32,FRA,France,intrastate,intensity_2021,2,2022
+40,FRA,France,interstate,intensity_2021,2,2022
+114,GAB,Gabon,intrastate,intensity_2021,1,2022
+123,GMB,Gambia,intrastate,intensity_2021,3,2022
+1,GEO,Georgia,interstate,intensity_2021,2,2022
+2,GEO,Georgia,intrastate,intensity_2021,2,2022
+3,GEO,Georgia,intrastate,intensity_2021,2,2022
+13,GEO,Georgia,intrastate,intensity_2021,3,2022
+4,DEU,Germany,intrastate,intensity_2021,3,2022
+124,GHA,Ghana,intrastate,intensity_2021,2,2022
+18,GRC,Greece,intrastate,intensity_2021,3,2022
+35,GRC,Greece,interstate,intensity_2021,2,2022
+38,GRC,Greece,interstate,intensity_2021,2,2022
+42,GRC,Greece,intrastate,intensity_2021,1,2022
+43,GRC,Greece,substate,intensity_2021,3,2022
+146,GTM,Guatemala,interstate,intensity_2021,3,2022
+178,GTM,Guatemala,intrastate,intensity_2021,3,2022
+182,GTM,Guatemala,intrastate,intensity_2021,3,2022
+82,GIN,Guinea,intrastate,intensity_2021,3,2022
+66,,Guinea-Bissau,intrastate,intensity_2021,2,2022
+194,GUY,Guyana,interstate,intensity_2021,2,2022
+149,HTI,Haiti,intrastate,intensity_2021,3,2022
+177,HTI,Haiti,interstate,intensity_2021,1,2022
+179,HND,Honduras,substate,intensity_2021,3,2022
+183,HND,Honduras,intrastate,intensity_2021,3,2022
+184,HND,Honduras,intrastate,intensity_2021,3,2022
+186,HND,Honduras,interstate,intensity_2021,1,2022
+36,HUN,Hungary,transstate,intensity_2021,1,2022
+37,HUN,Hungary,substate,intensity_2021,2,2022
+204,IND,India,intrastate,intensity_2021,1,2022
+212,IND,India,substate,intensity_2021,3,2022
+213,IND,India,intrastate,intensity_2021,3,2022
+214,IND,India,interstate,intensity_2021,3,2022
+220,IND,India,substate,intensity_2021,3,2022
+229,IND,India,interstate,intensity_2021,3,2022
+235,IND,India,intrastate,intensity_2021,3,2022
+236,IND,India,intrastate,intensity_2021,3,2022
+238,IND,India,intrastate,intensity_2021,3,2022
+239,IND,India,substate,intensity_2021,3,2022
+247,IND,India,intrastate,intensity_2021,3,2022
+252,IND,India,intrastate,intensity_2021,3,2022
+253,IND,India,intrastate,intensity_2021,3,2022
+267,IND,India,intrastate,intensity_2021,2,2022
+269,IND,India,intrastate,intensity_2021,3,2022
+270,IND,India,intrastate,intensity_2021,3,2022
+273,IND,India,substate,intensity_2021,3,2022
+274,IND,India,intrastate,intensity_2021,3,2022
+276,IND,India,intrastate,intensity_2021,3,2022
+291,IND,India,intrastate,intensity_2021,2,2022
+292,IND,India,intrastate,intensity_2021,3,2022
+221,IDN,Indonesia,intrastate,intensity_2021,1,2022
+222,IDN,Indonesia,intrastate,intensity_2021,3,2022
+223,IDN,Indonesia,intrastate,intensity_2021,3,2022
+233,IDN,Indonesia,substate,intensity_2021,2,2022
+250,IDN,Indonesia,interstate,intensity_2021,1,2022
+278,IDN,Indonesia,substate,intensity_2021,2,2022
+279,IDN,Indonesia,intrastate,intensity_2021,1,2022
+296,IRN,Iran,interstate,intensity_2021,1,2022
+297,IRN,Iran,intrastate,intensity_2021,3,2022
+298,IRN,Iran,intrastate,intensity_2021,2,2022
+299,IRN,Iran,interstate,intensity_2021,2,2022
+308,IRN,Iran,intrastate,intensity_2021,3,2022
+309,IRN,Iran,interstate,intensity_2021,3,2022
+334,IRN,Iran,interstate,intensity_2021,1,2022
+350,IRN,Iran,intrastate,intensity_2021,3,2022
+351,IRN,Iran,intrastate,intensity_2021,3,2022
+300,IRQ,Iraq,intrastate,intensity_2021,3,2022
+303,IRQ,Iraq,transstate,intensity_2021,5,2022
+311,IRQ,Iraq,intrastate,intensity_2021,1,2022
+338,IRQ,Iraq,intrastate,intensity_2021,3,2022
+346,IRQ,Iraq,intrastate,intensity_2021,3,2022
+301,ISR,Israel,intrastate,intensity_2021,3,2022
+306,ISR,Israel,interstate,intensity_2021,2,2022
+309,ISR,Israel,interstate,intensity_2021,3,2022
+312,ISR,Israel,intrastate,intensity_2021,4,2022
+327,ISR,Israel,interstate,intensity_2021,3,2022
+331,ISR,Israel,interstate,intensity_2021,3,2022
+181,JAM,Jamaica,intrastate,intensity_2021,3,2022
+200,JPN,Japan,interstate,intensity_2021,1,2022
+201,JPN,Japan,interstate,intensity_2021,1,2022
+202,JPN,Japan,interstate,intensity_2021,2,2022
+232,JPN,Japan,interstate,intensity_2021,2,2022
+339,JOR,Jordan,intrastate,intensity_2021,3,2022
+246,KAZ,Kazakhstan,intrastate,intensity_2021,2,2022
+51,KEN,Kenya,intrastate,intensity_2021,1,2022
+67,KEN,Kenya,substate,intensity_2021,3,2022
+78,KEN,Kenya,intrastate,intensity_2021,1,2022
+92,KEN,Kenya,transstate,intensity_2021,5,2022
+126,KEN,Kenya,interstate,intensity_2021,1,2022
+27,XKX,Kosovo,interstate,intensity_2021,2,2022
+50,XKX,Kosovo,intrastate,intensity_2021,1,2022
+347,KWT,Kuwait,intrastate,intensity_2021,1,2022
+349,KWT,Kuwait,intrastate,intensity_2021,1,2022
+251,KGZ,Kyrgyzstan,intrastate,intensity_2021,2,2022
+287,KGZ,Kyrgyzstan,interstate,intensity_2021,4,2022
+206,LAO,Laos,intrastate,intensity_2021,3,2022
+288,LAO,Laos,intrastate,intensity_2021,1,2022
+31,LVA,Latvia,interstate,intensity_2021,1,2022
+306,LBN,Lebanon,interstate,intensity_2021,2,2022
+319,LBN,Lebanon,substate,intensity_2021,1,2022
+321,LBN,Lebanon,intrastate,intensity_2021,3,2022
+38,LBY,Libya,interstate,intensity_2021,2,2022
+340,LBY,Libya,intrastate,intensity_2021,3,2022
+354,LBY,Libya,substate,intensity_2021,1,2022
+205,MYS,Malaysia,interstate,intensity_2021,1,2022
+209,MYS,Malaysia,intrastate,intensity_2021,1,2022
+271,MYS,Malaysia,substate,intensity_2021,1,2022
+244,MDV,Maldives,intrastate,intensity_2021,3,2022
+63,MLI,Mali,intrastate,intensity_2021,1,2022
+64,MLI,Mali,transstate,intensity_2021,5,2022
+77,MLI,Mali,substate,intensity_2021,4,2022
+133,MLI,Mali,substate,intensity_2021,3,2022
+136,MLI,Mali,intrastate,intensity_2021,3,2022
+322,MLI,Mali,transstate,intensity_2021,5,2022
+352,MRT,Mauritania,intrastate,intensity_2021,2,2022
+145,MEX,Mexico,intrastate,intensity_2021,1,2022
+147,MEX,Mexico,substate,intensity_2021,4,2022
+151,MEX,Mexico,intrastate,intensity_2021,2,2022
+157,MEX,Mexico,intrastate,intensity_2021,1,2022
+158,MEX,Mexico,intrastate,intensity_2021,3,2022
+159,MEX,Mexico,interstate,intensity_2021,3,2022
+163,MEX,Mexico,intrastate,intensity_2021,3,2022
+164,MEX,Mexico,intrastate,intensity_2021,4,2022
+21,MDA,Moldova,intrastate,intensity_2021,1,2022
+30,MDA,Moldova,intrastate,intensity_2021,2,2022
+45,MNE,Montenegro,intrastate,intensity_2021,3,2022
+310,MAR,Morocco,interstate,intensity_2021,2,2022
+324,MAR,Morocco,intrastate,intensity_2021,3,2022
+341,MAR,Morocco,intrastate,intensity_2021,2,2022
+55,MOZ,Mozambique,intrastate,intensity_2021,5,2022
+121,MOZ,Mozambique,intrastate,intensity_2021,3,2022
+207,MMR,Myanmar,intrastate,intensity_2021,5,2022
+218,MMR,Myanmar,intrastate,intensity_2021,3,2022
+257,MMR,Myanmar,intrastate,intensity_2021,3,2022
+258,MMR,Myanmar,intrastate,intensity_2021,3,2022
+259,MMR,Myanmar,intrastate,intensity_2021,3,2022
+260,MMR,Myanmar,intrastate,intensity_2021,4,2022
+261,MMR,Myanmar,substate,intensity_2021,3,2022
+262,MMR,Myanmar,intrastate,intensity_2021,1,2022
+265,MMR,Myanmar,intrastate,intensity_2021,3,2022
+282,MMR,Myanmar,intrastate,intensity_2021,3,2022
+294,MMR,Myanmar,intrastate,intensity_2021,4,2022
+224,NPL,Nepal,intrastate,intensity_2021,3,2022
+255,NPL,Nepal,intrastate,intensity_2021,2,2022
+283,NPL,Nepal,intrastate,intensity_2021,2,2022
+162,NIC,Nicaragua,interstate,intensity_2021,1,2022
+167,NIC,Nicaragua,intrastate,intensity_2021,3,2022
+195,NIC,Nicaragua,intrastate,intensity_2021,3,2022
+98,NER,Niger,intrastate,intensity_2021,3,2022
+60,NGA,Nigeria,intrastate,intensity_2021,3,2022
+64,NGA,Nigeria,transstate,intensity_2021,5,2022
+73,NGA,Nigeria,substate,intensity_2021,3,2022
+76,NGA,Nigeria,intrastate,intensity_2021,3,2022
+79,NGA,Nigeria,intrastate,intensity_2021,3,2022
+100,NGA,Nigeria,substate,intensity_2021,5,2022
+108,NGA,Nigeria,substate,intensity_2021,3,2022
+109,NGA,Nigeria,intrastate,intensity_2021,2,2022
+110,NGA,Nigeria,intrastate,intensity_2021,2,2022
+113,NGA,Nigeria,transstate,intensity_2021,5,2022
+198,PRK,North Korea,interstate,intensity_2021,2,2022
+202,PRK,North Korea,interstate,intensity_2021,2,2022
+295,PRK,North Korea,transstate,intensity_2021,1,2022
+28,MKD,North Macedonia,substate,intensity_2021,3,2022
+49,MKD,North Macedonia,intrastate,intensity_2021,1,2022
+10,NOR,Norway,interstate,intensity_2021,2,2022
+342,OMN,Oman,intrastate,intensity_2021,1,2022
+214,PAK,Pakistan,interstate,intensity_2021,3,2022
+248,PAK,Pakistan,intrastate,intensity_2021,3,2022
+249,PAK,Pakistan,substate,intensity_2021,3,2022
+254,PAK,Pakistan,intrastate,intensity_2021,3,2022
+256,PAK,Pakistan,intrastate,intensity_2021,3,2022
+284,PAK,Pakistan,intrastate,intensity_2021,3,2022
+290,PAK,Pakistan,intrastate,intensity_2021,3,2022
+353,PAK,Pakistan,interstate,intensity_2021,3,2022
+211,PNG,Papua New Guinea,substate,intensity_2021,1,2022
+215,PNG,Papua New Guinea,intrastate,intensity_2021,1,2022
+216,PNG,Papua New Guinea,substate,intensity_2021,3,2022
+272,PNG,Papua New Guinea,intrastate,intensity_2021,1,2022
+289,PNG,Papua New Guinea,intrastate,intensity_2021,1,2022
+160,PRY,Paraguay,intrastate,intensity_2021,3,2022
+166,PER,Peru,intrastate,intensity_2021,2,2022
+171,PER,Peru,intrastate,intensity_2021,3,2022
+196,PHL,Philippines,intrastate,intensity_2021,3,2022
+197,PHL,Philippines,intrastate,intensity_2021,4,2022
+199,PHL,Philippines,intrastate,intensity_2021,4,2022
+203,PHL,Philippines,intrastate,intensity_2021,1,2022
+266,PHL,Philippines,intrastate,intensity_2021,3,2022
+280,PHL,Philippines,intrastate,intensity_2021,4,2022
+281,PHL,Philippines,substate,intensity_2021,2,2022
+326,QAT,Qatar,interstate,intensity_2021,1,2022
+75,COG,Republic of Congo,intrastate,intensity_2021,1,2022
+36,ROU,Romania,transstate,intensity_2021,1,2022
+1,RUS,Russia,interstate,intensity_2021,2,2022
+9,RUS,Russia,intrastate,intensity_2021,3,2022
+10,RUS,Russia,interstate,intensity_2021,2,2022
+12,RUS,Russia,interstate,intensity_2021,2,2022
+17,RUS,Russia,interstate,intensity_2021,2,2022
+31,RUS,Russia,interstate,intensity_2021,1,2022
+39,RUS,Russia,interstate,intensity_2021,2,2022
+48,RUS,Russia,intrastate,intensity_2021,3,2022
+200,RUS,Russia,interstate,intensity_2021,1,2022
+329,RUS,Russia,interstate,intensity_2021,2,2022
+59,RWA,Rwanda,interstate,intensity_2021,1,2022
+90,RWA,Rwanda,transstate,intensity_2021,3,2022
+111,RWA,Rwanda,intrastate,intensity_2021,1,2022
+131,RWA,Rwanda,interstate,intensity_2021,1,2022
+304,SAU,Saudi Arabia,transstate,intensity_2021,5,2022
+314,SAU,Saudi Arabia,intrastate,intensity_2021,1,2022
+326,SAU,Saudi Arabia,interstate,intensity_2021,1,2022
+328,SAU,Saudi Arabia,intrastate,intensity_2021,3,2022
+334,SAU,Saudi Arabia,interstate,intensity_2021,1,2022
+355,SAU,Saudi Arabia,transstate,intensity_2021,3,2022
+91,SEN,Senegal,intrastate,intensity_2021,3,2022
+27,SRB,Serbia,interstate,intensity_2021,2,2022
+47,SRB,Serbia,intrastate,intensity_2021,1,2022
+107,SLE,Sierra Leone,intrastate,intensity_2021,3,2022
+205,SGP,Singapore,interstate,intensity_2021,1,2022
+36,SVK,Slovakia,transstate,intensity_2021,1,2022
+23,SVN,Slovenia,interstate,intensity_2021,1,2022
+61,SOM,Somalia,intrastate,intensity_2021,1,2022
+83,SOM,Somalia,intrastate,intensity_2021,3,2022
+92,SOM,Somalia,transstate,intensity_2021,5,2022
+103,SOM,Somalia,intrastate,intensity_2021,2,2022
+120,SOM,Somalia,substate,intensity_2021,3,2022
+126,SOM,Somalia,interstate,intensity_2021,1,2022
+54,ZAF,South Africa,intrastate,intensity_2021,3,2022
+96,ZAF,South Africa,substate,intensity_2021,3,2022
+130,ZAF,South Africa,intrastate,intensity_2021,4,2022
+198,KOR,South Korea,interstate,intensity_2021,2,2022
+201,KOR,South Korea,interstate,intensity_2021,1,2022
+202,KOR,South Korea,interstate,intensity_2021,2,2022
+234,KOR,South Korea,interstate,intensity_2021,1,2022
+104,SSD,South Sudan,interstate,intensity_2021,1,2022
+106,SSD,South Sudan,substate,intensity_2021,3,2022
+112,SSD,South Sudan,substate,intensity_2021,5,2022
+134,SSD,South Sudan,intrastate,intensity_2021,3,2022
+11,ESP,Spain,intrastate,intensity_2021,1,2022
+19,ESP,Spain,intrastate,intensity_2021,1,2022
+20,ESP,Spain,interstate,intensity_2021,2,2022
+240,LKA,Sri Lanka,intrastate,intensity_2021,2,2022
+241,LKA,Sri Lanka,substate,intensity_2021,3,2022
+307,PSE,State of Palestine,substate,intensity_2021,2,2022
+327,PSE,State of Palestine,interstate,intensity_2021,3,2022
+74,SDN,Sudan,intrastate,intensity_2021,5,2022
+94,SDN,Sudan,interstate,intensity_2021,3,2022
+104,SDN,Sudan,interstate,intensity_2021,1,2022
+105,SDN,Sudan,intrastate,intensity_2021,1,2022
+106,SDN,Sudan,substate,intensity_2021,3,2022
+118,SDN,Sudan,substate,intensity_2021,3,2022
+122,SDN,Sudan,interstate,intensity_2021,2,2022
+125,SDN,Sudan,intrastate,intensity_2021,3,2022
+302,SDN,Sudan,interstate,intensity_2021,1,2022
+5,SWE,Sweden,intrastate,intensity_2021,3,2022
+303,SYR,Syria,transstate,intensity_2021,5,2022
+305,SYR,Syria,interstate,intensity_2021,2,2022
+317,SYR,Syria,intrastate,intensity_2021,3,2022
+318,SYR,Syria,substate,intensity_2021,3,2022
+331,SYR,Syria,interstate,intensity_2021,3,2022
+332,SYR,Syria,interstate,intensity_2021,2,2022
+343,SYR,Syria,intrastate,intensity_2021,4,2022
+348,SYR,Syria,intrastate,intensity_2021,3,2022
+245,TJK,Tajikistan,intrastate,intensity_2021,1,2022
+287,TJK,Tajikistan,interstate,intensity_2021,4,2022
+53,TZA,Tanzania,intrastate,intensity_2021,1,2022
+237,THA,Thailand,intrastate,intensity_2021,3,2022
+275,THA,Thailand,intrastate,intensity_2021,3,2022
+250,TLS,Timor-Leste,interstate,intensity_2021,1,2022
+72,TGO,Togo,intrastate,intensity_2021,2,2022
+219,TON,Tonga,interstate,intensity_2021,1,2022
+344,TUN,Tunisia,intrastate,intensity_2021,3,2022
+7,TUR,Turkey,interstate,intensity_2021,1,2022
+35,TUR,Turkey,interstate,intensity_2021,2,2022
+38,TUR,Turkey,interstate,intensity_2021,2,2022
+305,TUR,Turkey,interstate,intensity_2021,2,2022
+320,TUR,Turkey,intrastate,intensity_2021,2,2022
+329,TUR,Turkey,interstate,intensity_2021,2,2022
+330,TUR,Turkey,intrastate,intensity_2021,4,2022
+296,ARE,UAE,interstate,intensity_2021,1,2022
+17,USA,USA,interstate,intensity_2021,2,2022
+150,USA,USA,interstate,intensity_2021,2,2022
+159,USA,USA,interstate,intensity_2021,3,2022
+161,USA,USA,interstate,intensity_2021,2,2022
+174,USA,USA,interstate,intensity_2021,1,2022
+191,USA,USA,intrastate,intensity_2021,3,2022
+192,USA,USA,intrastate,intensity_2021,3,2022
+202,USA,USA,interstate,intensity_2021,2,2022
+210,USA,USA,interstate,intensity_2021,2,2022
+299,USA,USA,interstate,intensity_2021,2,2022
+332,USA,USA,interstate,intensity_2021,2,2022
+57,UGA,Uganda,substate,intensity_2021,1,2022
+70,UGA,Uganda,transstate,intensity_2021,5,2022
+102,UGA,Uganda,intrastate,intensity_2021,3,2022
+131,UGA,Uganda,interstate,intensity_2021,1,2022
+24,UKR,Ukraine,intrastate,intensity_2021,3,2022
+25,UKR,Ukraine,intrastate,intensity_2021,3,2022
+26,UKR,Ukraine,intrastate,intensity_2021,2,2022
+36,UKR,Ukraine,transstate,intensity_2021,1,2022
+39,UKR,Ukraine,interstate,intensity_2021,2,2022
+16,GBR,United Kingdom,intrastate,intensity_2021,2,2022
+20,GBR,United Kingdom,interstate,intensity_2021,2,2022
+29,GBR,United Kingdom,intrastate,intensity_2021,3,2022
+40,GBR,United Kingdom,interstate,intensity_2021,2,2022
+148,GBR,United Kingdom,interstate,intensity_2021,1,2022
+168,GBR,United Kingdom,interstate,intensity_2021,1,2022
+287,UZB,Uzbekistan,interstate,intensity_2021,4,2022
+137,VEN,Venezuela,intrastate,intensity_2021,2,2022
+139,VEN,Venezuela,interstate,intensity_2021,1,2022
+142,VEN,Venezuela,intrastate,intensity_2021,4,2022
+161,VEN,Venezuela,interstate,intensity_2021,2,2022
+193,VEN,Venezuela,interstate,intensity_2021,2,2022
+194,VEN,Venezuela,interstate,intensity_2021,2,2022
+231,VNM,Vietnam,interstate,intensity_2021,2,2022
+243,VNM,Vietnam,interstate,intensity_2021,1,2022
+285,VNM,Vietnam,intrastate,intensity_2021,2,2022
+293,VNM,Vietnam,intrastate,intensity_2021,2,2022
+304,YEM,Yemen,transstate,intensity_2021,5,2022
+315,YEM,Yemen,intrastate,intensity_2021,3,2022
+345,YEM,Yemen,substate,intensity_2021,3,2022
+355,YEM,Yemen,transstate,intensity_2021,3,2022
+52,ZWE,Zimbabwe,intrastate,intensity_2021,3,2022
+62,SWZ,eSwatini,intrastate,intensity_2021,3,2022

@@ -1,0 +1,81 @@
+iso3,people_in_need,climate_vulnerability,Fragility,conflict,food_insecurity
+AFG,18.4,very vulnerable,High,5,3
+AGO,1.35,vulnerable,High,3,3
+ARM,0.09,resilient,,3,
+AZE,0,slightly vulnerable,,3,
+BDI,2.4,very vulnerable,Highest,3,2
+BFA,3.533773,very vulnerable,Low,5,2
+BGD,1.36,very vulnerable,Moderate,3,
+BRA,0.49,resilient,,4,
+CAF,2.8,very vulnerable,Highest,5,3
+CHN,0.2,resilient,,3,
+CMR,4.406243,vulnerable,High,5,2
+COD,19.616782,very vulnerable,Highest,5,3
+COG,1.2,vulnerable,Highest,1,
+COL,8.5,slightly vulnerable,,4,
+CRI,0.04,resilient,,,
+DJI,0.31,vulnerable,Moderate,3,2
+DZA,0,resilient,,3,
+ECU,0.42,slightly vulnerable,,3,
+EGY,1.44,slightly vulnerable,,3,
+ERI,2.58,very vulnerable,Highest,5,
+ESP,0.12,very resilient,,2,
+ETH,23.902819,very vulnerable,Moderate,5,3
+FJI,0.01,slightly vulnerable,,1,
+GRC,0.02,very resilient,,3,
+GTM,3.8,vulnerable,Moderate,3,2
+HND,3.3,vulnerable,Moderate,3,3
+HTI,5.05,very vulnerable,Highest,3,3
+IDN,0.06,vulnerable,,3,
+IND,0,vulnerable,,3,
+IRN,3.4,resilient,Moderate,3,
+IRQ,4.39,slightly vulnerable,Highest,5,
+ITA,0.21,very resilient,,,
+JOR,1.46,resilient,,3,
+KEN,3.44,vulnerable,Moderate,5,2
+LBN,3.21,slightly vulnerable,,3,
+LBY,1.3,slightly vulnerable,Moderate,3,
+LSO,0.58,vulnerable,Low,,3
+MAR,0,resilient,,3,
+MDG,1.59,very vulnerable,Low,,3
+MEX,0,slightly vulnerable,,4,
+MLI,5.917269,very vulnerable,High,5,1
+MMR,3.7,very vulnerable,Low,5,
+MOZ,4.11,vulnerable,High,5,2
+MRT,0.09,very vulnerable,Highest,2,2
+MWI,2.64,very vulnerable,,,2
+MYS,0.18,resilient,,1,
+NAM,0.75,vulnerable,,,
+NER,3.821659,very vulnerable,Moderate,3,2
+NGA,16.37,vulnerable,Low,5,2
+NIC,0,slightly vulnerable,Moderate,3,
+NPL,4.9,vulnerable,,3,
+PAK,11,vulnerable,Moderate,3,3
+PER,1.31,slightly vulnerable,,3,
+PHL,2.52,vulnerable,,4,
+PRK,10.43,vulnerable,High,2,
+PSE,3.81,,High,3,
+RWA,0.14,very vulnerable,,3,
+SDN,14.3,very vulnerable,Highest,5,2
+SEN,0.51,very vulnerable,,3,2
+SLV,1.7,slightly vulnerable,,3,2
+SOM,7.74,very vulnerable,Highest,5,2
+SSD,8.310533,,Highest,5,4
+SWZ,0.37,vulnerable,,3,3
+SYR,13.4,vulnerable,Highest,5,
+TCD,6.4,very vulnerable,Highest,5,1
+THA,0.09,slightly vulnerable,,3,
+TLS,0.01,vulnerable,,1,
+TTO,0.06,resilient,,,
+TUN,0,resilient,,3,
+TUR,2.42,very resilient,,4,
+TZA,0.29,very vulnerable,Low,1,2
+UGA,1.53,very vulnerable,Low,5,2
+UKR,3.4,resilient,,3,
+VCT,0.01,,,,
+VEN,14.8,resilient,Moderate,4,
+VNM,1,vulnerable,,2,
+VUT,0.12,very vulnerable,,,
+YEM,24.16,very vulnerable,Highest,5,3
+ZMB,1.68,vulnerable,High,,2
+ZWE,7,vulnerable,High,3,3
